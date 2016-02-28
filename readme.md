@@ -6,6 +6,6 @@
 # 関連資料
 - [発表スライド](https://www.slideshare.net/saireya/ss-58806956)
 - [授業資料(スライド、指導案、ワークシート)](http://saireya.hateblo.jp/entry/class/communication)
-- [論文(Markdown版)](https://bitbucket.org/saireya/thesis-cis2016/src/master/thesis-comm.md)
+- [論文(Markdown版)](https://bitbucket.org/saireya/thesis-communication-cis2016/src/master/thesis-comm.md)
 - [論文(docx版)](https://www.slideshare.net/saireya/ss-58806956)
-- [ソース](https://bitbucket.org/saireya/thesis-cis2016)
+- [ソース](https://bitbucket.org/saireya/thesis-communication-cis2016)
