@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../texml2html.xsl"?>
+<log title="コミュニケーション・情報・メディアの \\ 統合モデルに基づく教育実践" by="大西 洋, 藤岡 健史 \\ (京都市立西京高等学校)" slide="1" embed="1" bib="slide-comm">
+<article>
+<s h="Background">
+<frame title="\insertsection">
+<block title="学習指導要領における「コミュニケーション」の記載例">
+	<ul>
+		<li>情報科「社会と情報」の目的<br/>「<em>効果的にコミュニケーションを行う能力</em>」の涵養</li>
+		<li>外国語科「コミュニケーション英語I,II」</li>
+	</ul>
+</block>
+</frame>
+
+<frame title="\insertsection">
+<block title="文科省による「コミュニケーション能力」の定義">
+	<ul>
+		<li>学習指導要領「コミュニケーション英語I,II」<br/>
+			「<em>情報や考え</em>などを<em>的確に理解</em>したり<em>適切に伝え</em>たりする」能力</li>
+		<li>文科省「子どもたちのコミュニケーション能力を育むために」<br/>
+			「<em>いろいろな価値観や背景</em>をもつ人々による集団において、<em>相互関係</em>を深め、<em>共感</em>しながら、<em>人間関係やチームワーク</em>を形成し、<em>正解のない課題や経験したことのない問題</em>について、<em>対話</em>をして<em>情報を共有</em>し、自ら<em>深く考え</em>、相互に<em>考えを伝え、深め合い</em>つつ、<em>合意形成</em>・<em>課題解決</em>する能力」</li>
+		<li mark="⇨">「<alert>コミュニケーションとはそもそも何なのか?</alert>」が不明瞭</li>
+	</ul>
+</block>
+</frame>
+
+<frame title="\insertsection">
+<block title="研究目的" class="alert">
+	<alert>コミュニケーションを主軸</alert>とする共通教科情報のカリキュラム作成
+	<ul>
+		<li>情報・メディア・デザインなどの主要概念と結びつけて体系化</li>
+		<li>勤務校の「社会と情報」での授業実践とその評価</li>
+	</ul>
+</block>
+
+<block title="Approach" class="alert">
+	<alert>社会システム理論</alert>と<alert>基礎情報学</alert>の知見を修正・統合した<alert>モデル</alert>を作成
+	<ul>
+		<li>西垣による3層の情報概念</li>
+		<li>N.Luhmannによるコミュニケーション・モデルとメディア概念</li>
+	</ul>
+</block>
+</frame>
+</s>
+
+
+<s h="Previous works">
+<frame title="\insertsection">
+<block title="西垣による情報概念の層化">
+	<alert>情報(information)</alert>を3層に層化(西垣『基礎情報学』(2004))
+	<ol>
+		<li><alert>生命情報</alert><br/>
+			「<em>生命の内部(in)に意味を形成(form)</em>させるもの」</li>
+		<li><alert>社会情報</alert><br/>
+			「<em>記号・言語と意味が一体化</em>した生命情報」<br/>
+			意味を互いに理解することで、生命が社会活動を送ることが可能</li>
+		<li><alert>機械情報</alert><br/>
+			「<em>意味が潜在化</em>した社会情報」<br/>
+			機械的な情報の複製や、計算機による高速な処理が可能</li>
+	</ol>
+</block>
+<img src="inclusion.svg" scale=".75" title="3層の情報概念"/>
+</frame>
+
+<frame title="\insertsection">
+<block title="N.Luhmannのメディア概念">
+	コミュニケーションにおいて情報を媒介するもの
+	<ul>
+		<li><alert>伝播メディア</alert>:
+			<em>機械情報</em>を<em>物理的</em>に媒介<br/>
+			遠隔の相手とのコミュニケーションを可能にするメディア<br/>
+			例: 紙や書籍、動画や放送、電話、ネット、メール、SNS</li>
+		<li><alert>成果メディア</alert>:
+			<em>社会情報</em>を<em>論理的</em>に媒介<br/>
+			コミュニケーションを円滑にし、成果を出やすくなるメディア<br/>
+			例: 真理、愛、貨幣、法、権力、宗教、芸術、組織文化</li>
+	</ul>
+	(Borch『ニクラス・ルーマン入門――社会システム理論とは何か』(2014))<br/>
+	(西垣『生命と機械をつなぐ知――基礎情報学入門』(2012))
+</block>
+</frame>
+
+<frame title="\insertsection">
+<block title="N.Luhmannのコミュニケーション・モデル">
+	コミュニケーションを<em>4つの選択</em>と定義
+	<ol>
+		<li><alert>情報</alert>の選択<br/>
+			送り手と受け手でやりとりされる情報が選択される</li>
+		<li><alert>伝達</alert>の選択<br/>
+			選ばれた情報をどう伝えるかが選択される</li>
+		<li><alert>理解</alert>の選択<br/>
+			伝達された事柄をどう理解するかが選択される</li>
+		<li><alert>理解の受容</alert>の選択<br/>
+			理解を受け入れるか否か、という理解の受容が選択される</li>
+	</ol>
+	これらの<em>繰り返し</em>により、コミュニケーションが継続していく<br/>
+	(Luhmann「What is Communication?」(1992))
+</block>
+</frame>
+</s>
+
+
+<s h="授業設計">
+<frame title="\insertsection">
+<block title="コミュニケーション・モデルの修正1">
+	Luhmannのモデルを次のように修正
+	<ul>
+		<li>それぞれの<em>「選択」の主体を明示</em><br/>
+			前2つの選択は送り手が、後2つの選択は受け手が行うと明示</li>
+		<li>「伝達(utterance)の選択」を「<alert>表現の選択</alert>」に修正<br/>
+			この選択は<alert>デザイン</alert>に相当<br/>
+			(デザインとコミュニケーションの関係を明瞭化)</li>
+	</ul>
+</block>
+</frame>
+
+<frame title="\insertsection">
+<img src="model-luhmann.svg" scale=".5" title="Luhmannモデルへの修正1"/>
+</frame>
+
+<frame title="\insertsection">
+<block title="コミュニケーション・モデルの修正2">
+	Luhmannのモデルと西垣の情報概念を統合
+	<ul>
+		<li>「<em>情報</em>の選択」での「情報」は「<alert>生命情報</alert>」</li>
+		<li>「<em>表現</em>の選択」で記号・言語が付加されるので「<alert>社会情報</alert>」に</li>
+		<li>(これは、受け手にとっては意味が潜在化した「<alert>機械情報</alert>」)</li>
+		<li>「<em>理解</em>の選択」で受け手は記号・言語から意味を見いだし「<alert>社会情報</alert>」に</li>
+		<li>「<em>理解の受容</em>の選択」で受け入れた情報は受け手の「<alert>生命情報</alert>」になる</li>
+	</ul>
+</block>
+</frame>
+
+<frame title="\insertsection">
+<img src="model-luhmann2.svg" scale=".5" title="Luhmannモデルへの修正2"/>
+</frame>
+
+<frame title="\insertsection">
+<img src="model-comm.svg" scale=".5" title="提案モデル"/>
+</frame>
+</s>
+
+
+<s h="授業実践">
+<frame title="\insertsection">
+<block>
+	京都市立西京高校1年生(7クラス)で実施
+	<ul>
+		<li>「社会と情報」の授業中、3層の情報概念の後に実施</li>
+		<li>2時間×2回の授業を実施し、後日にアンケートを実施</li>
+	</ul>
+</block>
+<img src="plan.svg" scale=".5" title="年間計画における本実践の位置づけ"/>
+</frame>
+
+<frame title="\insertsection">
+<block title="前半: コミュニケーション・モデル">
+	提案モデルの流れを、発問を交えつつ説明
+	<ul>
+		<li>異性間の告白の場面を例に、それぞれの選択を解説</li>
+		<li>特に「表現の選択」「理解の選択」を焦点化</li>
+	</ul>
+</block>
+
+<block title="後半: メディアとその影響">
+	2種類のメディアと、メディアが及ぼす影響を説明
+	<ul>
+		<li>成果メディアは、「愛」「真理」など一般的なものと「組織文化」を例示</li>
+		<li>メディアが個人と社会に及ぼす影響を説明</li>
+	</ul>
+</block>
+</frame>
+
+<frame title="\insertsection">
+<block title="授業評価アンケートの自由記述欄より">
+	<ul>
+		<li><em>情報の選択や、受け取り方</em>が普段は意識していないけれど大切なんだと感じました。</li>
+		<li>情報の<em>伝え方によって相手が受け止めるものが違う</em>ということが分かった。送り手がしっかりとメディアを選択する必要があると感じた。</li>
+		<li>情報は身近だけれど、とても難しいものだと感じた。同じことを表していても<em>表現の仕方によって伝わり方が全く違った</em>し、自分も普段の会話やラインで気をつけようと思った。</li>
+	</ul>
+</block>
+</frame>
+</s>
+
+
+<s h="Conclusion">
+<frame title="\insertsection">
+<block>
+	N.Luhmannのコミュニケーション・モデルを修正し、それに基づく授業を展開
+	<ul>
+		<li>情報・メディア・コミュニケーションを<alert>統一的な視点</alert>で提示</li>
+		<li>プレゼンなどの応用での土台となる<alert>基礎的な理解</alert>を与えた</li>
+	</ul>
+</block>
+
+<block title="Future tasks">
+	<ul>
+		<li>プレゼンテーションやデザインの単元との統合</li>
+		<li>提案モデルに基づく課題の作成<br/>(失敗しているコミュニケーションの分析など)</li>
+		<li>提案モデルに基づく教材の充実<br/>(対象とする生徒に合わせる)</li>
+	</ul>
+</block>
+</frame>
+
+</s>
+</article>
+</log>
