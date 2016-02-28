@@ -5,7 +5,6 @@ An education practice based on a uniform model of communication, information and
 
 キーワード：コミュニケーション　情報　表現　理解　メディア
 
-<!-- more -->
 
 はじめに
 ========
