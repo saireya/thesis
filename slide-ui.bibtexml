@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../bibtexml2html.xsl"?>
+<file xmlns="http://bibtexml.sf.net/">
+
+<entry id="userblue"><misc>
+	<author>OpenClipart</author>
+	<title>user\_blue.svg</title>
+	<url>http://www.clker.com/clipart-2491.html</url>
+</misc></entry>
+
+<entry id="usermulti"><misc>
+	<author>OpenClipart</author>
+	<title>user\_multi.svg</title>
+	<url>http://www.clker.com/clipart-2492.html</url>
+</misc></entry>
+
+<entry id="ralph"><misc>
+	<author>David Paul Ralph</author>
+	<title>Fundamentals of software design science</title>
+	<url>http://hdl.handle.net/2429/29536</url>
+	<year>2010</year>
+</misc></entry>
+
+<entry id="ralph-j"><misc>
+	<author>京都大学 デザイン学大学院連携プログラム</author>
+	<title>「デザイン」の定義</title>
+	<url>http://www.design.kyoto-u.ac.jp/smalltalk/smalltalk_01</url>
+</misc></entry>
+
+<entry id="admix"><misc>
+	<author>Admix Web</author>
+	<title>Design and Art: Are They the Same?</title>
+	<url>http://www.admixweb.com/2009/11/11/design-and-art-are-they-the-same</url>
+</misc></entry>
+
+<entry id="admix-j"><misc>
+	<author>Webクリエイターボックス</author>
+	<title>アートとデザインの違いは?</title>
+	<url>http://www.webcreatorbox.com/webinfo/art-design</url>
+</misc></entry>
+
+<entry id="sullivan"><book>
+	<author>Louis H. Sullivan</author>
+	<title>サリヴァン自伝</title>
+	<publisher>鹿島出版会</publisher>
+	<isbn>978-4306045828</isbn>
+	<pages>269</pages>
+	<year>1977</year>
+	<note>竹内 大, 藤田 延幸訳</note>
+</book></entry>
+
+<entry id="sullivan-W"><misc>
+	<author>Historic American Buildings Survey</author>
+	<title>Wainwright Building, Seventh \&amp; Chestnut Streets, Saint Louis, Independent City, MO</title>
+	<url>http://www.loc.gov/pictures/item/mo0297</url>
+</misc></entry>
+
+<entry id="sullivan-BC"><misc>
+	<author>Carptrash</author>
+	<title>File:SullivanNY1.jpg - Wikipedia</title>
+	<url>http://en.wikipedia.org/wiki/File:SullivanNY1.jpg</url>
+</misc></entry>
+
+<entry id="ld"><misc>
+	<author>レイナ</author>
+	<title>掛け算の筆算 スペース足りない - 小学生の家庭学習 これからどうする?</title>
+	<url>http://smile20aw.blog.fc2.com/blog-entry-4.html</url>
+</misc></entry>
+
+<entry id="badui-door"><misc>
+	<author>楽しいBADUIの世界</author>
+	<title>開けるのに戸惑ってしまう扉</title>
+	<url>http://badui.org/articles/pull\_or\_push.html</url>
+</misc></entry>
+
+<entry id="badui-order"><misc>
+	<author>楽しいBADUIの世界</author>
+	<title>遊ばれているとしか思えない靴箱の数字</title>
+	<url>http://badui.org/articles/funny\_order.html</url>
+</misc></entry>
+
+<entry id="badui-toilet"><misc>
+	<author>楽しいBADUIの世界</author>
+	<title>貼り方を間違えてしまってBADUIに</title>
+	<url>http://badui.org/articles/maru\_sankaku.html</url>
+</misc></entry>
+
+<entry id="kokuyo"><misc>
+	<author>コクヨS\&amp;T</author>
+	<title>ドット入り罫線シリーズ</title>
+	<url>http://www.kokuyo-st.co.jp/stationery/dotkei</url>
+</misc></entry>
+
+<entry id="tominaga"><misc>
+	<author>富永冴樹</author>
+	<title>アクセシビリティキャンプ東京 第6回 と駅時刻表の色について - 富永日記帳</title>
+	<url>http://w0s.jp/diary/285</url>
+</misc></entry>
+
+<entry id="fuku"><misc>
+	<author>福島県</author>
+	<title>カラーユニバーサルデザインガイド</title>
+	<url>http://www.pref.fukushima.lg.jp/sec/16005c/ud-cudguide04.html</url>
+</misc></entry>
+
+<entry id="asd"><misc>
+	<title>アスペな大人</title>
+	<url>http://asperger.nerim.info</url>
+</misc></entry>
+
+<entry id="asahi"><misc>
+	<author>朝日新聞</author>
+	<title>電車内の足投げ出し、新型座席で解決 苦情なくなる</title>
+	<url>http://digital.asahi.com/articles/ASGBQ5DGSGBQULFA01Z.html</url>
+</misc></entry>
+
+<entry id="kyoto-bus"><misc>
+	<author>京都市交通局</author>
+	<title>市バスの「分かりやすさ向上」のためのデザインマニュアルの策定と案内表示の一新について</title>
+	<url>http://www.city.kyoto.lg.jp/kotsu/page/0000161667.html</url>
+</misc></entry>
+
+</file>

@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../texml2html.xsl"?>
+<log title="BADUIからユニバーサルデザインへ展開する \\ デザイン教育実践" by="大西 洋, 藤岡 健史 \\ (京都市立西京高等学校)" slide="1" embed="1" bib="slide-ui">
+<article>
+<s h="Background">
+<frame title="\insertsection">
+<block title="専門教科情報「情報デザイン」の学習指導要領">
+	「<alert>適切な情報伝達やコミュニケーションの要件及び手法</alert>を取り上げ，情報デザインの目的や役割及び重要性について扱う」<br/>
+	<ul>
+		<li><em>情報やコミュニケーションとデザインの間の密接な関係性</em>を示唆</li>
+		<li>「情報」と「コミュニケーション」は情報科で扱う根本概念</li>
+		<li mark="⇨">専門学科でない生徒も、<alert>デザインを学ぶ</alert>ことは有意義</li>
+	</ul>
+</block>
+
+<block title="共通教科情報の学習指導要領">
+	デザインに関する記述は不十分
+	<ul>
+		<li>「<em>人間にとって利用しやすい</em>情報システムの在り方(中略)について考えさせる」(社会と情報)</li>
+		<li>「情報機器や情報通信ネットワークの様々な機能を<em>簡単に操作できるようにする工夫</em>及び高齢者や障害者による<em>利用を容易にする工夫</em>などについても扱う」(情報の科学)</li>
+		<li mark="⇨">各社教科書も、語句とユニバーサルデザイン(UD)の<em>事例紹介</em>に留まる</li>
+	</ul>
+</block>
+</frame>
+
+<frame title="\insertsection">
+<block title="Ralphによるデザインの定義(Ralph, 2010)">
+	与えられた環境で<alert>目的を達成</alert>するために、様々な<alert>制約</alert>下で、利用可能な要素を組み合わせて、要求を満足する対象物の仕様を生み出すこと<cite id="ralph"/><cite id="ralph-j"/>
+	<ul>
+		<li mark="⇨">重要だが、極めて抽象的で理解しにくい</li>
+		<li mark="⇨">これを暗記しても、デザインができるようにはならない</li>
+	</ul>
+</block>
+
+<block title="研究目的" class="alert">
+	<alert>共通教科情報で行うべきデザイン教育</alert>のカリキュラム作成
+	<ul>
+		<li>高校生が学ぶべきデザインの基礎事項を整理</li>
+		<li>勤務校の「社会と情報」での授業実践とその評価</li>
+	</ul>
+</block>
+</frame>
+
+
+</s>
+<s h="授業設計">
+<frame title="\insertsection">
+<block title="初学者がもつ「デザイン」への誤解の例" class="example">
+	<ul>
+		<li>「デザイン」はデザイナー・アーティストなど<em>特殊な職業</em>の人が行う</li>
+		<li>「デザイン」は美術の時間・プレゼンテーションなど<em>特殊な機会</em>に行う</li>
+		<li mark="⇨">デザインの<alert>普遍性</alert>に対する誤解</li>
+		<li>「デザイン」は<em>才能や感覚(センス)</em>に依り、特殊な能力が必要</li>
+		<li mark="⇨">デザインの<alert>論理性</alert>に対する誤解</li>
+		<li>「デザイン」はデザイナーの<em>自己表現</em>のために行う</li>
+		<li mark="⇨">デザインの<alert>人間中心主義</alert>に対する誤解</li>
+	</ul>
+</block>
+</frame>
+
+<frame title="\insertsection">
+<block title="扱うべきデザインの基礎事項">
+	デザインを行う際に必要な基本的理解と、実際にデザインを扱う能力に分類
+</block>
+
+<block title="デザインの基本的理解" class="alert">
+	デザインを行うにあたり必要な基本的知識
+	<ol>
+		<li>デザインは日常生活の中で<em>誰もが行う、身近なこと</em>である点(<alert>普遍性</alert>)</li>
+		<li>デザインは論理的に決定されるもので、<em>才能や感覚に依拠しない</em>点<br/>(<alert>論理性</alert>)</li>
+		<li>デザイン能力の向上には、(デザインの対象である)<em>人間について学ぶ</em>ことが必要だという点(<alert>人間中心主義</alert>)</li>
+	</ol>
+</block>
+
+<block title="デザイン・リテラシー" class="alert">
+	実際にデザインを扱う上で必要な能力
+	<ol>
+		<li>デザインを<em>批判的に見る</em>(<alert>「読む」</alert>)能力</li>
+		<li>デザインを<em>作る</em>(<alert>「書く」</alert>)能力</li>
+	</ol>
+</block>
+</frame>
+
+
+</s>
+<s h="授業実践">
+<frame title="\insertsection">
+<block>
+	京都市立西京高校1年生(7クラス)で実施
+	<ul>
+		<li>「社会と情報」の授業中、プレゼンテーションの後に実施<br/>
+			(生徒もデザインについて関心・経験が多少ある状況)</li>
+		<li>2時間の授業の実施後に課題を課し、返却時にフィードバックを実施</li>
+	</ul>
+</block>
+<img src="slide-CIS2015-lecture.svg" scale=".4" title="授業実践の全体図"/>
+</frame>
+
+<frame title="\insertsection">
+<block title="前半: デザインの基本的理解">
+	<ol>
+		<li>授業の<em>動機付け</em>として、デザインの普遍性について説明</li>
+		<li>デザインとアートの違いを述べたblog記事<cite id="admix"/><cite id="admix-j"/>と、アメリカの建築家Louis Sullivanの理念「Form follows function」<cite id="sullivan"/>を基にデザインの論理性を説明し、従ってデザイン能力は学べば向上するものだと伝える</li>
+		<li>デザインの対象である<em>相手(人間)を学び</em>、それに合わせたデザインを考える(人間中心主義)ことで、より良いデザイン(UD)ができると伝える</li>
+	</ol>
+</block>
+</frame>
+
+<frame title="\insertsection">
+<block title="後半: デザイン・リテラシー">
+	授業では問題のあるデザイン(BADUI)からUDへの流れを具体例で解説
+	<ol>
+		<li>人々のもつ特性を紹介(例: 色覚異常)</li>
+		<li>その人々にとって不便なデザインを示す<br/>
+			(例: 系列を判別しにくい色で区別しているため、系列を見分けられない折れ線グラフ)</li>
+		<li><em>なぜそれが不便なのか</em>を伝える<br/>
+			(例: 色で対応付けを表現しているから)</li>
+		<li>その人々にとって便利なデザインを示す<br/>
+			(例: 線種や線の太さでも対応付けを行う)</li>
+		<li>そのデザインが、特性をもたない<alert>他の人々も便利</alert>な(よりuniversalな)ことを伝える<br/>
+			(例: カラー資料を白黒コピーしても区別可能)</li>
+		<li mark="※">実際に扱った特性は「学習障害」「色覚異常」「自閉スペクトラム障害」</li>
+	</ol>
+</block>
+
+</frame>
+
+<frame title="\insertsection">
+<block title="課題">
+	締切まで2週間程度の期間を設け、<alert>BADUIを見つけ改善</alert>する課題を提示<br/>
+	※<em>身近なデザインを批判的に見る過程が重要</em>なため、締切まで時間をとる
+</block>
+<img src="slide-CIS2015-hw.svg" scale=".5" title="課題の構成図"/>
+</frame>
+
+<frame title="\insertsection">
+<block title="提出課題の評価">
+	題材点と内容点の合計点でデザイン・リテラシーを評価
+	<ul>
+		<li><em>題材点</em>: 選んだBADUIの良さを評価</li>
+		<li><em>内容点</em>: 問題分析と改善案を評価</li>
+		<li mark="※">デザインの基本的理解に関しては、別に評価</li>
+	</ul>
+</block>
+<tabular src="slide-CIS2015-criteria.csv" align="r|p{13\zw}p{13\zw}" title="評価基準"/>
+</frame>
+
+<frame title="\insertsection">
+<block title="得点分布">
+	<ul>
+		<li>合計点はほぼ均等に分布</li>
+		<li>題材点は、定番のものでも2点としたため、1点が少ない</li>
+		<li>内容点は、安易な改善案は1点としたため、1点が多い<br/>
+			(「手すりがない」の改善案に「手すりをつける」など)</li>
+	</ul>
+</block>
+<img src="slide-CIS2015-criteria.svg" scale=".75" title="得点分布(提出分)"/>
+</frame>
+
+<frame title="\insertsection">
+<block title="優秀な取り組み例" class="example">
+	<ol>
+		<li>ルーズリーフのバインダー</li>
+		<li>バインダーのリングを開ける部分に左向きの矢印が表記されているが、実際は右斜め下向きにスライドしないとリングが開かない</li>
+		<li>矢印の向きと開け方が合っていないから</li>
+		<li>右斜め下向きの矢印に変更する。もしくは、代表的なバインダーでは下向きにスライドすればリングが開くので、その開け方と同様にする。</li>
+	</ol>
+</block>
+</frame>
+
+<frame title="\insertsection">
+<block title="感想(抜粋)" class="example">
+	<ul>
+		<li>本当の意味での<em>「デザイン」は使う相手、対象のことを考えるという理念が根本</em>にあるのだと思いました。</li>
+		<li>すべての人がふつうに過ごせるデザインを考えることは難しいと思いますが、<em>デザインによって使いやすさが変化</em>するので重要性を感じました。</li>
+		<li><em>ユニバーサルデザインなどとかっこつけた言い方をせずに、そういうデザインの社会が当たり前の世の中になればいい</em>のにな、と思った。</li>
+	</ul>
+</block>
+<img src="slide-CIS2015-impression.svg" scale=".5" title="感想の分類結果"/>
+</frame>
+
+
+</s>
+<s h="Conclusion">
+<frame title="\insertsection">
+<block>
+	高校生が学ぶべきデザインの基礎事項として、デザインの基本的理解とデザイン・リテラシーを提案し、それに基づく授業を展開
+	<ul>
+		<li>デザインの<alert>基本的理解</alert>: デザインの普遍性、論理性、人間中心主義</li>
+		<li><alert>デザイン・リテラシー</alert>: デザインを「読む」力、デザインを「書く」力</li>
+	</ul>
+</block>
+
+<block title="Future tasks">
+	<alert>UDの限界</alert>に関する内容を扱い、課題解決学習として展開させる
+	<ul>
+		<li>UDは完璧なのか? 本当にuniversalなデザインは存在するのか?</li>
+		<li>存在しないとするならば、何を基にデザインするか?</li>
+	</ul>
+</block>
+</frame>
+
+</s>
+</article>
+</log>
