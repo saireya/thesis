@@ -8,7 +8,7 @@
 <!--
 - [発表スライド(HTML版)](http://saireya.github.io/thesis/2016zen-system/slide.tex.xml)
 - [発表スライド(PDF版)](https://www.slideshare.net/saireya/ss-)
-- [論文(Markdown版)](thesis.md)
 -->
+- [論文(Markdown版)](thesis.md)
 - [論文(PDF版)](https://www.scribd.com/doc/319242230)
 - [ソース](https://github.com/saireya/thesis-manuscript/tree/master/2016zen-system)

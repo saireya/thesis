@@ -1,6 +1,8 @@
 # Summary
 * 情報教育系
 	* [システム論に基づく情報教育の授業計画と教育実践](2016zen-system/README.md)
+		* [要旨](2016zen-system/README.md)
+		* [本文](2016zen-system/thesis.md)
 	* [コミュニケーション・情報・メディアの統合モデルに基づく教育実践](2016CIS-communication/README.md)
 		* [要旨](2016CIS-communication/README.md)
 		* [本文](2016CIS-communication/thesis.md)
