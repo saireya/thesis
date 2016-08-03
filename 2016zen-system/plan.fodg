@@ -1,0 +1,2341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:smil="urn:oasis:names:tc:opendocument:xmlns:smil-compatible:1.0" xmlns:anim="urn:oasis:names:tc:opendocument:xmlns:animation:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.graphics">
+ <office:meta><meta:creation-date>2015-12-04T15:54:10.464000000</meta:creation-date><dc:title>青系-Draw</dc:title><meta:editing-duration>PT3H35M30S</meta:editing-duration><meta:editing-cycles>44</meta:editing-cycles><meta:generator>LibreOffice/5.1.4.2$Windows_X86_64 LibreOffice_project/f99d75f39f1c57ebdd7ffc5f42867c12031db97a</meta:generator><dc:date>2016-08-02T17:54:50.421000000</dc:date><meta:document-statistic meta:object-count="176"/><meta:template xlink:type="simple" xlink:actuate="onRequest" xlink:title="青系-Draw" xlink:href="../AppData/Roaming/LibreOffice/4/user/template/青系-Draw1.otg" meta:date="2015-12-04T15:54:09.386000000"/></office:meta>
+ <office:settings>
+  <config:config-item-set config:name="ooo:view-settings">
+   <config:config-item config:name="VisibleAreaTop" config:type="int">7568</config:config-item>
+   <config:config-item config:name="VisibleAreaLeft" config:type="int">-409</config:config-item>
+   <config:config-item config:name="VisibleAreaWidth" config:type="int">22007</config:config-item>
+   <config:config-item config:name="VisibleAreaHeight" config:type="int">12292</config:config-item>
+   <config:config-item-map-indexed config:name="Views">
+    <config:config-item-map-entry>
+     <config:config-item config:name="ViewId" config:type="string">view1</config:config-item>
+     <config:config-item config:name="GridIsVisible" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="GridIsFront" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="IsSnapToGrid" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="IsSnapToPageMargins" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="IsSnapToSnapLines" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="IsSnapToObjectFrame" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="IsSnapToObjectPoints" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="IsPlusHandlesAlwaysVisible" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="IsFrameDragSingles" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="EliminatePolyPointLimitAngle" config:type="int">1500</config:config-item>
+     <config:config-item config:name="IsEliminatePolyPoints" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="VisibleLayers" config:type="base64Binary">//////////////////////////////////////////8=</config:config-item>
+     <config:config-item config:name="PrintableLayers" config:type="base64Binary">//////////////////////////////////////////8=</config:config-item>
+     <config:config-item config:name="LockedLayers" config:type="base64Binary"/>
+     <config:config-item config:name="NoAttribs" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="NoColors" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="RulerIsVisible" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="PageKind" config:type="short">0</config:config-item>
+     <config:config-item config:name="SelectedPage" config:type="short">2</config:config-item>
+     <config:config-item config:name="IsLayerMode" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="IsDoubleClickTextEdit" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="IsClickChangeRotation" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="SlidesPerRow" config:type="short">4</config:config-item>
+     <config:config-item config:name="EditMode" config:type="int">0</config:config-item>
+     <config:config-item config:name="VisibleAreaTop" config:type="int">7568</config:config-item>
+     <config:config-item config:name="VisibleAreaLeft" config:type="int">-409</config:config-item>
+     <config:config-item config:name="VisibleAreaWidth" config:type="int">20234</config:config-item>
+     <config:config-item config:name="VisibleAreaHeight" config:type="int">11304</config:config-item>
+     <config:config-item config:name="GridCoarseWidth" config:type="int">1000</config:config-item>
+     <config:config-item config:name="GridCoarseHeight" config:type="int">1000</config:config-item>
+     <config:config-item config:name="GridFineWidth" config:type="int">500</config:config-item>
+     <config:config-item config:name="GridFineHeight" config:type="int">500</config:config-item>
+     <config:config-item config:name="GridSnapWidthXNumerator" config:type="int">500</config:config-item>
+     <config:config-item config:name="GridSnapWidthXDenominator" config:type="int">1</config:config-item>
+     <config:config-item config:name="GridSnapWidthYNumerator" config:type="int">500</config:config-item>
+     <config:config-item config:name="GridSnapWidthYDenominator" config:type="int">1</config:config-item>
+     <config:config-item config:name="IsAngleSnapEnabled" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="SnapAngle" config:type="int">1500</config:config-item>
+     <config:config-item config:name="ZoomOnPage" config:type="boolean">false</config:config-item>
+    </config:config-item-map-entry>
+   </config:config-item-map-indexed>
+  </config:config-item-set>
+  <config:config-item-set config:name="ooo:configuration-settings">
+   <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="BitmapTableURL" config:type="string">$(user)/config/standard.sob</config:config-item>
+   <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
+   <config:config-item config:name="ColorTableURL" config:type="string">$(user)/config/standard.soc</config:config-item>
+   <config:config-item config:name="DashTableURL" config:type="string">$(user)/config/standard.sod</config:config-item>
+   <config:config-item config:name="DefaultTabStop" config:type="int">1250</config:config-item>
+   <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item-map-indexed config:name="ForbiddenCharacters">
+    <config:config-item-map-entry>
+     <config:config-item config:name="Language" config:type="string">en</config:config-item>
+     <config:config-item config:name="Country" config:type="string">US</config:config-item>
+     <config:config-item config:name="Variant" config:type="string"/>
+     <config:config-item config:name="BeginLine" config:type="string"/>
+     <config:config-item config:name="EndLine" config:type="string"/>
+    </config:config-item-map-entry>
+    <config:config-item-map-entry>
+     <config:config-item config:name="Language" config:type="string">ja</config:config-item>
+     <config:config-item config:name="Country" config:type="string">JP</config:config-item>
+     <config:config-item config:name="Variant" config:type="string"/>
+     <config:config-item config:name="BeginLine" config:type="string">!%),.:;?]}¢°’”‰′″℃、。々〉》」』】〕ぁぃぅぇぉっゃゅょゎ゛゜ゝゞァィゥェォッャュョヮヵヶ・ーヽヾ！％），．：；？］｝｡｣､･ｧｨｩｪｫｬｭｮｯｰﾞﾟ¢</config:config-item>
+     <config:config-item config:name="EndLine" config:type="string">$([¥{£¥‘“〈《「『【〔＄（［｛｢£￥</config:config-item>
+    </config:config-item-map-entry>
+   </config:config-item-map-indexed>
+   <config:config-item config:name="GradientTableURL" config:type="string">$(user)/config/standard.sog</config:config-item>
+   <config:config-item config:name="HatchTableURL" config:type="string">$(user)/config/standard.soh</config:config-item>
+   <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsPrintBooklet" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsPrintBookletBack" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="IsPrintBookletFront" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="IsPrintDate" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsPrintFitPage" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsPrintHiddenPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="IsPrintPageName" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsPrintTilePage" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsPrintTime" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="LineEndTableURL" config:type="string">$(user)/config/standard.soe</config:config-item>
+   <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MeasureUnit" config:type="short">3</config:config-item>
+   <config:config-item config:name="PageNumberFormat" config:type="int">4</config:config-item>
+   <config:config-item config:name="ParagraphSummation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintQuality" config:type="int">0</config:config-item>
+   <config:config-item config:name="PrinterIndependentLayout" config:type="string">low-resolution</config:config-item>
+   <config:config-item config:name="PrinterName" config:type="string">Foxit Reader PDF Printer</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">1AX+/0ZveGl0IFJlYWRlciBQREYgUHJpbnRlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARm94aXQgUmVhZGVyIFBERiBQcmludGVyIERyaXZlcgAWAAEA+gQAAAAAAAAEAAhSAAAEdAAAM1ROVwAAAAAKAEYAbwB4AGkAdAAgAFIAZQBhAGQAZQByACAAUABEAEYAIABQAHIAaQBuAHQAZQByAAAAAAAAAAAAAAAAAAAAAAABBAEE3AAUBF//gQcBAAkAmgs0CGQAAQAHAFgCAgABAFgCAgAAAEEANAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAgAAAAEAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAABDADoAXABVAHMAZQByAHMAXAAxADQAMAAwADAANQAzAFwAQQBwAHAARABhAHQAYQBcAFIAbwBhAG0AaQBuAGcAXABGAG8AeABpAHQAIABTAG8AZgB0AHcAYQByAGUAXABGAG8AeABpAHQAIABQAEQARgAgAEMAcgBlAGEAdABvAHIAXABGAG8AeABpAHQAIABSAGUAYQBkAGUAcgAgAFAARABGACAAUAByAGkAbgB0AGUAcgBcADEANAA3ADAAMQAwADcAMQA3ADcAXwAzADMAMAA0AF8AXwBmAG8AeABpAHQAdABlAG0AcAAuAHgAbQBsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAASAENPTVBBVF9EVVBMRVhfTU9ERQoARFVQTEVYX09GRg==</config:config-item>
+   <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ScaleDenominator" config:type="int">1</config:config-item>
+   <config:config-item config:name="ScaleNumerator" config:type="int">1</config:config-item>
+   <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
+  </config:config-item-set>
+ </office:settings>
+ <office:scripts>
+  <office:script script:language="ooo:Basic">
+   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ooo:library-embedded ooo:name="Standard"/>
+   </ooo:libraries>
+  </office:script>
+ </office:scripts>
+ <office:font-face-decls>
+  <style:font-face style:name="Liberation Sans" svg:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+  <style:font-face style:name="Liberation Serif" svg:font-family="&apos;Liberation Serif&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+  <style:font-face style:name="DejaVu Sans Condensed" svg:font-family="&apos;DejaVu Sans Condensed&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Lucida Sans" svg:font-family="&apos;Lucida Sans&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Tahoma" svg:font-family="Tahoma" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="VL Pゴシック" svg:font-family="&apos;VL Pゴシック&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="ＭＳ Ｐゴシック" svg:font-family="&apos;ＭＳ Ｐゴシック&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+ </office:font-face-decls>
+ <office:styles>
+  <draw:gradient draw:name="leaf" draw:style="linear" draw:start-color="#dfffef" draw:end-color="#ffffff" draw:start-intensity="100%" draw:end-intensity="100%" draw:angle="450" draw:border="0%"/>
+  <draw:gradient draw:name="mikan" draw:style="linear" draw:start-color="#ffefdf" draw:end-color="#ffffff" draw:start-intensity="100%" draw:end-intensity="100%" draw:angle="450" draw:border="0%"/>
+  <draw:gradient draw:name="sakura" draw:style="linear" draw:start-color="#ffe0ff" draw:end-color="#ffffff" draw:start-intensity="100%" draw:end-intensity="100%" draw:angle="450" draw:border="0%"/>
+  <draw:gradient draw:name="wave" draw:style="linear" draw:start-color="#bfdfff" draw:end-color="#ffffff" draw:start-intensity="100%" draw:end-intensity="100%" draw:angle="450" draw:border="0%"/>
+  <draw:marker draw:name="Arrow" svg:viewBox="0 0 20 30" svg:d="M10 0l-10 30h20z"/>
+  <draw:stroke-dash draw:name="Dashed_20__28_var_29__20_1" draw:display-name="Dashed (var) 1" draw:style="rect" draw:dots1="1" draw:dots1-length="0.02cm" draw:dots2="1" draw:dots2-length="0.02cm" draw:distance="0.02cm"/>
+  <draw:stroke-dash draw:name="Fine_20_Dashed" draw:display-name="Fine Dashed" draw:style="rect" draw:dots1="1" draw:dots1-length="197%" draw:distance="197%"/>
+  <style:default-style style:family="graphic">
+   <style:graphic-properties svg:stroke-color="#000000" draw:fill-color="#99ccff" fo:wrap-option="no-wrap"/>
+   <style:paragraph-properties style:text-autospace="none" style:punctuation-wrap="simple" style:line-break="strict" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
+    <style:tab-stops/>
+   </style:paragraph-properties>
+   <style:text-properties style:use-window-font-color="true" style:font-name="Liberation Serif" fo:font-size="24pt" fo:language="en" fo:country="US" style:font-name-asian="VL Pゴシック" style:font-size-asian="24pt" style:language-asian="ja" style:country-asian="JP" style:font-name-complex="Tahoma" style:font-size-complex="24pt" style:language-complex="hi" style:country-complex="IN"/>
+  </style:default-style>
+  <style:style style:name="standard" style:family="graphic">
+   <style:graphic-properties draw:stroke="solid" draw:stroke-dash="Dashed_20__28_var_29__20_1" svg:stroke-width="0.05cm" svg:stroke-color="#00007f" draw:marker-start-width="0.38cm" draw:marker-start-center="false" draw:marker-end-width="0.38cm" draw:marker-end-center="false" draw:fill="gradient" draw:fill-color="#e6e6ff" draw:fill-gradient-name="wave" draw:fill-image-width="0cm" draw:fill-image-height="0cm" fo:padding-top="0.125cm" fo:padding-bottom="0.125cm" fo:padding-left="0.25cm" fo:padding-right="0.25cm" draw:shadow="hidden" draw:shadow-offset-x="0.3cm" draw:shadow-offset-y="0.3cm" draw:shadow-color="#808080">
+    <text:list-style style:name="standard">
+     <text:list-level-style-bullet text:level="1" text:bullet-char="●">
+      <style:list-level-properties/>
+      <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+     </text:list-level-style-bullet>
+     <text:list-level-style-bullet text:level="2" text:bullet-char="●">
+      <style:list-level-properties text:space-before="0.6cm" text:min-label-width="0.6cm"/>
+      <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+     </text:list-level-style-bullet>
+     <text:list-level-style-bullet text:level="3" text:bullet-char="●">
+      <style:list-level-properties text:space-before="1.2cm" text:min-label-width="0.6cm"/>
+      <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+     </text:list-level-style-bullet>
+     <text:list-level-style-bullet text:level="4" text:bullet-char="●">
+      <style:list-level-properties text:space-before="1.8cm" text:min-label-width="0.6cm"/>
+      <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+     </text:list-level-style-bullet>
+     <text:list-level-style-bullet text:level="5" text:bullet-char="●">
+      <style:list-level-properties text:space-before="2.4cm" text:min-label-width="0.6cm"/>
+      <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+     </text:list-level-style-bullet>
+     <text:list-level-style-bullet text:level="6" text:bullet-char="●">
+      <style:list-level-properties text:space-before="3cm" text:min-label-width="0.6cm"/>
+      <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+     </text:list-level-style-bullet>
+     <text:list-level-style-bullet text:level="7" text:bullet-char="●">
+      <style:list-level-properties text:space-before="3.6cm" text:min-label-width="0.6cm"/>
+      <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+     </text:list-level-style-bullet>
+     <text:list-level-style-bullet text:level="8" text:bullet-char="●">
+      <style:list-level-properties text:space-before="4.2cm" text:min-label-width="0.6cm"/>
+      <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+     </text:list-level-style-bullet>
+     <text:list-level-style-bullet text:level="9" text:bullet-char="●">
+      <style:list-level-properties text:space-before="4.8cm" text:min-label-width="0.6cm"/>
+      <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+     </text:list-level-style-bullet>
+     <text:list-level-style-bullet text:level="10" text:bullet-char="●">
+      <style:list-level-properties text:space-before="5.4cm" text:min-label-width="0.6cm"/>
+      <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+     </text:list-level-style-bullet>
+    </text:list-style>
+   </style:graphic-properties>
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" fo:line-height="100%" fo:text-indent="0cm"/>
+   <style:text-properties fo:color="#00007f" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Liberation Sans" fo:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="10.5pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:letter-kerning="true" style:font-name-asian="VL Pゴシック" style:font-family-asian="&apos;VL Pゴシック&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="10.5pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="DejaVu Sans Condensed" style:font-family-complex="&apos;DejaVu Sans Condensed&apos;" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="18pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
+  </style:style>
+  <style:style style:name="objectwitharrow" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties draw:stroke="solid" svg:stroke-width="0.05cm" svg:stroke-color="#00007f" draw:marker-start="Arrow" draw:marker-start-width="0.3cm" draw:marker-start-center="true" draw:marker-end-width="0.3cm"/>
+  </style:style>
+  <style:style style:name="objectwithshadow" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties draw:shadow="visible" draw:shadow-offset-x="0.3cm" draw:shadow-offset-y="0.3cm" draw:shadow-color="#808080"/>
+  </style:style>
+  <style:style style:name="objectwithoutfill" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties draw:stroke-dash="Dashed_20__28_var_29__20_1" svg:stroke-color="#000080" draw:fill="none"/>
+   <style:text-properties fo:color="#00007f"/>
+  </style:style>
+  <style:style style:name="塗りつぶしなし線なしオブジェクト" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties draw:stroke="none" draw:fill="none"/>
+   <style:text-properties fo:color="#00007f"/>
+  </style:style>
+  <style:style style:name="text" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties draw:stroke="none" draw:fill="none"/>
+   <style:text-properties fo:font-size="10.5pt" style:font-size-asian="10.5pt"/>
+  </style:style>
+  <style:style style:name="textbody" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties draw:stroke="none" draw:fill="none"/>
+   <style:text-properties fo:font-size="16pt"/>
+  </style:style>
+  <style:style style:name="textbodyjustfied" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties draw:stroke="none" draw:fill="none"/>
+   <style:paragraph-properties fo:text-align="justify"/>
+  </style:style>
+  <style:style style:name="textbodyindent" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties draw:stroke="none" draw:fill="none"/>
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:text-indent="0.6cm"/>
+  </style:style>
+  <style:style style:name="title" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties draw:stroke="none" draw:fill="none"/>
+   <style:text-properties fo:font-size="44pt"/>
+  </style:style>
+  <style:style style:name="title1" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties draw:stroke="none" draw:fill="solid" draw:fill-color="#008080" draw:shadow="visible" draw:shadow-offset-x="0.2cm" draw:shadow-offset-y="0.2cm" draw:shadow-color="#808080"/>
+   <style:paragraph-properties fo:text-align="center"/>
+   <style:text-properties fo:font-size="24pt"/>
+  </style:style>
+  <style:style style:name="title2" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties svg:stroke-width="0.05cm" draw:fill-color="#ffcc99" draw:shadow="visible" draw:shadow-offset-x="0.2cm" draw:shadow-offset-y="0.2cm" draw:shadow-color="#808080"/>
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0.2cm" fo:margin-top="0.1cm" fo:margin-bottom="0.1cm" fo:text-align="center" fo:text-indent="0cm"/>
+   <style:text-properties fo:font-size="36pt"/>
+  </style:style>
+  <style:style style:name="headline" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties draw:stroke="none" draw:fill="none"/>
+   <style:paragraph-properties fo:margin-top="0.42cm" fo:margin-bottom="0.21cm"/>
+   <style:text-properties fo:font-size="24pt"/>
+  </style:style>
+  <style:style style:name="headline1" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties draw:stroke="none" draw:fill="none"/>
+   <style:paragraph-properties fo:margin-top="0.42cm" fo:margin-bottom="0.21cm"/>
+   <style:text-properties fo:font-size="18pt" fo:font-weight="bold"/>
+  </style:style>
+  <style:style style:name="headline2" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties draw:stroke="none" draw:fill="none"/>
+   <style:paragraph-properties fo:margin-top="0.42cm" fo:margin-bottom="0.21cm"/>
+   <style:text-properties fo:font-size="14pt" fo:font-style="italic" fo:font-weight="bold"/>
+  </style:style>
+  <style:style style:name="measure" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties draw:stroke="solid" draw:marker-start="Arrow" draw:marker-start-width="0.2cm" draw:marker-end="Arrow" draw:marker-end-width="0.2cm" draw:fill="none" draw:show-unit="true"/>
+   <style:text-properties fo:font-size="12pt"/>
+  </style:style>
+ </office:styles>
+ <office:automatic-styles>
+  <style:page-layout style:name="PM0">
+   <style:page-layout-properties fo:margin-top="0cm" fo:margin-bottom="0cm" fo:margin-left="0cm" fo:margin-right="0cm" fo:page-width="28cm" fo:page-height="21cm" style:print-orientation="landscape"/>
+  </style:page-layout>
+  <style:style style:name="dp1" style:family="drawing-page">
+   <style:drawing-page-properties draw:background-size="border" draw:fill="none"/>
+  </style:style>
+  <style:style style:name="dp2" style:family="drawing-page"/>
+  <style:style style:name="gr1" style:family="graphic" style:parent-style-name="objectwithoutfill">
+   <style:graphic-properties draw:stroke="dash" draw:stroke-dash="Fine_20_Dashed" svg:stroke-width="0.05cm" draw:marker-start-width="0.38cm" draw:marker-end-width="0.38cm" draw:fill="none" draw:textarea-horizontal-align="center" draw:textarea-vertical-align="middle" fo:padding-top="0.125cm" fo:padding-bottom="0.125cm" fo:padding-left="0.25cm" fo:padding-right="0.25cm"/>
+  </style:style>
+  <style:style style:name="gr2" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties draw:fill-gradient-name="wave" draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="0.75cm" fo:min-width="2.5cm"/>
+  </style:style>
+  <style:style style:name="gr3" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties svg:stroke-color="#007f00" draw:fill-gradient-name="leaf" draw:textarea-horizontal-align="left" draw:textarea-vertical-align="top" draw:auto-grow-height="false" fo:min-height="3.75cm" fo:min-width="2.5cm"/>
+  </style:style>
+  <style:style style:name="gr4" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties svg:stroke-color="#ff7f00" draw:fill-gradient-name="mikan" draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="0.75cm" fo:min-width="2.5cm"/>
+  </style:style>
+  <style:style style:name="gr5" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="true" fo:min-height="0.632cm" fo:min-width="2.534cm"/>
+  </style:style>
+  <style:style style:name="gr6" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="true" fo:min-height="0.632cm" fo:min-width="2.809cm"/>
+  </style:style>
+  <style:style style:name="gr7" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="true" fo:min-height="0.628cm" fo:min-width="1.255cm"/>
+  </style:style>
+  <style:style style:name="gr8" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties svg:stroke-color="#007f00" draw:fill-gradient-name="leaf" draw:textarea-horizontal-align="left" draw:textarea-vertical-align="top" draw:auto-grow-height="false" fo:min-height="4.65cm" fo:min-width="2.5cm"/>
+  </style:style>
+  <style:style style:name="gr9" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties svg:stroke-color="#007f00" draw:fill-gradient-name="leaf" draw:textarea-horizontal-align="left" draw:textarea-vertical-align="top" draw:auto-grow-height="false" fo:min-height="4.63cm" fo:min-width="2.5cm"/>
+  </style:style>
+  <style:style style:name="gr10" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties svg:stroke-width="0.15cm" svg:stroke-color="#ff007f" draw:marker-start-width="0.53cm" draw:marker-end-width="0.53cm" draw:fill="none" draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="5.65cm" fo:min-width="5.4cm" fo:padding-top="0.175cm" fo:padding-bottom="0.175cm" fo:padding-left="0.3cm" fo:padding-right="0.3cm"/>
+  </style:style>
+  <style:style style:name="gr11" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties svg:stroke-width="0.15cm" svg:stroke-color="#ff007f" draw:marker-start-width="0.53cm" draw:marker-end-width="0.53cm" draw:fill="none" draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="5.65cm" fo:min-width="2.4cm" fo:padding-top="0.175cm" fo:padding-bottom="0.175cm" fo:padding-left="0.3cm" fo:padding-right="0.3cm"/>
+  </style:style>
+  <style:style style:name="gr12" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties svg:stroke-width="0.15cm" svg:stroke-color="#ff007f" draw:marker-start-width="0.53cm" draw:marker-end-width="0.53cm" draw:fill="none" draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="6.55cm" fo:min-width="5.4cm" fo:padding-top="0.175cm" fo:padding-bottom="0.175cm" fo:padding-left="0.3cm" fo:padding-right="0.3cm"/>
+  </style:style>
+  <style:style style:name="gr13" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties svg:stroke-width="0.15cm" svg:stroke-color="#ff007f" draw:marker-start-width="0.53cm" draw:marker-end-width="0.53cm" draw:fill="none" draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="6.55cm" fo:min-width="2.4cm" fo:padding-top="0.175cm" fo:padding-bottom="0.175cm" fo:padding-left="0.3cm" fo:padding-right="0.3cm"/>
+  </style:style>
+  <style:style style:name="gr14" style:family="graphic" style:parent-style-name="objectwithoutfill">
+   <style:graphic-properties svg:stroke-width="0.1cm" svg:stroke-color="#ff007f" draw:marker-end="Arrow" draw:marker-end-width="0.3cm" draw:fill="none" draw:fill-color="#e6e6ff" draw:textarea-horizontal-align="center" draw:textarea-vertical-align="middle" fo:padding-top="0.15cm" fo:padding-bottom="0.15cm" fo:padding-left="0.275cm" fo:padding-right="0.275cm"/>
+  </style:style>
+  <style:style style:name="gr15" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties draw:stroke="none" svg:stroke-width="0.1cm" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="true" fo:min-height="0.581cm" fo:min-width="2.389cm" fo:padding-top="0.15cm" fo:padding-bottom="0.15cm" fo:padding-left="0.275cm" fo:padding-right="0.275cm"/>
+  </style:style>
+  <style:style style:name="gr16" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="true" fo:min-height="0.716cm" fo:min-width="2.194cm"/>
+  </style:style>
+  <style:style style:name="gr17" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties svg:stroke-width="0.15cm" svg:stroke-color="#ff007f" draw:marker-start-width="0.53cm" draw:marker-end-width="0.53cm" draw:fill="none" draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="6.55cm" fo:min-width="8.833cm" fo:padding-top="0.175cm" fo:padding-bottom="0.175cm" fo:padding-left="0.3cm" fo:padding-right="0.3cm"/>
+  </style:style>
+  <style:style style:name="gr18" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties svg:stroke-width="0.15cm" svg:stroke-color="#ff007f" draw:marker-start-width="0.53cm" draw:marker-end-width="0.53cm" draw:fill="none" draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="6.55cm" fo:min-width="2.505cm" fo:padding-top="0.175cm" fo:padding-bottom="0.175cm" fo:padding-left="0.3cm" fo:padding-right="0.3cm"/>
+  </style:style>
+  <style:style style:name="gr19" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties svg:stroke-color="#5f5f5f" draw:fill="gradient" draw:fill-gradient-name="wave" draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="0.75cm" fo:min-width="2.5cm"/>
+  </style:style>
+  <style:style style:name="gr20" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties svg:stroke-color="#5f5f5f" draw:fill="gradient" draw:fill-gradient-name="leaf" draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="0.75cm" fo:min-width="2.5cm"/>
+  </style:style>
+  <style:style style:name="gr21" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties svg:stroke-color="#5f5f5f" draw:fill="gradient" draw:fill-gradient-name="sakura" draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="0.75cm" fo:min-width="2.5cm"/>
+  </style:style>
+  <style:style style:name="gr22" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties svg:stroke-color="#5f5f5f" draw:fill="gradient" draw:fill-gradient-name="mikan" draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="0.75cm" fo:min-width="2.5cm"/>
+  </style:style>
+  <style:style style:name="gr23" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties svg:stroke-color="#5f5f5f" draw:fill="none" draw:textarea-horizontal-align="left" draw:textarea-vertical-align="top" draw:auto-grow-height="false" fo:min-height="4.65cm" fo:min-width="2.5cm"/>
+  </style:style>
+  <style:style style:name="gr24" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties svg:stroke-color="#5f5f5f" draw:fill="none" draw:textarea-horizontal-align="left" draw:textarea-vertical-align="top" draw:auto-grow-height="false" fo:min-height="4.63cm" fo:min-width="2.5cm"/>
+  </style:style>
+  <style:style style:name="gr25" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties draw:fill-gradient-name="wave" draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="1.25cm" fo:min-width="4.5cm"/>
+  </style:style>
+  <style:style style:name="gr26" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties svg:stroke-color="#ff007f" draw:fill-gradient-name="sakura" draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="1.25cm" fo:min-width="4.5cm"/>
+  </style:style>
+  <style:style style:name="gr27" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties svg:stroke-color="#ff7f00" draw:fill-gradient-name="mikan" draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="1.25cm" fo:min-width="4.5cm"/>
+  </style:style>
+  <style:style style:name="gr28" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties svg:stroke-color="#007f00" draw:fill-gradient-name="leaf" draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="1.25cm" fo:min-width="4.5cm"/>
+  </style:style>
+  <style:style style:name="gr29" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="true" fo:min-height="0.716cm" fo:min-width="2.233cm"/>
+  </style:style>
+  <style:style style:name="gr30" style:family="graphic" style:parent-style-name="objectwithoutfill">
+   <style:graphic-properties svg:stroke-width="0.1cm" svg:stroke-color="#ff7f00" draw:marker-end="Arrow" draw:marker-end-width="0.3cm" draw:fill="none" draw:fill-color="#e6e6ff" draw:textarea-horizontal-align="center" draw:textarea-vertical-align="middle" fo:padding-top="0.15cm" fo:padding-bottom="0.15cm" fo:padding-left="0.275cm" fo:padding-right="0.275cm"/>
+  </style:style>
+  <style:style style:name="gr31" style:family="graphic" style:parent-style-name="objectwithoutfill">
+   <style:graphic-properties svg:stroke-width="0.1cm" svg:stroke-color="#00007f" draw:marker-end="Arrow" draw:marker-end-width="0.3cm" draw:fill="none" draw:fill-color="#e6e6ff" draw:textarea-horizontal-align="center" draw:textarea-vertical-align="middle" fo:padding-top="0.15cm" fo:padding-bottom="0.15cm" fo:padding-left="0.275cm" fo:padding-right="0.275cm"/>
+  </style:style>
+  <style:style style:name="gr32" style:family="graphic" style:parent-style-name="objectwithoutfill">
+   <style:graphic-properties draw:stroke="dash" draw:stroke-dash="Fine_20_Dashed" svg:stroke-width="0.05cm" svg:stroke-color="#00007f" draw:marker-start-width="0.305cm" draw:marker-end="Arrow" draw:marker-end-width="0.225cm" draw:fill="none" draw:fill-color="#e6e6ff" draw:textarea-horizontal-align="center" draw:textarea-vertical-align="middle" fo:padding-top="0.125cm" fo:padding-bottom="0.125cm" fo:padding-left="0.25cm" fo:padding-right="0.25cm"/>
+  </style:style>
+  <style:style style:name="gr33" style:family="graphic" style:parent-style-name="objectwithoutfill">
+   <style:graphic-properties svg:stroke-width="0.1cm" svg:stroke-color="#007f00" draw:marker-end="Arrow" draw:marker-end-width="0.3cm" draw:fill="none" draw:fill-color="#e6e6ff" draw:textarea-horizontal-align="center" draw:textarea-vertical-align="middle" fo:padding-top="0.15cm" fo:padding-bottom="0.15cm" fo:padding-left="0.275cm" fo:padding-right="0.275cm"/>
+  </style:style>
+  <style:style style:name="gr34" style:family="graphic" style:parent-style-name="objectwithoutfill">
+   <style:graphic-properties draw:stroke="dash" draw:stroke-dash="Fine_20_Dashed" svg:stroke-width="0.05cm" svg:stroke-color="#ff007f" draw:marker-start-width="0.305cm" draw:marker-end="Arrow" draw:marker-end-width="0.225cm" draw:fill="none" draw:fill-color="#e6e6ff" draw:textarea-horizontal-align="center" draw:textarea-vertical-align="middle" fo:padding-top="0.125cm" fo:padding-bottom="0.125cm" fo:padding-left="0.25cm" fo:padding-right="0.25cm"/>
+  </style:style>
+  <style:style style:name="gr35" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="0.75cm" fo:min-width="2.5cm"/>
+  </style:style>
+  <style:style style:name="P1" style:family="paragraph">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:text-align="center"/>
+  </style:style>
+  <style:style style:name="P2" style:family="paragraph">
+   <style:paragraph-properties fo:text-align="center"/>
+  </style:style>
+  <style:style style:name="P3" style:family="paragraph">
+   <loext:graphic-properties draw:fill-gradient-name="wave"/>
+   <style:paragraph-properties fo:text-align="center"/>
+   <style:text-properties fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P4" style:family="paragraph">
+   <style:paragraph-properties fo:text-align="start"/>
+  </style:style>
+  <style:style style:name="P5" style:family="paragraph">
+   <loext:graphic-properties draw:fill-gradient-name="leaf"/>
+   <style:paragraph-properties fo:text-align="start"/>
+   <style:text-properties fo:color="#007f00"/>
+  </style:style>
+  <style:style style:name="P6" style:family="paragraph">
+   <loext:graphic-properties draw:fill-gradient-name="mikan"/>
+   <style:paragraph-properties fo:text-align="center"/>
+   <style:text-properties fo:color="#df6f00" fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P7" style:family="paragraph">
+   <loext:graphic-properties draw:fill="none" draw:fill-color="#ffffff"/>
+   <style:text-properties fo:font-size="14pt" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="P8" style:family="paragraph">
+   <loext:graphic-properties draw:fill="none" draw:fill-color="#ffffff"/>
+  </style:style>
+  <style:style style:name="P9" style:family="paragraph">
+   <loext:graphic-properties draw:fill="none" draw:fill-color="#ffffff"/>
+   <style:text-properties fo:color="#ff007f" fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P10" style:family="paragraph">
+   <loext:graphic-properties draw:fill="none" draw:fill-color="#e6e6ff"/>
+   <style:paragraph-properties fo:text-align="center"/>
+  </style:style>
+  <style:style style:name="P11" style:family="paragraph">
+   <loext:graphic-properties draw:fill="none" draw:fill-color="#ffffff"/>
+   <style:text-properties fo:color="#ff7f00"/>
+  </style:style>
+  <style:style style:name="P12" style:family="paragraph">
+   <loext:graphic-properties draw:fill-gradient-name="wave"/>
+   <style:paragraph-properties fo:text-align="center"/>
+   <style:text-properties fo:color="#ff007f" fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P13" style:family="paragraph">
+   <loext:graphic-properties draw:fill="gradient" draw:fill-gradient-name="wave"/>
+   <style:paragraph-properties fo:text-align="center"/>
+   <style:text-properties fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P14" style:family="paragraph">
+   <loext:graphic-properties draw:fill="gradient" draw:fill-gradient-name="leaf"/>
+   <style:paragraph-properties fo:text-align="center"/>
+   <style:text-properties fo:color="#007f00" fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P15" style:family="paragraph">
+   <loext:graphic-properties draw:fill="gradient" draw:fill-gradient-name="sakura"/>
+   <style:paragraph-properties fo:text-align="center"/>
+   <style:text-properties fo:color="#ff007f" fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P16" style:family="paragraph">
+   <loext:graphic-properties draw:fill="gradient" draw:fill-gradient-name="mikan"/>
+   <style:paragraph-properties fo:text-align="center"/>
+   <style:text-properties fo:color="#ff7f00" fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P17" style:family="paragraph">
+   <loext:graphic-properties draw:fill="gradient" draw:fill-gradient-name="wave"/>
+   <style:paragraph-properties fo:text-align="center"/>
+   <style:text-properties fo:color="#00007f" fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P18" style:family="paragraph">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:text-align="start"/>
+   <style:text-properties fo:color="#00007f"/>
+  </style:style>
+  <style:style style:name="P19" style:family="paragraph">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:text-align="start"/>
+   <style:text-properties fo:color="#007f00"/>
+  </style:style>
+  <style:style style:name="P20" style:family="paragraph">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:text-align="start"/>
+   <style:text-properties fo:color="#ff007f"/>
+  </style:style>
+  <style:style style:name="P21" style:family="paragraph">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:text-align="start"/>
+   <style:text-properties fo:color="#ff7f00"/>
+  </style:style>
+  <style:style style:name="P22" style:family="paragraph">
+   <loext:graphic-properties draw:fill-gradient-name="sakura"/>
+   <style:paragraph-properties fo:text-align="center"/>
+   <style:text-properties fo:color="#ff007f" fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P23" style:family="paragraph">
+   <loext:graphic-properties draw:fill-gradient-name="mikan"/>
+   <style:paragraph-properties fo:text-align="center"/>
+   <style:text-properties fo:color="#ff8f1f" fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P24" style:family="paragraph">
+   <loext:graphic-properties draw:fill-gradient-name="leaf"/>
+   <style:paragraph-properties fo:text-align="center"/>
+   <style:text-properties fo:color="#007f00" fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P25" style:family="paragraph">
+   <style:paragraph-properties fo:text-align="center"/>
+   <style:text-properties fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T1" style:family="text">
+   <style:text-properties fo:font-size="14pt" fo:font-weight="normal" style:font-size-asian="14pt" style:font-weight-asian="normal" style:font-size-complex="26pt" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T2" style:family="text">
+   <style:text-properties fo:font-size="11pt" fo:font-weight="normal" style:font-size-asian="11pt" style:font-weight-asian="normal" style:font-size-complex="20pt" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T3" style:family="text">
+   <style:text-properties fo:font-size="13pt" fo:font-weight="normal" style:font-size-asian="13pt" style:font-weight-asian="normal" style:font-size-complex="24pt" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T4" style:family="text">
+   <style:text-properties fo:color="#007f00"/>
+  </style:style>
+  <style:style style:name="T5" style:family="text">
+   <style:text-properties fo:color="#ff007f"/>
+  </style:style>
+  <style:style style:name="T6" style:family="text">
+   <style:text-properties fo:color="#df6f00" fo:font-size="14pt" fo:font-weight="normal" style:font-size-asian="14pt" style:font-weight-asian="normal" style:font-size-complex="26pt" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T7" style:family="text">
+   <style:text-properties fo:color="#df6f00" fo:font-size="13pt" fo:font-weight="normal" style:font-size-asian="13pt" style:font-weight-asian="normal" style:font-size-complex="24pt" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T8" style:family="text">
+   <style:text-properties fo:font-size="14pt" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="T9" style:family="text">
+   <style:text-properties fo:font-size="14pt" style:font-size-asian="14pt" style:font-size-complex="26pt"/>
+  </style:style>
+  <style:style style:name="T10" style:family="text">
+   <style:text-properties fo:color="#ff007f" fo:font-size="16pt" fo:font-weight="bold" style:font-size-asian="16pt" style:font-weight-asian="bold" style:font-size-complex="32pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T11" style:family="text">
+   <style:text-properties fo:color="#ff0000" fo:font-size="14pt" fo:font-weight="normal" style:font-size-asian="14pt" style:font-weight-asian="normal" style:font-size-complex="26pt" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T12" style:family="text">
+   <style:text-properties fo:color="#0000ff" fo:font-size="14pt" fo:font-weight="normal" style:font-size-asian="14pt" style:font-weight-asian="normal" style:font-size-complex="26pt" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T13" style:family="text">
+   <style:text-properties fo:color="#0000ff" fo:font-size="13pt" fo:font-weight="normal" style:font-size-asian="13pt" style:font-weight-asian="normal" style:font-size-complex="24pt" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T14" style:family="text">
+   <style:text-properties fo:color="#ff0000" fo:font-size="13pt" fo:font-weight="normal" style:font-size-asian="13pt" style:font-weight-asian="normal" style:font-size-complex="24pt" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T15" style:family="text">
+   <style:text-properties fo:color="#ff7f00" fo:font-size="13pt" style:font-size-asian="13pt" style:font-size-complex="24pt"/>
+  </style:style>
+  <style:style style:name="T16" style:family="text">
+   <style:text-properties fo:color="#ff007f" fo:font-size="14pt" fo:font-weight="normal" style:font-size-asian="14pt" style:font-weight-asian="normal" style:font-size-complex="26pt" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T17" style:family="text">
+   <style:text-properties fo:color="#ff007f" fo:font-size="13pt" fo:font-weight="normal" style:font-size-asian="13pt" style:font-weight-asian="normal" style:font-size-complex="24pt" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T18" style:family="text">
+   <style:text-properties fo:color="#007f00" fo:font-size="14pt" fo:font-weight="normal" style:font-size-asian="14pt" style:font-weight-asian="normal" style:font-size-complex="26pt" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T19" style:family="text">
+   <style:text-properties fo:color="#007f00" fo:font-size="13pt" fo:font-weight="normal" style:font-size-asian="13pt" style:font-weight-asian="normal" style:font-size-complex="24pt" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T20" style:family="text">
+   <style:text-properties fo:color="#ff7f00" fo:font-size="13pt" fo:font-weight="normal" style:font-size-asian="13pt" style:font-weight-asian="normal" style:font-size-complex="24pt" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T21" style:family="text">
+   <style:text-properties fo:color="#00007f" fo:font-size="13pt" fo:font-weight="normal" style:font-size-asian="13pt" style:font-weight-asian="normal" style:font-size-complex="24pt" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T22" style:family="text">
+   <style:text-properties fo:color="#00007f"/>
+  </style:style>
+  <style:style style:name="T23" style:family="text">
+   <style:text-properties fo:color="#ff7f00"/>
+  </style:style>
+  <style:style style:name="T24" style:family="text">
+   <style:text-properties fo:color="#ff8f1f" fo:font-size="13pt" fo:font-weight="normal" style:font-size-asian="13pt" style:font-weight-asian="normal" style:font-size-complex="24pt" style:font-weight-complex="normal"/>
+  </style:style>
+  <text:list-style style:name="L1">
+   <text:list-level-style-bullet text:level="1" text:bullet-char="●">
+    <style:list-level-properties/>
+    <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:bullet-char="●">
+    <style:list-level-properties text:space-before="0.6cm" text:min-label-width="0.6cm"/>
+    <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:bullet-char="●">
+    <style:list-level-properties text:space-before="1.2cm" text:min-label-width="0.6cm"/>
+    <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:bullet-char="●">
+    <style:list-level-properties text:space-before="1.8cm" text:min-label-width="0.6cm"/>
+    <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:bullet-char="●">
+    <style:list-level-properties text:space-before="2.4cm" text:min-label-width="0.6cm"/>
+    <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:bullet-char="●">
+    <style:list-level-properties text:space-before="3cm" text:min-label-width="0.6cm"/>
+    <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:bullet-char="●">
+    <style:list-level-properties text:space-before="3.6cm" text:min-label-width="0.6cm"/>
+    <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:bullet-char="●">
+    <style:list-level-properties text:space-before="4.2cm" text:min-label-width="0.6cm"/>
+    <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:bullet-char="●">
+    <style:list-level-properties text:space-before="4.8cm" text:min-label-width="0.6cm"/>
+    <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:bullet-char="●">
+    <style:list-level-properties text:space-before="5.4cm" text:min-label-width="0.6cm"/>
+    <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+   </text:list-level-style-bullet>
+  </text:list-style>
+ </office:automatic-styles>
+ <office:master-styles>
+  <draw:layer-set>
+   <draw:layer draw:name="layout"/>
+   <draw:layer draw:name="background"/>
+   <draw:layer draw:name="backgroundobjects"/>
+   <draw:layer draw:name="controls"/>
+   <draw:layer draw:name="measurelines"/>
+  </draw:layer-set>
+  <style:master-page style:name="青系-Draw1" style:page-layout-name="PM0" draw:style-name="dp1"/>
+ </office:master-styles>
+ <office:body>
+  <office:drawing>
+   <draw:page draw:name="page1" draw:style-name="dp2" draw:master-page-name="青系-Draw1">
+    <draw:line draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:x1="16.924cm" svg:y1="0.753cm" svg:x2="16.924cm" svg:y2="8.253cm">
+     <text:p/>
+    </draw:line>
+    <draw:custom-shape draw:style-name="gr2" draw:text-style-name="P3" draw:layer="layout" svg:width="3cm" svg:height="1cm" svg:x="0.524cm" svg:y="1.603cm">
+     <text:p text:style-name="P2"><text:span text:style-name="T1">Information</text:span></text:p>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr2" draw:text-style-name="P3" draw:layer="layout" svg:width="3cm" svg:height="1cm" svg:x="3.524cm" svg:y="1.603cm">
+     <text:p text:style-name="P2"><text:span text:style-name="T2">Communication</text:span></text:p>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr2" draw:text-style-name="P3" draw:layer="layout" svg:width="3cm" svg:height="1cm" svg:x="6.524cm" svg:y="1.603cm">
+     <text:p text:style-name="P2"><text:span text:style-name="T1">Security</text:span></text:p>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr2" draw:text-style-name="P3" draw:layer="layout" svg:width="3cm" svg:height="1cm" svg:x="9.524cm" svg:y="1.603cm">
+     <text:p text:style-name="P2"><text:span text:style-name="T1">知的財産</text:span></text:p>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr2" draw:text-style-name="P3" draw:layer="layout" svg:width="3cm" svg:height="1cm" svg:x="12.524cm" svg:y="1.603cm">
+     <text:p text:style-name="P2"><text:span text:style-name="T3">Media literacy</text:span></text:p>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr2" draw:text-style-name="P3" draw:layer="layout" svg:width="3cm" svg:height="1cm" svg:x="16.024cm" svg:y="1.603cm">
+     <text:p text:style-name="P2"><text:span text:style-name="T3">Presentation</text:span></text:p>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr2" draw:text-style-name="P3" draw:layer="layout" svg:width="3cm" svg:height="1cm" svg:x="22.024cm" svg:y="1.603cm">
+     <text:p text:style-name="P2"><text:span text:style-name="T3">Programming</text:span></text:p>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr2" draw:text-style-name="P3" draw:layer="layout" svg:width="3cm" svg:height="1cm" svg:x="19.024cm" svg:y="1.603cm">
+     <text:p text:style-name="P2"><text:span text:style-name="T3">Design</text:span></text:p>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr3" draw:text-style-name="P5" draw:layer="layout" svg:width="3cm" svg:height="4cm" svg:x="0.524cm" svg:y="2.603cm">
+     <text:list text:style-name="L1">
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">情報</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">情報の主観性</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">生命情報</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">社会情報</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">機械情報</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">情報の階層構造</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">意味の潜在化</text:span></text:p>
+      </text:list-item>
+     </text:list>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr3" draw:text-style-name="P5" draw:layer="layout" svg:width="3cm" svg:height="4cm" svg:x="3.524cm" svg:y="2.603cm">
+     <text:list text:style-name="L1">
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">Luhmann</text:span><text:span text:style-name="T4">モデル</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">メディア</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">伝播メディア</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">成果メディア</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T5">個性</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">現実イメージ</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">機能的分化</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">包摂と排除</text:span></text:p>
+      </text:list-item>
+     </text:list>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr3" draw:text-style-name="P5" draw:layer="layout" svg:width="3cm" svg:height="4cm" svg:x="6.524cm" svg:y="2.603cm">
+     <text:list text:style-name="L1">
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">認証</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">マルウェア</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T5">human error</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T5">個人情報</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T5">プライバシー</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">詐欺</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T5">暗号化</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T5">エラー訂正</text:span></text:p>
+      </text:list-item>
+     </text:list>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr3" draw:text-style-name="P5" draw:layer="layout" svg:width="3cm" svg:height="4cm" svg:x="9.524cm" svg:y="2.603cm">
+     <text:list text:style-name="L1">
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">知的財産</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">知的財産権</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">特許要件</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">著作権</text:span></text:p>
+      </text:list-item>
+     </text:list>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr3" draw:text-style-name="P5" draw:layer="layout" svg:width="3cm" svg:height="4cm" svg:x="12.524cm" svg:y="2.603cm">
+     <text:list text:style-name="L1">
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">情報の信頼性</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">印象操作</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">因果と相関</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">レポート概要</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">アウトライン</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">レポート作成</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">レビュー</text:span></text:p>
+      </text:list-item>
+     </text:list>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr3" draw:text-style-name="P5" draw:layer="layout" svg:width="3cm" svg:height="4cm" svg:x="16.024cm" svg:y="2.603cm">
+     <text:list text:style-name="L1">
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">プレゼン概要</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">テーマ決定</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">アウトライン</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">スライド構成</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">スライド作成</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">リハーサル</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">発表会</text:span></text:p>
+      </text:list-item>
+     </text:list>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr3" draw:text-style-name="P5" draw:layer="layout" svg:width="3cm" svg:height="4cm" svg:x="22.024cm" svg:y="2.603cm">
+     <text:list text:style-name="L1">
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">Squeak</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">アルゴリズム</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">フローチャート</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">表計算</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">Excel</text:span><text:span text:style-name="T4">関数</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">VBA</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">Scratch</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">モンテカルロ法</text:span></text:p>
+      </text:list-item>
+     </text:list>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr3" draw:text-style-name="P5" draw:layer="layout" svg:width="3cm" svg:height="4cm" svg:x="19.024cm" svg:y="2.603cm">
+     <text:list text:style-name="L1">
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">Interface</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">Universal design</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">Affordance</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">対応付け</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T5">色覚</text:span></text:p>
+      </text:list-item>
+     </text:list>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr4" draw:text-style-name="P6" draw:layer="layout" svg:width="3cm" svg:height="1cm" svg:x="0.524cm" svg:y="6.603cm">
+     <text:p text:style-name="P2"><text:span text:style-name="T6">4</text:span><text:span text:style-name="T6">時間</text:span></text:p>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr4" draw:text-style-name="P6" draw:layer="layout" svg:width="3cm" svg:height="1cm" svg:x="3.524cm" svg:y="6.603cm">
+     <text:p text:style-name="P2"><text:span text:style-name="T6">4</text:span><text:span text:style-name="T6">時間</text:span></text:p>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr4" draw:text-style-name="P6" draw:layer="layout" svg:width="3cm" svg:height="1cm" svg:x="6.524cm" svg:y="6.603cm">
+     <text:p text:style-name="P2"><text:span text:style-name="T6">4</text:span><text:span text:style-name="T6">時間</text:span></text:p>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr4" draw:text-style-name="P6" draw:layer="layout" svg:width="3cm" svg:height="1cm" svg:x="9.524cm" svg:y="6.603cm">
+     <text:p text:style-name="P2"><text:span text:style-name="T6">3</text:span><text:span text:style-name="T6">時間</text:span></text:p>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr4" draw:text-style-name="P6" draw:layer="layout" svg:width="3cm" svg:height="1cm" svg:x="12.524cm" svg:y="6.603cm">
+     <text:p text:style-name="P2"><text:span text:style-name="T7">8</text:span><text:span text:style-name="T7">時間</text:span></text:p>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr4" draw:text-style-name="P6" draw:layer="layout" svg:width="3cm" svg:height="1cm" svg:x="16.024cm" svg:y="6.603cm">
+     <text:p text:style-name="P2"><text:span text:style-name="T7">12</text:span><text:span text:style-name="T7">時間</text:span></text:p>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr4" draw:text-style-name="P6" draw:layer="layout" svg:width="3cm" svg:height="1cm" svg:x="22.024cm" svg:y="6.603cm">
+     <text:p text:style-name="P2"><text:span text:style-name="T7">14</text:span><text:span text:style-name="T7">時間</text:span></text:p>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr4" draw:text-style-name="P6" draw:layer="layout" svg:width="3cm" svg:height="1cm" svg:x="19.024cm" svg:y="6.603cm">
+     <text:p text:style-name="P2"><text:span text:style-name="T7">2</text:span><text:span text:style-name="T7">時間</text:span></text:p>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:frame draw:style-name="gr5" draw:text-style-name="P7" draw:layer="layout" svg:width="3.034cm" svg:height="0.882cm" svg:x="8.642cm" svg:y="0.603cm">
+     <draw:text-box>
+      <text:p><text:span text:style-name="T8">前期</text:span><text:span text:style-name="T8">(4-9</text:span><text:span text:style-name="T8">月</text:span><text:span text:style-name="T8">)</text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="gr6" draw:text-style-name="P8" draw:layer="layout" svg:width="3.309cm" svg:height="0.882cm" svg:x="19.524cm" svg:y="0.603cm">
+     <draw:text-box>
+      <text:p><text:span text:style-name="T9">後期</text:span><text:span text:style-name="T9">(10-2</text:span><text:span text:style-name="T9">月</text:span><text:span text:style-name="T9">)</text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="gr7" draw:text-style-name="P9" draw:layer="layout" svg:width="1.755cm" svg:height="0.878cm" svg:x="0.524cm" svg:y="0.603cm">
+     <draw:text-box>
+      <text:p><text:span text:style-name="T10">2015</text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:line draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:x1="20cm" svg:y1="8.3cm" svg:x2="20cm" svg:y2="16.8cm">
+     <text:p/>
+    </draw:line>
+    <draw:custom-shape draw:style-name="gr2" draw:text-style-name="P3" draw:layer="layout" svg:width="3cm" svg:height="1cm" svg:x="6.5cm" svg:y="9.121cm">
+     <text:p text:style-name="P2"><text:span text:style-name="T1">Information</text:span></text:p>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr2" draw:text-style-name="P3" draw:layer="layout" svg:width="3cm" svg:height="1cm" svg:x="9.5cm" svg:y="9.121cm">
+     <text:p text:style-name="P2"><text:span text:style-name="T2">Communication</text:span></text:p>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr2" draw:text-style-name="P3" draw:layer="layout" svg:width="3cm" svg:height="1cm" svg:x="0.524cm" svg:y="9.116cm">
+     <text:p text:style-name="P2"><text:span text:style-name="T1">Security</text:span></text:p>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr2" draw:text-style-name="P3" draw:layer="layout" svg:width="3cm" svg:height="1cm" svg:x="3.524cm" svg:y="9.116cm">
+     <text:p text:style-name="P2"><text:span text:style-name="T1">知的財産</text:span></text:p>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr2" draw:text-style-name="P3" draw:layer="layout" svg:width="3cm" svg:height="1cm" svg:x="15.524cm" svg:y="9.116cm">
+     <text:p text:style-name="P2"><text:span text:style-name="T3">Media literacy</text:span></text:p>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr2" draw:text-style-name="P3" draw:layer="layout" svg:width="3cm" svg:height="1cm" svg:x="19.024cm" svg:y="9.116cm">
+     <text:p text:style-name="P2"><text:span text:style-name="T3">Presentation</text:span></text:p>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr2" draw:text-style-name="P3" draw:layer="layout" svg:width="3cm" svg:height="1cm" svg:x="22.024cm" svg:y="9.116cm">
+     <text:p text:style-name="P2"><text:span text:style-name="T3">Programming</text:span></text:p>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr2" draw:text-style-name="P3" draw:layer="layout" svg:width="3cm" svg:height="1cm" svg:x="12.5cm" svg:y="9.121cm">
+     <text:p text:style-name="P2"><text:span text:style-name="T3">Design</text:span></text:p>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr8" draw:text-style-name="P5" draw:layer="layout" svg:width="3cm" svg:height="4.9cm" svg:x="6.5cm" svg:y="10.121cm">
+     <text:list text:style-name="L1">
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">情報</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T5">個人情報</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T5">プライバシー</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T5">色覚</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">情報の主観性</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">生命情報</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">社会情報</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">機械情報</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T5">暗号化</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">情報の階層構造</text:span></text:p>
+      </text:list-item>
+     </text:list>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr9" draw:text-style-name="P5" draw:layer="layout" svg:width="3cm" svg:height="4.88cm" svg:x="9.5cm" svg:y="10.121cm">
+     <text:list text:style-name="L1">
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">Luhmann</text:span><text:span text:style-name="T4">モデル</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">メディア</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">伝播メディア</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">成果メディア</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">現実イメージ</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">機能的分化</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">包摂と排除</text:span></text:p>
+      </text:list-item>
+     </text:list>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr9" draw:text-style-name="P5" draw:layer="layout" svg:width="3cm" svg:height="4.88cm" svg:x="0.524cm" svg:y="10.12cm">
+     <text:list text:style-name="L1">
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">認証</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">マルウェア</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">詐欺</text:span></text:p>
+      </text:list-item>
+     </text:list>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr9" draw:text-style-name="P5" draw:layer="layout" svg:width="3cm" svg:height="4.88cm" svg:x="3.524cm" svg:y="10.12cm">
+     <text:list text:style-name="L1">
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">知的財産</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">知的財産権</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">特許要件</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">著作権</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T5">個性</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T5">アイデア</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T5">創発</text:span></text:p>
+      </text:list-item>
+     </text:list>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr9" draw:text-style-name="P5" draw:layer="layout" svg:width="3cm" svg:height="4.88cm" svg:x="15.524cm" svg:y="10.12cm">
+     <text:list text:style-name="L1">
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">情報の信頼性</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">印象操作</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">因果と相関</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">レポート概要</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">アウトライン</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">レポート作成</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">レビュー</text:span></text:p>
+      </text:list-item>
+     </text:list>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr9" draw:text-style-name="P5" draw:layer="layout" svg:width="3cm" svg:height="4.88cm" svg:x="19.024cm" svg:y="10.12cm">
+     <text:list text:style-name="L1">
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">プレゼン概要</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">テーマ決定</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">アウトライン</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">スライド構成</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">スライド作成</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">リハーサル</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">発表会</text:span></text:p>
+      </text:list-item>
+     </text:list>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr9" draw:text-style-name="P5" draw:layer="layout" svg:width="3cm" svg:height="4.88cm" svg:x="22.024cm" svg:y="10.12cm">
+     <text:list text:style-name="L1">
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">Scatch</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">アルゴリズム</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">フローチャート</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">表計算</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">Excel</text:span><text:span text:style-name="T4">関数</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">VBA</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">モンテカルロ法</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T5">モデル化</text:span></text:p>
+      </text:list-item>
+     </text:list>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr9" draw:text-style-name="P5" draw:layer="layout" svg:width="3cm" svg:height="4.88cm" svg:x="12.5cm" svg:y="10.121cm">
+     <text:list text:style-name="L1">
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T5">human error</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">Interface</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">Universal design</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">Affordance</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">対応付け</text:span></text:p>
+      </text:list-item>
+     </text:list>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr4" draw:text-style-name="P6" draw:layer="layout" svg:width="3cm" svg:height="1cm" svg:x="6.5cm" svg:y="15.021cm">
+     <text:p text:style-name="P2"><text:span text:style-name="T11">5</text:span><text:span text:style-name="T6">時間</text:span></text:p>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr4" draw:text-style-name="P6" draw:layer="layout" svg:width="3cm" svg:height="1cm" svg:x="9.5cm" svg:y="15.021cm">
+     <text:p text:style-name="P2"><text:span text:style-name="T6">4</text:span><text:span text:style-name="T6">時間</text:span></text:p>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr4" draw:text-style-name="P6" draw:layer="layout" svg:width="3cm" svg:height="1cm" svg:x="0.524cm" svg:y="15.016cm">
+     <text:p text:style-name="P2"><text:span text:style-name="T12">2</text:span><text:span text:style-name="T6">時間</text:span></text:p>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr4" draw:text-style-name="P6" draw:layer="layout" svg:width="3cm" svg:height="1cm" svg:x="3.524cm" svg:y="15.016cm">
+     <text:p text:style-name="P2"><text:span text:style-name="T6">3</text:span><text:span text:style-name="T6">時間</text:span></text:p>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr4" draw:text-style-name="P6" draw:layer="layout" svg:width="3cm" svg:height="1cm" svg:x="15.524cm" svg:y="15.016cm">
+     <text:p text:style-name="P2"><text:span text:style-name="T13">6</text:span><text:span text:style-name="T7">時間</text:span></text:p>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr4" draw:text-style-name="P6" draw:layer="layout" svg:width="3cm" svg:height="1cm" svg:x="19.024cm" svg:y="15.016cm">
+     <text:p text:style-name="P2"><text:span text:style-name="T14">16</text:span><text:span text:style-name="T7">時間</text:span></text:p>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr4" draw:text-style-name="P6" draw:layer="layout" svg:width="3cm" svg:height="1cm" svg:x="22.024cm" svg:y="15.016cm">
+     <text:p text:style-name="P2"><text:span text:style-name="T7">18</text:span><text:span text:style-name="T7">時間</text:span></text:p>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr4" draw:text-style-name="P6" draw:layer="layout" svg:width="3cm" svg:height="1cm" svg:x="12.5cm" svg:y="15.021cm">
+     <text:p text:style-name="P2"><text:span text:style-name="T13">1</text:span><text:span text:style-name="T7">時間</text:span></text:p>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:frame draw:style-name="gr5" draw:text-style-name="P7" draw:layer="layout" svg:width="3.034cm" svg:height="0.882cm" svg:x="8.642cm" svg:y="8.116cm">
+     <draw:text-box>
+      <text:p><text:span text:style-name="T8">前期</text:span><text:span text:style-name="T8">(4-9</text:span><text:span text:style-name="T8">月</text:span><text:span text:style-name="T8">)</text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="gr6" draw:text-style-name="P8" draw:layer="layout" svg:width="3.309cm" svg:height="0.882cm" svg:x="20.824cm" svg:y="8.116cm">
+     <draw:text-box>
+      <text:p><text:span text:style-name="T9">後期</text:span><text:span text:style-name="T9">(10-2</text:span><text:span text:style-name="T9">月</text:span><text:span text:style-name="T9">)</text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="gr7" draw:text-style-name="P9" draw:layer="layout" svg:width="1.755cm" svg:height="0.878cm" svg:x="0.524cm" svg:y="8.116cm">
+     <draw:text-box>
+      <text:p><text:span text:style-name="T10">2016</text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:custom-shape draw:style-name="gr10" draw:text-style-name="P1" xml:id="id1" draw:id="id1" draw:layer="layout" svg:width="6cm" svg:height="6cm" svg:x="6.5cm" svg:y="1.6cm">
+     <text:p/>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr11" draw:text-style-name="P1" xml:id="id3" draw:id="id3" draw:layer="layout" svg:width="3cm" svg:height="6cm" svg:x="19cm" svg:y="1.6cm">
+     <text:p/>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr12" draw:text-style-name="P1" xml:id="id2" draw:id="id2" draw:layer="layout" svg:width="6cm" svg:height="6.9cm" svg:x="0.5cm" svg:y="9.1cm">
+     <text:p/>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr13" draw:text-style-name="P1" xml:id="id4" draw:id="id4" draw:layer="layout" svg:width="3cm" svg:height="6.9cm" svg:x="12.5cm" svg:y="9.1cm">
+     <text:p/>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:connector draw:style-name="gr14" draw:text-style-name="P10" draw:layer="layout" draw:type="line" svg:x1="9.5cm" svg:y1="7.6cm" svg:x2="3.5cm" svg:y2="9.1cm" draw:start-shape="id1" draw:end-shape="id2" draw:end-glue-point="0" svg:d="M9500 7600l-6000 1500" svg:viewBox="0 0 6001 1501">
+     <text:p/>
+    </draw:connector>
+    <draw:connector draw:style-name="gr14" draw:text-style-name="P10" draw:layer="layout" draw:type="line" svg:x1="20.5cm" svg:y1="7.6cm" svg:x2="14cm" svg:y2="9.1cm" draw:start-shape="id3" draw:end-shape="id4" draw:end-glue-point="0" svg:d="M20500 7600l-6500 1500" svg:viewBox="0 0 6501 1501">
+     <text:p/>
+    </draw:connector>
+    <draw:frame draw:style-name="gr15" draw:text-style-name="P11" draw:layer="layout" svg:width="2.939cm" svg:height="0.881cm" svg:x="25.1cm" svg:y="6.719cm">
+     <draw:text-box>
+      <text:p><text:span text:style-name="T15">55</text:span><text:span text:style-name="T15">～</text:span><text:span text:style-name="T15">60</text:span><text:span text:style-name="T15">時間</text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="gr15" draw:text-style-name="P11" draw:layer="layout" svg:width="2.939cm" svg:height="0.881cm" svg:x="25.161cm" svg:y="15.1cm">
+     <draw:text-box>
+      <text:p><text:span text:style-name="T15">55</text:span><text:span text:style-name="T15">～</text:span><text:span text:style-name="T15">60</text:span><text:span text:style-name="T15">時間</text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+   </draw:page>
+   <draw:page draw:name="page2" draw:style-name="dp2" draw:master-page-name="青系-Draw1">
+    <draw:line draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:x1="20.067cm" svg:y1="0.738cm" svg:x2="20.067cm" svg:y2="9.238cm">
+     <text:p/>
+    </draw:line>
+    <draw:custom-shape draw:style-name="gr2" draw:text-style-name="P3" draw:layer="layout" svg:width="3cm" svg:height="1cm" svg:x="6.567cm" svg:y="1.559cm">
+     <text:p text:style-name="P2"><text:span text:style-name="T1">Information</text:span></text:p>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr2" draw:text-style-name="P3" draw:layer="layout" svg:width="3cm" svg:height="1cm" svg:x="9.567cm" svg:y="1.559cm">
+     <text:p text:style-name="P2"><text:span text:style-name="T2">Communication</text:span></text:p>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr2" draw:text-style-name="P3" draw:layer="layout" svg:width="3cm" svg:height="1cm" svg:x="0.591cm" svg:y="1.554cm">
+     <text:p text:style-name="P2"><text:span text:style-name="T1">Security</text:span></text:p>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr2" draw:text-style-name="P3" draw:layer="layout" svg:width="3cm" svg:height="1cm" svg:x="3.591cm" svg:y="1.554cm">
+     <text:p text:style-name="P2"><text:span text:style-name="T1">知的財産</text:span></text:p>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr2" draw:text-style-name="P3" draw:layer="layout" svg:width="3cm" svg:height="1cm" svg:x="15.591cm" svg:y="1.554cm">
+     <text:p text:style-name="P2"><text:span text:style-name="T3">Media literacy</text:span></text:p>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr2" draw:text-style-name="P3" draw:layer="layout" svg:width="3cm" svg:height="1cm" svg:x="19.091cm" svg:y="1.554cm">
+     <text:p text:style-name="P2"><text:span text:style-name="T3">Presentation</text:span></text:p>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr2" draw:text-style-name="P3" draw:layer="layout" svg:width="3cm" svg:height="1cm" svg:x="22.091cm" svg:y="1.554cm">
+     <text:p text:style-name="P2"><text:span text:style-name="T3">Programming</text:span></text:p>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr2" draw:text-style-name="P3" draw:layer="layout" svg:width="3cm" svg:height="1cm" svg:x="12.567cm" svg:y="1.559cm">
+     <text:p text:style-name="P2"><text:span text:style-name="T3">Design</text:span></text:p>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr8" draw:text-style-name="P5" draw:layer="layout" svg:width="3cm" svg:height="4.9cm" svg:x="6.567cm" svg:y="2.559cm">
+     <text:list text:style-name="L1">
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">情報</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">個人情報</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">プライバシー</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">色覚</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">情報の主観性</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">生命情報</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">社会情報</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">機械情報</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">暗号化</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">情報の階層構造</text:span></text:p>
+      </text:list-item>
+     </text:list>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr9" draw:text-style-name="P5" draw:layer="layout" svg:width="3cm" svg:height="4.88cm" svg:x="9.567cm" svg:y="2.559cm">
+     <text:list text:style-name="L1">
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">Luhmann</text:span><text:span text:style-name="T4">モデル</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">メディア</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">伝播メディア</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">成果メディア</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">現実イメージ</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">機能的分化</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">包摂と排除</text:span></text:p>
+      </text:list-item>
+     </text:list>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr9" draw:text-style-name="P5" draw:layer="layout" svg:width="3cm" svg:height="4.88cm" svg:x="0.591cm" svg:y="2.558cm">
+     <text:list text:style-name="L1">
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">認証</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">マルウェア</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">詐欺</text:span></text:p>
+      </text:list-item>
+     </text:list>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr9" draw:text-style-name="P5" draw:layer="layout" svg:width="3cm" svg:height="4.88cm" svg:x="3.591cm" svg:y="2.558cm">
+     <text:list text:style-name="L1">
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">知的財産</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">知的財産権</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">特許要件</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">著作権</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">個性</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">アイデア</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">創発</text:span></text:p>
+      </text:list-item>
+     </text:list>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr9" draw:text-style-name="P5" draw:layer="layout" svg:width="3cm" svg:height="4.88cm" svg:x="15.591cm" svg:y="2.558cm">
+     <text:list text:style-name="L1">
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T5">情報の信頼性</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T5">印象操作</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T5">因果と相関</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">レポート概要</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">アウトライン</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">レポート作成</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">レビュー</text:span></text:p>
+      </text:list-item>
+     </text:list>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr9" draw:text-style-name="P5" draw:layer="layout" svg:width="3cm" svg:height="4.88cm" svg:x="19.091cm" svg:y="2.558cm">
+     <text:list text:style-name="L1">
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">プレゼン概要</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">テーマ決定</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">アウトライン</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">スライド構成</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">スライド作成</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">リハーサル</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">発表会</text:span></text:p>
+      </text:list-item>
+     </text:list>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr9" draw:text-style-name="P5" draw:layer="layout" svg:width="3cm" svg:height="4.88cm" svg:x="22.091cm" svg:y="2.558cm">
+     <text:list text:style-name="L1">
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">Scatch</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">アルゴリズム</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">フローチャート</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">表計算</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">Excel</text:span><text:span text:style-name="T4">関数</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">VBA</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">モンテカルロ法</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">モデル化</text:span></text:p>
+      </text:list-item>
+     </text:list>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr9" draw:text-style-name="P5" draw:layer="layout" svg:width="3cm" svg:height="4.88cm" svg:x="12.567cm" svg:y="2.559cm">
+     <text:list text:style-name="L1">
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">human error</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">Interface</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">Universal design</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">Affordance</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">対応付け</text:span></text:p>
+      </text:list-item>
+     </text:list>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr4" draw:text-style-name="P6" draw:layer="layout" svg:width="3cm" svg:height="1cm" svg:x="6.567cm" svg:y="7.459cm">
+     <text:p text:style-name="P2"><text:span text:style-name="T6">5</text:span><text:span text:style-name="T6">時間</text:span></text:p>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr4" draw:text-style-name="P6" draw:layer="layout" svg:width="3cm" svg:height="1cm" svg:x="9.567cm" svg:y="7.459cm">
+     <text:p text:style-name="P2"><text:span text:style-name="T6">4</text:span><text:span text:style-name="T6">時間</text:span></text:p>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr4" draw:text-style-name="P6" draw:layer="layout" svg:width="3cm" svg:height="1cm" svg:x="0.591cm" svg:y="7.454cm">
+     <text:p text:style-name="P2"><text:span text:style-name="T6">2</text:span><text:span text:style-name="T6">時間</text:span></text:p>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr4" draw:text-style-name="P6" draw:layer="layout" svg:width="3cm" svg:height="1cm" svg:x="3.591cm" svg:y="7.454cm">
+     <text:p text:style-name="P2"><text:span text:style-name="T6">3</text:span><text:span text:style-name="T6">時間</text:span></text:p>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr4" draw:text-style-name="P6" draw:layer="layout" svg:width="3cm" svg:height="1cm" svg:x="15.591cm" svg:y="7.454cm">
+     <text:p text:style-name="P2"><text:span text:style-name="T7">6</text:span><text:span text:style-name="T7">時間</text:span></text:p>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr4" draw:text-style-name="P6" draw:layer="layout" svg:width="3cm" svg:height="1cm" svg:x="19.091cm" svg:y="7.454cm">
+     <text:p text:style-name="P2"><text:span text:style-name="T7">16</text:span><text:span text:style-name="T7">時間</text:span></text:p>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr4" draw:text-style-name="P6" draw:layer="layout" svg:width="3cm" svg:height="1cm" svg:x="22.091cm" svg:y="7.454cm">
+     <text:p text:style-name="P2"><text:span text:style-name="T7">18</text:span><text:span text:style-name="T7">時間</text:span></text:p>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr4" draw:text-style-name="P6" draw:layer="layout" svg:width="3cm" svg:height="1cm" svg:x="12.567cm" svg:y="7.459cm">
+     <text:p text:style-name="P2"><text:span text:style-name="T7">1</text:span><text:span text:style-name="T7">時間</text:span></text:p>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:frame draw:style-name="gr5" draw:text-style-name="P7" draw:layer="layout" svg:width="3.034cm" svg:height="0.882cm" svg:x="8.709cm" svg:y="0.554cm">
+     <draw:text-box>
+      <text:p><text:span text:style-name="T8">前期</text:span><text:span text:style-name="T8">(4-9</text:span><text:span text:style-name="T8">月</text:span><text:span text:style-name="T8">)</text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="gr6" draw:text-style-name="P8" draw:layer="layout" svg:width="3.309cm" svg:height="0.882cm" svg:x="20.891cm" svg:y="0.554cm">
+     <draw:text-box>
+      <text:p><text:span text:style-name="T9">後期</text:span><text:span text:style-name="T9">(10-2</text:span><text:span text:style-name="T9">月</text:span><text:span text:style-name="T9">)</text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="gr7" draw:text-style-name="P9" draw:layer="layout" svg:width="1.755cm" svg:height="0.878cm" svg:x="0.591cm" svg:y="0.554cm">
+     <draw:text-box>
+      <text:p><text:span text:style-name="T10">2016</text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="gr15" draw:text-style-name="P11" draw:layer="layout" svg:width="2.939cm" svg:height="0.881cm" svg:x="25.228cm" svg:y="7.538cm">
+     <draw:text-box>
+      <text:p><text:span text:style-name="T15">55</text:span><text:span text:style-name="T15">～</text:span><text:span text:style-name="T15">60</text:span><text:span text:style-name="T15">時間</text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:line draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:x1="20.067cm" svg:y1="8.851cm" svg:x2="20.067cm" svg:y2="17.351cm">
+     <text:p/>
+    </draw:line>
+    <draw:custom-shape draw:style-name="gr2" draw:text-style-name="P3" draw:layer="layout" svg:width="3cm" svg:height="1cm" svg:x="6.567cm" svg:y="9.672cm">
+     <text:p text:style-name="P2"><text:span text:style-name="T1">Information</text:span></text:p>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr2" draw:text-style-name="P3" draw:layer="layout" svg:width="3cm" svg:height="1cm" svg:x="9.567cm" svg:y="9.672cm">
+     <text:p text:style-name="P2"><text:span text:style-name="T2">Communication</text:span></text:p>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr2" draw:text-style-name="P3" draw:layer="layout" svg:width="3cm" svg:height="1cm" svg:x="0.591cm" svg:y="9.667cm">
+     <text:p text:style-name="P2"><text:span text:style-name="T1">Security</text:span></text:p>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr2" draw:text-style-name="P12" draw:layer="layout" svg:width="3cm" svg:height="1cm" svg:x="3.591cm" svg:y="9.667cm">
+     <text:p text:style-name="P2"><text:span text:style-name="T16">Emergence</text:span></text:p>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr2" draw:text-style-name="P12" draw:layer="layout" svg:width="3cm" svg:height="1cm" svg:x="15.591cm" svg:y="9.667cm">
+     <text:p text:style-name="P2"><text:span text:style-name="T17">Comm. Ex.</text:span></text:p>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr2" draw:text-style-name="P12" draw:layer="layout" svg:width="3cm" svg:height="1cm" svg:x="19.091cm" svg:y="9.667cm">
+     <text:p text:style-name="P2"><text:span text:style-name="T17">Comm. Ex.</text:span></text:p>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr2" draw:text-style-name="P3" draw:layer="layout" svg:width="3cm" svg:height="1cm" svg:x="22.091cm" svg:y="9.667cm">
+     <text:p text:style-name="P2"><text:span text:style-name="T3">Programming</text:span></text:p>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr2" draw:text-style-name="P12" draw:layer="layout" svg:width="3cm" svg:height="1cm" svg:x="12.567cm" svg:y="9.672cm">
+     <text:p text:style-name="P2"><text:span text:style-name="T17">Interference</text:span></text:p>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr8" draw:text-style-name="P5" draw:layer="layout" svg:width="3cm" svg:height="4.9cm" svg:x="6.567cm" svg:y="10.672cm">
+     <text:list text:style-name="L1">
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">情報</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">個人情報</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">プライバシー</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">色覚</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">情報の主観性</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">生命情報</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">社会情報</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">機械情報</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">暗号化</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">情報の階層構造</text:span></text:p>
+      </text:list-item>
+     </text:list>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr9" draw:text-style-name="P5" draw:layer="layout" svg:width="3cm" svg:height="4.88cm" svg:x="9.567cm" svg:y="10.672cm">
+     <text:list text:style-name="L1">
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">Luhmann</text:span><text:span text:style-name="T4">モデル</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">design</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">メディア</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">伝播メディア</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">成果メディア</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">現実イメージ</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">機能的分化</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">包摂と排除</text:span></text:p>
+      </text:list-item>
+     </text:list>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr9" draw:text-style-name="P5" draw:layer="layout" svg:width="3cm" svg:height="4.88cm" svg:x="0.591cm" svg:y="10.671cm">
+     <text:list text:style-name="L1">
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">認証</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">マルウェア</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">詐欺</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T5">情報の信頼性</text:span></text:p>
+      </text:list-item>
+     </text:list>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr9" draw:text-style-name="P5" draw:layer="layout" svg:width="3cm" svg:height="4.88cm" svg:x="3.591cm" svg:y="10.671cm">
+     <text:list text:style-name="L1">
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">知的財産</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">知的財産権</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">特許要件</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">著作権</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">個性</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">アイデア</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">創発</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T5">問題解決</text:span></text:p>
+      </text:list-item>
+     </text:list>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr9" draw:text-style-name="P5" draw:layer="layout" svg:width="3cm" svg:height="4.88cm" svg:x="15.591cm" svg:y="10.671cm">
+     <text:list text:style-name="L1">
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">レポート概要</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">アウトライン</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">レポート作成</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">レビュー</text:span></text:p>
+      </text:list-item>
+     </text:list>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr9" draw:text-style-name="P5" draw:layer="layout" svg:width="3cm" svg:height="4.88cm" svg:x="19.091cm" svg:y="10.671cm">
+     <text:list text:style-name="L1">
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">プレゼン概要</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">テーマ決定</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">アウトライン</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">スライド構成</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">スライド作成</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">リハーサル</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">発表会</text:span></text:p>
+      </text:list-item>
+     </text:list>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr9" draw:text-style-name="P5" draw:layer="layout" svg:width="3cm" svg:height="4.88cm" svg:x="22.091cm" svg:y="10.671cm">
+     <text:list text:style-name="L1">
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">Scatch</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">アルゴリズム</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">フローチャート</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">表計算</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">Excel</text:span><text:span text:style-name="T4">関数</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">VBA</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">モンテカルロ法</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">モデル化</text:span></text:p>
+      </text:list-item>
+     </text:list>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr9" draw:text-style-name="P5" draw:layer="layout" svg:width="3cm" svg:height="4.88cm" svg:x="12.567cm" svg:y="10.672cm">
+     <text:list text:style-name="L1">
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">human error</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">Interface</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">Universal design</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">Affordance</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">対応付け</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T5">印象操作</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T5">因果と相関</text:span></text:p>
+      </text:list-item>
+     </text:list>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr4" draw:text-style-name="P6" draw:layer="layout" svg:width="3cm" svg:height="1cm" svg:x="6.567cm" svg:y="15.572cm">
+     <text:p text:style-name="P2"><text:span text:style-name="T6">5</text:span><text:span text:style-name="T6">時間</text:span></text:p>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr4" draw:text-style-name="P6" draw:layer="layout" svg:width="3cm" svg:height="1cm" svg:x="9.567cm" svg:y="15.572cm">
+     <text:p text:style-name="P2"><text:span text:style-name="T6">4</text:span><text:span text:style-name="T6">時間</text:span></text:p>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr4" draw:text-style-name="P6" draw:layer="layout" svg:width="3cm" svg:height="1cm" svg:x="0.591cm" svg:y="15.567cm">
+     <text:p text:style-name="P2"><text:span text:style-name="T6">2</text:span><text:span text:style-name="T6">時間</text:span></text:p>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr4" draw:text-style-name="P6" draw:layer="layout" svg:width="3cm" svg:height="1cm" svg:x="3.591cm" svg:y="15.567cm">
+     <text:p text:style-name="P2"><text:span text:style-name="T6">3</text:span><text:span text:style-name="T6">時間</text:span></text:p>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr4" draw:text-style-name="P6" draw:layer="layout" svg:width="3cm" svg:height="1cm" svg:x="15.591cm" svg:y="15.567cm">
+     <text:p text:style-name="P2"><text:span text:style-name="T7">6</text:span><text:span text:style-name="T7">時間</text:span></text:p>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr4" draw:text-style-name="P6" draw:layer="layout" svg:width="3cm" svg:height="1cm" svg:x="19.091cm" svg:y="15.567cm">
+     <text:p text:style-name="P2"><text:span text:style-name="T7">15</text:span><text:span text:style-name="T7">時間</text:span></text:p>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr4" draw:text-style-name="P6" draw:layer="layout" svg:width="3cm" svg:height="1cm" svg:x="22.091cm" svg:y="15.567cm">
+     <text:p text:style-name="P2"><text:span text:style-name="T7">18</text:span><text:span text:style-name="T7">時間</text:span></text:p>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr4" draw:text-style-name="P6" draw:layer="layout" svg:width="3cm" svg:height="1cm" svg:x="12.567cm" svg:y="15.572cm">
+     <text:p text:style-name="P2"><text:span text:style-name="T7">2</text:span><text:span text:style-name="T7">時間</text:span></text:p>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:frame draw:style-name="gr5" draw:text-style-name="P7" draw:layer="layout" svg:width="3.034cm" svg:height="0.882cm" svg:x="8.709cm" svg:y="8.667cm">
+     <draw:text-box>
+      <text:p><text:span text:style-name="T8">前期</text:span><text:span text:style-name="T8">(4-9</text:span><text:span text:style-name="T8">月</text:span><text:span text:style-name="T8">)</text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="gr6" draw:text-style-name="P8" draw:layer="layout" svg:width="3.309cm" svg:height="0.882cm" svg:x="20.891cm" svg:y="8.667cm">
+     <draw:text-box>
+      <text:p><text:span text:style-name="T9">後期</text:span><text:span text:style-name="T9">(10-2</text:span><text:span text:style-name="T9">月</text:span><text:span text:style-name="T9">)</text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="gr16" draw:text-style-name="P9" draw:layer="layout" svg:width="2.694cm" svg:height="0.966cm" svg:x="0.591cm" svg:y="8.667cm">
+     <draw:text-box>
+      <text:p><text:span text:style-name="T10">2017(</text:span><text:span text:style-name="T10">仮</text:span><text:span text:style-name="T10">)</text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:custom-shape draw:style-name="gr17" draw:text-style-name="P1" xml:id="id6" draw:id="id6" draw:layer="layout" svg:width="9.433cm" svg:height="6.9cm" svg:x="12.625cm" svg:y="9.651cm">
+     <text:p/>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:frame draw:style-name="gr15" draw:text-style-name="P11" draw:layer="layout" svg:width="2.939cm" svg:height="0.881cm" svg:x="25.228cm" svg:y="15.651cm">
+     <draw:text-box>
+      <text:p><text:span text:style-name="T15">55</text:span><text:span text:style-name="T15">～</text:span><text:span text:style-name="T15">60</text:span><text:span text:style-name="T15">時間</text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:connector draw:style-name="gr14" draw:text-style-name="P10" draw:layer="layout" draw:type="line" svg:x1="17.341cm" svg:y1="8.451cm" svg:x2="17.341cm" svg:y2="9.651cm" draw:start-shape="id5" draw:start-glue-point="2" draw:end-shape="id6" draw:end-glue-point="0" svg:d="M17341 8451v1200" svg:viewBox="0 0 1 1201">
+     <text:p/>
+    </draw:connector>
+    <draw:custom-shape draw:style-name="gr17" draw:text-style-name="P1" xml:id="id5" draw:id="id5" draw:layer="layout" svg:width="9.433cm" svg:height="6.9cm" svg:x="12.625cm" svg:y="1.551cm">
+     <text:p/>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr18" draw:text-style-name="P1" xml:id="id8" draw:id="id8" draw:layer="layout" svg:width="3.105cm" svg:height="6.9cm" svg:x="3.535cm" svg:y="9.651cm">
+     <text:p/>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:connector draw:style-name="gr14" draw:text-style-name="P10" draw:layer="layout" draw:type="line" svg:x1="5.087cm" svg:y1="8.451cm" svg:x2="5.087cm" svg:y2="9.651cm" draw:start-shape="id7" draw:start-glue-point="2" draw:end-shape="id8" draw:end-glue-point="0" svg:d="M5087 8451v1200" svg:viewBox="0 0 1 1201">
+     <text:p/>
+    </draw:connector>
+    <draw:custom-shape draw:style-name="gr18" draw:text-style-name="P1" xml:id="id7" draw:id="id7" draw:layer="layout" svg:width="3.105cm" svg:height="6.9cm" svg:x="3.535cm" svg:y="1.551cm">
+     <text:p/>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+   </draw:page>
+   <draw:page draw:name="page3" draw:style-name="dp2" draw:master-page-name="青系-Draw1">
+    <draw:custom-shape draw:style-name="gr19" draw:text-style-name="P13" draw:layer="layout" svg:width="3cm" svg:height="1cm" svg:x="6.567cm" svg:y="9.972cm">
+     <text:p text:style-name="P2"><text:span text:style-name="T1">Information</text:span></text:p>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr19" draw:text-style-name="P13" draw:layer="layout" svg:width="3cm" svg:height="1cm" svg:x="9.567cm" svg:y="9.972cm">
+     <text:p text:style-name="P2"><text:span text:style-name="T2">Communication</text:span></text:p>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr20" draw:text-style-name="P14" draw:layer="layout" svg:width="3cm" svg:height="1cm" svg:x="0.591cm" svg:y="9.967cm">
+     <text:p text:style-name="P2"><text:span text:style-name="T18">Security</text:span></text:p>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr21" draw:text-style-name="P15" draw:layer="layout" svg:width="3cm" svg:height="1cm" svg:x="3.591cm" svg:y="9.967cm">
+     <text:p text:style-name="P2"><text:span text:style-name="T16">Emergence</text:span></text:p>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr20" draw:text-style-name="P14" draw:layer="layout" svg:width="3cm" svg:height="1cm" svg:x="15.591cm" svg:y="9.967cm">
+     <text:p text:style-name="P2"><text:span text:style-name="T19">Comm. Ex.</text:span></text:p>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr20" draw:text-style-name="P14" draw:layer="layout" svg:width="3cm" svg:height="1cm" svg:x="18.591cm" svg:y="9.967cm">
+     <text:p text:style-name="P2"><text:span text:style-name="T19">Comm. Ex.</text:span></text:p>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr22" draw:text-style-name="P16" draw:layer="layout" svg:width="3cm" svg:height="1cm" svg:x="21.591cm" svg:y="9.967cm">
+     <text:p text:style-name="P2"><text:span text:style-name="T20">Programming</text:span></text:p>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr19" draw:text-style-name="P17" draw:layer="layout" svg:width="3cm" svg:height="1cm" svg:x="12.567cm" svg:y="9.972cm">
+     <text:p text:style-name="P2"><text:span text:style-name="T21">Interference</text:span></text:p>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr23" draw:text-style-name="P18" xml:id="id12" draw:id="id12" draw:layer="layout" svg:width="3cm" svg:height="4.9cm" svg:x="6.567cm" svg:y="10.972cm">
+     <text:list text:style-name="L1">
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T22">情報</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T22">個人情報</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T22">プライバシー</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T22">色覚</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T22">情報の主観性</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T22">生命情報</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T22">社会情報</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T22">機械情報</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T22">暗号化</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T22">情報の階層構造</text:span></text:p>
+      </text:list-item>
+     </text:list>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr24" draw:text-style-name="P18" xml:id="id13" draw:id="id13" draw:layer="layout" svg:width="3cm" svg:height="4.88cm" svg:x="9.567cm" svg:y="10.972cm">
+     <text:list text:style-name="L1">
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T22">Luhmann</text:span><text:span text:style-name="T22">モデル</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T22">design</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T22">メディア</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T22">伝播メディア</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T22">成果メディア</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T5">現実イメージ</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T5">機能的分化</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T5">包摂と排除</text:span></text:p>
+      </text:list-item>
+     </text:list>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr24" draw:text-style-name="P19" xml:id="id20" draw:id="id20" draw:layer="layout" svg:width="3cm" svg:height="4.88cm" svg:x="0.591cm" svg:y="10.971cm">
+     <text:list text:style-name="L1">
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">認証</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">マルウェア</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">詐欺</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">情報の信頼性</text:span></text:p>
+      </text:list-item>
+     </text:list>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr24" draw:text-style-name="P20" xml:id="id18" draw:id="id18" draw:layer="layout" svg:width="3cm" svg:height="4.88cm" svg:x="3.591cm" svg:y="10.971cm">
+     <text:list text:style-name="L1">
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T5">知的財産</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T5">知的財産権</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T5">特許要件</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T5">著作権</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T5">個性</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T5">アイデア</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T5">創発</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T5">問題解決</text:span></text:p>
+      </text:list-item>
+     </text:list>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr24" draw:text-style-name="P19" xml:id="id15" draw:id="id15" draw:layer="layout" svg:width="3cm" svg:height="4.88cm" svg:x="15.591cm" svg:y="10.971cm">
+     <text:list text:style-name="L1">
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">レポート概要</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T23">アウトライン</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T22">レポート作成</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T5">レビュー</text:span></text:p>
+      </text:list-item>
+     </text:list>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr24" draw:text-style-name="P19" xml:id="id16" draw:id="id16" draw:layer="layout" svg:width="3cm" svg:height="4.88cm" svg:x="18.591cm" svg:y="10.971cm">
+     <text:list text:style-name="L1">
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">プレゼン概要</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T5">テーマ決定</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T23">アウトライン</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T22">スライド構成</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T22">スライド作成</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T5">リハーサル</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T5">発表会</text:span></text:p>
+      </text:list-item>
+     </text:list>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr24" draw:text-style-name="P21" xml:id="id10" draw:id="id10" draw:layer="layout" svg:width="3cm" svg:height="4.88cm" svg:x="21.591cm" svg:y="10.971cm">
+     <text:list text:style-name="L1">
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T23">Scatch</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T23">アルゴリズム</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T23">フローチャート</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">表計算</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">Excel</text:span><text:span text:style-name="T4">関数</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T23">VBA</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T23">モンテカルロ法</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T22">モデル化</text:span></text:p>
+      </text:list-item>
+     </text:list>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr24" draw:text-style-name="P18" xml:id="id14" draw:id="id14" draw:layer="layout" svg:width="3cm" svg:height="4.88cm" svg:x="12.567cm" svg:y="10.972cm">
+     <text:list text:style-name="L1">
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T22">human error</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T22">Interface</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T22">Universal design</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T22">Affordance</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T22">対応付け</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T22">印象操作</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T22">因果と相関</text:span></text:p>
+      </text:list-item>
+     </text:list>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:frame draw:style-name="gr16" draw:text-style-name="P9" draw:layer="layout" svg:width="2.694cm" svg:height="0.966cm" svg:x="0.591cm" svg:y="8.967cm">
+     <draw:text-box>
+      <text:p><text:span text:style-name="T10">2017(</text:span><text:span text:style-name="T10">仮</text:span><text:span text:style-name="T10">)</text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:custom-shape draw:style-name="gr25" draw:text-style-name="P3" xml:id="id11" draw:id="id11" draw:layer="layout" svg:width="5cm" svg:height="1.5cm" svg:x="7cm" svg:y="19cm">
+     <text:p text:style-name="P2"><text:span text:style-name="T1">コミュニケーション</text:span></text:p>
+     <text:p text:style-name="P2"><text:span text:style-name="T1">と情報デザイン</text:span></text:p>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr26" draw:text-style-name="P22" xml:id="id17" draw:id="id17" draw:layer="layout" svg:width="5cm" svg:height="1.5cm" svg:x="1cm" svg:y="19cm">
+     <text:p text:style-name="P2"><text:span text:style-name="T16">情報社会の</text:span></text:p>
+     <text:p text:style-name="P2"><text:span text:style-name="T16">問題解決</text:span></text:p>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr27" draw:text-style-name="P23" xml:id="id9" draw:id="id9" draw:layer="layout" svg:width="5cm" svg:height="1.5cm" svg:x="19cm" svg:y="19cm">
+     <text:p text:style-name="P2"><text:span text:style-name="T24">コンピュータと</text:span></text:p>
+     <text:p text:style-name="P2"><text:span text:style-name="T24">プログラミング</text:span></text:p>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr28" draw:text-style-name="P24" xml:id="id19" draw:id="id19" draw:layer="layout" svg:width="5cm" svg:height="1.5cm" svg:x="13cm" svg:y="19cm">
+     <text:p text:style-name="P2"><text:span text:style-name="T19">情報通信ネットワーク</text:span></text:p>
+     <text:p text:style-name="P2"><text:span text:style-name="T19">とデータの利用</text:span></text:p>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:frame draw:style-name="gr29" draw:text-style-name="P9" draw:layer="layout" svg:width="2.733cm" svg:height="0.966cm" svg:x="0.591cm" svg:y="17.98cm">
+     <draw:text-box>
+      <text:p><text:span text:style-name="T10">情報</text:span><text:span text:style-name="T10">I(</text:span><text:span text:style-name="T10">仮</text:span><text:span text:style-name="T10">)</text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:connector draw:style-name="gr30" draw:text-style-name="P10" draw:layer="layout" draw:type="line" svg:x1="21.5cm" svg:y1="19cm" svg:x2="23.091cm" svg:y2="15.851cm" draw:start-shape="id9" draw:start-glue-point="0" draw:end-shape="id10" draw:end-glue-point="2" svg:d="M21500 19000l1591-3149" svg:viewBox="0 0 1592 3150">
+     <text:p/>
+    </draw:connector>
+    <draw:connector draw:style-name="gr31" draw:text-style-name="P10" draw:layer="layout" draw:type="line" svg:x1="9.5cm" svg:y1="19cm" svg:x2="8.067cm" svg:y2="15.872cm" draw:start-shape="id11" draw:start-glue-point="0" draw:end-shape="id12" draw:end-glue-point="2" svg:d="M9500 19000l-1433-3128" svg:viewBox="0 0 1434 3129">
+     <text:p/>
+    </draw:connector>
+    <draw:connector draw:style-name="gr31" draw:text-style-name="P10" draw:layer="layout" draw:type="line" svg:x1="9.5cm" svg:y1="19cm" svg:x2="11.067cm" svg:y2="15.852cm" draw:start-shape="id11" draw:start-glue-point="0" draw:end-shape="id13" draw:end-glue-point="2" svg:d="M9500 19000l1567-3148" svg:viewBox="0 0 1568 3149">
+     <text:p/>
+    </draw:connector>
+    <draw:connector draw:style-name="gr31" draw:text-style-name="P10" draw:layer="layout" draw:type="line" svg:x1="9.5cm" svg:y1="19cm" svg:x2="14.067cm" svg:y2="15.852cm" draw:start-shape="id11" draw:start-glue-point="0" draw:end-shape="id14" svg:d="M9500 19000l4567-3148" svg:viewBox="0 0 4568 3149">
+     <text:p/>
+    </draw:connector>
+    <draw:connector draw:style-name="gr32" draw:text-style-name="P10" draw:layer="layout" draw:type="line" svg:x1="9.5cm" svg:y1="19cm" svg:x2="17.091cm" svg:y2="15.851cm" draw:start-shape="id11" draw:start-glue-point="0" draw:end-shape="id15" svg:d="M9500 19000l7591-3149" svg:viewBox="0 0 7592 3150">
+     <text:p/>
+    </draw:connector>
+    <draw:connector draw:style-name="gr32" draw:text-style-name="P10" draw:layer="layout" draw:type="line" svg:x1="9.5cm" svg:y1="19cm" svg:x2="20.091cm" svg:y2="15.851cm" draw:start-shape="id11" draw:start-glue-point="0" draw:end-shape="id16" draw:end-glue-point="2" svg:d="M9500 19000l10591-3149" svg:viewBox="0 0 10592 3150">
+     <text:p/>
+    </draw:connector>
+    <draw:connector draw:style-name="gr14" draw:text-style-name="P10" draw:layer="layout" draw:type="line" svg:x1="3.5cm" svg:y1="19cm" svg:x2="5.091cm" svg:y2="15.851cm" draw:start-shape="id17" draw:end-shape="id18" draw:end-glue-point="2" svg:d="M3500 19000l1591-3149" svg:viewBox="0 0 1592 3150">
+     <text:p/>
+    </draw:connector>
+    <draw:connector draw:style-name="gr33" draw:text-style-name="P10" draw:layer="layout" draw:type="line" svg:x1="15.5cm" svg:y1="19cm" svg:x2="2.091cm" svg:y2="15.851cm" draw:start-shape="id19" draw:start-glue-point="0" draw:end-shape="id20" svg:d="M15500 19000l-13409-3149" svg:viewBox="0 0 13410 3150">
+     <text:p/>
+    </draw:connector>
+    <draw:connector draw:style-name="gr33" draw:text-style-name="P10" draw:layer="layout" draw:type="line" svg:x1="15.5cm" svg:y1="19cm" svg:x2="17.091cm" svg:y2="15.851cm" draw:start-shape="id19" draw:start-glue-point="0" draw:end-shape="id15" draw:end-glue-point="2" svg:d="M15500 19000l1591-3149" svg:viewBox="0 0 1592 3150">
+     <text:p/>
+    </draw:connector>
+    <draw:connector draw:style-name="gr33" draw:text-style-name="P10" draw:layer="layout" draw:type="line" svg:x1="15.5cm" svg:y1="19cm" svg:x2="20.091cm" svg:y2="15.851cm" draw:start-shape="id19" draw:start-glue-point="0" draw:end-shape="id16" draw:end-glue-point="2" svg:d="M15500 19000l4591-3149" svg:viewBox="0 0 4592 3150">
+     <text:p/>
+    </draw:connector>
+    <draw:connector draw:style-name="gr34" draw:text-style-name="P10" draw:layer="layout" draw:type="line" svg:x1="3.5cm" svg:y1="19cm" svg:x2="20.091cm" svg:y2="15.851cm" draw:start-shape="id17" draw:start-glue-point="0" draw:end-shape="id16" svg:d="M3500 19000l16591-3149" svg:viewBox="0 0 16592 3150">
+     <text:p/>
+    </draw:connector>
+    <draw:connector draw:style-name="gr14" draw:text-style-name="P10" draw:layer="layout" draw:type="line" svg:x1="3.5cm" svg:y1="19cm" svg:x2="11.067cm" svg:y2="15.852cm" draw:start-shape="id17" draw:start-glue-point="0" draw:end-shape="id13" draw:end-glue-point="2" svg:d="M3500 19000l7567-3148" svg:viewBox="0 0 7568 3149">
+     <text:p/>
+    </draw:connector>
+   </draw:page>
+   <draw:page draw:name="page4" draw:style-name="dp2" draw:master-page-name="青系-Draw1">
+    <draw:custom-shape draw:style-name="gr35" draw:text-style-name="P25" draw:layer="layout" svg:width="3cm" svg:height="1cm" svg:x="0.534cm" svg:y="11.847cm">
+     <text:p text:style-name="P2"><text:span text:style-name="T1">Information</text:span></text:p>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr35" draw:text-style-name="P25" draw:layer="layout" svg:width="3cm" svg:height="1cm" svg:x="3.534cm" svg:y="11.847cm">
+     <text:p text:style-name="P2"><text:span text:style-name="T2">Communication</text:span></text:p>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr35" draw:text-style-name="P25" draw:layer="layout" svg:width="3cm" svg:height="1cm" svg:x="6.534cm" svg:y="11.847cm">
+     <text:p text:style-name="P2"><text:span text:style-name="T1">IP</text:span></text:p>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr35" draw:text-style-name="P25" draw:layer="layout" svg:width="3cm" svg:height="1cm" svg:x="9.534cm" svg:y="11.847cm">
+     <text:p text:style-name="P2"><text:span text:style-name="T3">Media literacy</text:span></text:p>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr35" draw:text-style-name="P25" draw:layer="layout" svg:width="3cm" svg:height="1cm" svg:x="13.034cm" svg:y="11.847cm">
+     <text:p text:style-name="P2"><text:span text:style-name="T3">Presentation</text:span></text:p>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr35" draw:text-style-name="P25" draw:layer="layout" svg:width="3cm" svg:height="1cm" svg:x="16.034cm" svg:y="11.847cm">
+     <text:p text:style-name="P2"><text:span text:style-name="T3">Programming</text:span></text:p>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr35" draw:text-style-name="P25" draw:layer="layout" svg:width="3cm" svg:height="1cm" svg:x="19.034cm" svg:y="11.847cm">
+     <text:p text:style-name="P2"><text:span text:style-name="T3">Other</text:span></text:p>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr3" draw:text-style-name="P5" draw:layer="layout" svg:width="3cm" svg:height="4cm" svg:x="0.534cm" svg:y="12.847cm">
+     <text:list text:style-name="L1">
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">情報</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">情報の主観性</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">生命情報</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">社会情報</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">機械情報</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">情報の階層構造</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">意味の潜在化</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">個人情報</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">プライバシー</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">暗号化</text:span></text:p>
+      </text:list-item>
+     </text:list>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr3" draw:text-style-name="P5" draw:layer="layout" svg:width="3cm" svg:height="4cm" svg:x="3.534cm" svg:y="12.847cm">
+     <text:list text:style-name="L1">
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">Luhmann</text:span><text:span text:style-name="T4">モデル</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">メディア</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">伝播メディア</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">成果メディア</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">生命情報の媒介</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">現実イメージ</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">機能的分化</text:span></text:p>
+      </text:list-item>
+     </text:list>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr3" draw:text-style-name="P5" draw:layer="layout" svg:width="3cm" svg:height="4cm" svg:x="6.534cm" svg:y="12.847cm">
+     <text:list text:style-name="L1">
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">知的財産権</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">特許要件</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">著作権</text:span></text:p>
+      </text:list-item>
+     </text:list>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr3" draw:text-style-name="P5" draw:layer="layout" svg:width="3cm" svg:height="4cm" svg:x="9.534cm" svg:y="12.847cm">
+     <text:list text:style-name="L1">
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">情報の信頼性</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">印象操作</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">因果と相関</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">詐欺</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">アウトライン</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">(</text:span><text:span text:style-name="T4">レポート作成</text:span><text:span text:style-name="T4">)</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">レビュー</text:span></text:p>
+      </text:list-item>
+     </text:list>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr3" draw:text-style-name="P5" draw:layer="layout" svg:width="3cm" svg:height="4cm" svg:x="13.034cm" svg:y="12.847cm">
+     <text:list text:style-name="L1">
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">プレゼン概要</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">テーマ決定</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">アウトライン</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">スライド構成</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">スライド作成</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">リハーサル</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">発表会</text:span></text:p>
+      </text:list-item>
+     </text:list>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr3" draw:text-style-name="P5" draw:layer="layout" svg:width="3cm" svg:height="4cm" svg:x="16.034cm" svg:y="12.847cm">
+     <text:list text:style-name="L1">
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">Squeak</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">プログラム</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">アルゴリズム</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">フローチャート</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">表計算</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">Excel</text:span><text:span text:style-name="T4">関数</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">VBA</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">Scratch</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">マルウェア</text:span></text:p>
+      </text:list-item>
+     </text:list>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr3" draw:text-style-name="P5" draw:layer="layout" svg:width="3cm" svg:height="4cm" svg:x="19.034cm" svg:y="12.847cm">
+     <text:list text:style-name="L1">
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">音声の符号化</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">画像の符号化</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">色の符号化</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">エラー訂正</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">Interface</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">Universal design</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">Affordance</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P4"><text:span text:style-name="T4">human error</text:span></text:p>
+      </text:list-item>
+     </text:list>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+   </draw:page>
+  </office:drawing>
+ </office:body>
+</office:document>

@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../texml2html.xsl"?>
+<log title="システム論に基づく情報教育の授業計画と教育実践" by="大西 洋 \\ (京都市立西京高等学校)" slide="1" embed="1" bib="slide-zen2016" biball="1">
+<article>
+<s h="Background">
+<frame title="\insertsection">
+<block title="学習指導要領「情報I(仮称)」">
+	<alert>問題の発見・解決に向け</alert>て、事象を情報とその結び付きの視点から捉え、情報技術を適切かつ効果的に活用する力を育む科目<cite id="mext"/>
+	<ol>
+		<li>情報社会の<alert>問題解決</alert><br/>(他の項目の<em>導入</em>として位置づける)</li>
+		<li>コミュニケーションと情報デザイン</li>
+		<li>コンピュータとプログラミング</li>
+		<li>情報通信ネットワークとデータの利用</li>
+	</ol>
+</block>
+</frame>
+
+<frame title="\insertsection">
+<block title="March and Simon『Organizations』">
+	<ul>
+		<li><alert>問題解決</alert><br/>
+			既存の<em>行動レパートリーを選択</em>する<em>短期適応的</em>な過程</li>
+		<li><alert>学習</alert><br/>
+			新たな<em>行動レパートリーを追加</em>する<em>長期適応的</em>な過程</li>
+		<li mark="⇨">問題解決のみでは、情報科で扱う内容の<alert>構造</alert>が伝わらない懸念がある</li>
+		<li mark="※">「教科の<em>構造を強調する良い教育</em>は、才能にめぐまれた生徒よりも、<alert>あまり有能でない生徒にとってこそ価値</alert>がある」<br/>(Bruner『教育の過程』<cite id="bruner"/>)</li>
+	</ul>
+</block>
+</frame>
+
+<frame title="\insertsection">
+<block title="研究目的" class="alert">
+	科目としての<alert>構造</alert>を有する体系的な「情報I」のカリキュラム作成
+</block>
+
+<block title="Approach" class="alert">
+	<alert>システム論</alert>と<alert>基礎情報学</alert>の知見を取り入れる
+	<ul>
+		<li>システム論: <em>「結び付き」</em>を専門とする学問分野</li>
+		<li>現在の「情報I」の構成とも対応付ける</li>
+		<li>勤務校での授業実践とその評価</li>
+	</ul>
+</block>
+</frame>
+</s>
+
+
+<s h="Previous works">
+<frame title="\insertsection">
+<block title="Bertalanffyによるシステムの定義">
+	<alert>相互に作用</alert>しあう要素の集合<cite id="bertalanffy"/>
+	<ul>
+		<li><alert>心理システム</alert> (e.g. 個人)<br/>
+			<em>思考</em>を要素とするシステム</li>
+		<li><alert>社会システム</alert> (e.g. 組織)<br/>
+			<em>コミュニケーション</em>を要素とするシステム</li>
+		<li mark="※">要素が継続的に生じることでシステムを維持(<alert>autopoiesis</alert>)</li>
+		<li mark="※"><alert>構造</alert>: 要素間の関連(関係, 結び付き, つながり, ...)</li>
+	</ul>
+</block>
+<img src="system.svg" scale=".8" title="システムの分類"/>
+</frame>
+
+<frame title="\insertsection">
+<block title="西垣による情報概念の層化">
+	<alert>情報(information)</alert>を3層に層化(西垣『基礎情報学』(2004)<cite id="nishigaki1"/>)
+	<ol>
+		<li><alert>生命情報</alert><br/>
+			「<em>生命の内部(in)に意味を形成(form)</em>させるもの」</li>
+		<li><alert>社会情報</alert><br/>
+			「<em>記号・言語と意味が一体化</em>した生命情報」<br/>
+			意味を互いに理解することで、生命が社会活動を送ることが可能</li>
+		<li><alert>機械情報</alert><br/>
+			「<em>意味が潜在化</em>した社会情報」<br/>
+			機械的な情報の複製や、計算機による高速な処理が可能</li>
+	</ol>
+</block>
+</frame>
+
+<frame title="\insertsection">
+<img src="inclusion2.svg" scale=".8" title="3層の情報概念"/>
+</frame>
+
+<frame title="\insertsection">
+<block title="N.Luhmannのメディア概念">
+	コミュニケーションにおいて情報を媒介するもの
+	<ul>
+		<li><alert>伝播メディア</alert>:
+			<em>機械情報</em>を<em>物理的</em>に媒介<br/>
+			遠隔の相手とのコミュニケーションを可能にするメディア<br/>
+			例: 紙や書籍、動画や放送、電話、ネット、メール、SNS</li>
+		<li><alert>成果メディア</alert>:
+			<em>社会情報</em>を<em>論理的</em>に媒介<br/>
+			コミュニケーションを円滑にし、成果を出やすくなるメディア<br/>
+			例: 真理、愛、貨幣、法、権力、宗教、芸術、組織文化</li>
+	</ul>
+	(Borch『ニクラス・ルーマン入門――社会システム理論とは何か』(2014)<cite id="borch"/>)<br/>
+	(西垣『生命と機械をつなぐ知――基礎情報学入門』(2012)<cite id="nishigaki2"/>)
+</block>
+</frame>
+
+<frame title="\insertsection">
+<block title="N.Luhmannのコミュニケーション・モデル">
+	コミュニケーションを<em>4つの選択</em>と定義
+	<ol>
+		<li><alert>情報</alert>の選択<br/>
+			送り手と受け手でやりとりされる情報が選択される</li>
+		<li><alert>伝達</alert>の選択<br/>
+			選ばれた情報をどう伝えるかが選択される</li>
+		<li><alert>理解</alert>の選択<br/>
+			伝達された事柄をどう理解するかが選択される</li>
+		<li><alert>理解の受容</alert>の選択<br/>
+			理解を受け入れるか否か、という理解の受容が選択される</li>
+	</ol>
+	これらの<em>繰り返し</em>により、コミュニケーションが継続していく<br/>
+	(Luhmann「What is Communication?」(1992)<cite id="luhmann-interfere"/>)
+</block>
+</frame>
+
+<frame title="\insertsection">
+<img src="model-comm.svg" scale=".5" title="情報・メディア・コミュニケーションの統合モデル"/>
+</frame>
+
+<frame title="\insertsection">
+<img src="structure.svg" scale=".6" title="情報・コミュニケーション・システム概念の次元"/>
+</frame>
+</s>
+
+
+<s h="授業設計">
+<frame title="\insertsection">
+<block title="情報社会の問題解決">
+</block>
+</frame>
+
+<frame title="\insertsection">
+<block title="コミュニケーションと情報デザイン">
+</block>
+</frame>
+
+<frame title="\insertsection">
+<block title="コンピュータとプログラミング">
+</block>
+</frame>
+
+<frame title="\insertsection">
+<block title="情報通信ネットワークとデータの利用">
+</block>
+</frame>
+</s>
+
+
+<s h="授業実践">
+<frame title="\insertsection">
+<block>
+	京都市立西京高校1年生(7クラス)で実施
+	<ul>
+		<li>「情報学基礎」(学校設定科目)で実施</li>
+	</ul>
+</block>
+</frame>
+
+<frame title="\insertsection">
+<img src="plan2015-2016.svg" scale=".5" title="教育課程の改善1"/>
+</frame>
+
+<frame title="\insertsection">
+<img src="plan2016-2017.svg" scale=".5" title="教育課程の改善2"/>
+</frame>
+
+<frame title="\insertsection">
+<img src="plan2017-i1.svg" scale=".5" title="情報Iの各項目との対応"/>
+</frame>
+
+<frame title="\insertsection">
+<block title="前半: コミュニケーション・モデル">
+	提案モデルの流れを、発問を交えつつ説明
+	<ul>
+		<li>異性間の告白の場面を例に、それぞれの選択を解説</li>
+		<li>特に「表現の選択」「理解の選択」を焦点化</li>
+	</ul>
+</block>
+
+<block title="後半: メディアとその影響">
+	2種類のメディアと、メディアが及ぼす影響を説明
+	<ul>
+		<li>成果メディアは、「愛」「真理」など一般的なものと「組織文化」を例示</li>
+		<li>メディアが個人と社会に及ぼす影響を説明</li>
+	</ul>
+</block>
+</frame>
+
+<frame title="\insertsection">
+<block title="授業評価アンケートの自由記述欄より">
+	<ul>
+		<li><em>情報の選択や、受け取り方</em>が普段は意識していないけれど大切なんだと感じました。</li>
+		<li>情報の<em>伝え方によって相手が受け止めるものが違う</em>ということが分かった。送り手がしっかりとメディアを選択する必要があると感じた。</li>
+		<li>情報は身近だけれど、とても難しいものだと感じた。同じことを表していても<em>表現の仕方によって伝わり方が全く違った</em>し、自分も普段の会話やラインで気をつけようと思った。</li>
+	</ul>
+</block>
+</frame>
+</s>
+
+
+<s h="Conclusion">
+<frame title="\insertsection">
+<block>
+	N.Luhmannのコミュニケーション・モデルを修正し、それに基づく授業を展開
+	<ul>
+		<li>情報・メディア・コミュニケーションを<alert>統一的な視点</alert>で提示</li>
+		<li>プレゼンなどの応用での土台となる<alert>基礎的な理解</alert>を与えた</li>
+	</ul>
+</block>
+
+<block title="Future tasks">
+	<ul>
+		<li>プレゼンテーションやデザインの単元との統合</li>
+		<li>提案モデルに基づく課題の作成<br/>(失敗しているコミュニケーションの分析など)</li>
+		<li>提案モデルに基づく教材の充実<br/>(対象とする生徒に合わせる)</li>
+	</ul>
+</block>
+</frame>
+
+</s>
+</article>
+</log>
