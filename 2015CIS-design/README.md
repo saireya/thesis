@@ -1,4 +1,4 @@
-## BADUIからユニバーサルデザインへ展開するデザイン教育実践
+# BADUIからユニバーサルデザインへ展開するデザイン教育実践
 [第12回 情報コミュニケーション学会(CIS)全国大会](http://www.cis.gr.jp/zenkoku.html)(2015)にて発表。
 
 ## 概要
@@ -6,7 +6,7 @@
 
 ## 関連資料
 - [発表スライド](https://www.slideshare.net/saireya/slide-cis2015)
-- [授業資料(スライド、指導案、ワークシート)](https://saireya.gitbooks.io/plan-informatics/content/design/index.html)
+- [授業資料(スライド、指導案、ワークシート)](https://saireya.gitbooks.io/plan-informatics/content/design)
 - [論文(Markdown版)](thesis.md)
 - [論文(docx版)](https://www.scribd.com/doc/255147300)
-- [ソース](https://github.com/saireya/thesis-manuscript/2015CIS-design)
+- [ソース](https://github.com/saireya/thesis-manuscript/tree/master/2015CIS-design)
