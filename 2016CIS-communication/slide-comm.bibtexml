@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../bibtexml2html.xsl"?>
+<file xmlns="http://bibtexml.sf.net/">
+
+<entry id="moon"><misc>
+	<author>ぱくたそ</author>
+	<title>中秋の名月</title>
+	<url>https://www.pakutaso.com/20110919256post-630.html</url>
+</misc></entry>
+
+<entry id="wheelchair"><misc>
+	<author>産経新聞</author>
+	<title>【車いすでみるなら(4)】奈良公園の鹿が近い…「一人で外出」は歩行者目線を忘れない責任がつきまとう</title>
+	<url>http://www.sankei.com/west/news/150419/wst1504190003-n1.html</url>
+</misc></entry>
+
+<entry id="chair-easy"><misc>
+	<author>宮崎県身体障害者相談センター</author>
+	<title>補装具の種類 車いすなど</title>
+	<url>http://www.shinsyocenter-miyazaki.com/shinsyo-shien/hosougu/hosougu-kurumaisu.html</url>
+</misc></entry>
+
+<entry id="babymetal"><misc>
+	<author>東洋経済オンライン</author>
+	<title>「BABYMETAL快進撃!」の絶妙な仕掛け</title>
+	<url>http://toyokeizai.net/articles/-/57210</url>
+</misc></entry>
+
+<entry id="babymetal-kami"><misc>
+	<author>BABYMETAL BLOOD</author>
+	<title>“神バンド”BABYMETALバックのメンバー詳細プロフィール!素顔や音源!誰</title>
+	<url>http://babymetal.me/132.html</url>
+</misc></entry>
+
+<entry id="sakuragakuin"><misc>
+	<author>Kawaii girl Japan</author>
+	<title>【さくら学院】現12人でのラストシングル「My Graduation Toss」を2/27に発売。卒業する生徒会長、すず香の一番の思い出は?</title>
+	<url>http://www.kawaii-girl.jp/feature/35239</url>
+</misc></entry>
+
+<entry id="oxygen"><misc>
+	<author>KDE</author>
+	<title>Oxygen Icons</title>
+	<url>http://www.kde.org</url>
+</misc></entry>
+
+</file>
