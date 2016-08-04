@@ -62,6 +62,21 @@
 </frame>
 
 <frame title="\insertsection">
+<block title="Autopoiesis(自己創発)">
+	要素が継続的に生じることでシステムを維持<cite id="kawamoto"/>
+	<ul>
+		<li><alert>開放系</alert>:
+			<em>直接的</em>に<em>外部からの影響を受けて</em>変化するシステム</li>
+		<li><alert>半閉鎖系</alert>:
+			<em>間接的</em>に<em>外部からの影響を受けて</em>変化するシステム</li>
+		<li><alert>閉鎖系</alert>:
+			<em>外部からの影響を受けずに</em>変化するシステム</li>
+	</ul>
+</block>
+<img src="system-autopoiesis.svg" scale=".75" title="Autopoiesis"/>
+</frame>
+
+<frame title="\insertsection">
 <block title="西垣による情報概念の層化">
 	<alert>情報(information)</alert>を3層に層化(西垣『基礎情報学』(2004)<cite id="nishigaki1"/>)
 	<ol>
