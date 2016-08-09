@@ -47,14 +47,15 @@
 
 <s h="Previous works">
 <frame title="\insertsection">
-<block title="Bertalanffyによるシステムの定義">
-	<alert>相互に作用</alert>しあう要素の集合<cite id="bertalanffy"/>
+<block title="Bertalanffyによるシステム(系)の定義">
+	<alert>相互に作用</alert>しあう要素の集合(Bertalanffy『一般システム理論』(1973)<cite id="bertalanffy"/>)
 	<ul>
 		<li><alert>心理システム</alert> (e.g. 個人)<br/>
 			<em>思考</em>を要素とするシステム</li>
 		<li><alert>社会システム</alert> (e.g. 組織)<br/>
-			<em>コミュニケーション</em>を要素とするシステム</li>
-		<li mark="※">要素が継続的に生じることでシステムを維持(<alert>autopoiesis</alert>)</li>
+			<em>コミュニケーション</em>を要素とするシステム<br/>
+			(Barnard『経営者の役割』(1968), March and Simon『Organizations』(2014)<cite id="marchsimon"/>)
+			</li>
 		<li mark="※"><alert>構造</alert>: 要素間の関連(関係, 結び付き, つながり, ...)</li>
 	</ul>
 </block>
@@ -145,21 +146,46 @@
 <s h="授業設計">
 <frame title="\insertsection">
 <block title="情報社会の問題解決">
+	<ol>
+		<li><alert>現代社会の特徴</alert>に関する基本理解<br/>
+			e.g. <em>機能的分化(多様化)</em>, <em>包摂</em>(inclusion)と<em>排除</em>(exclusion), <em>globalization</em></li>
+		<li>問題解決手法としての<alert>創発</alert>(emergence)<br/>
+			アイデアは「<em>既存の要素の新しい組み合わせ</em>」(Young『アイデアのつくり方』<cite id="young"/><cite id="young-j"/>)</li>
+		<li><alert>総合探求</alert>(仮称)との連携<br/>
+			情報Iで<em>問題解決の概念と方法</em>を準備し、総合探求で実際の問題解決を行うことも可能</li>
+		<li mark="※">中学までに学ぶ知識・技能は有用だが、それだけでは<alert>現代の問題解決には不十分</alert>という前提が必要</li>
+	</ol>
 </block>
 </frame>
 
 <frame title="\insertsection">
 <block title="コミュニケーションと情報デザイン">
+	<ol>
+		<li><alert>情報</alert>・<alert>コミュニケーション</alert>・<alert>メディア</alert>に関する基本理解</li>
+		<li mark="⇨">13:00～「参照基準における『情報一般の原理』に関連する授業実践」にて紹介</li>
+		<li><alert>意図</alert>に基づく理解と表現を行う能力<br/>
+			\[ (\text{表現}) = (\text{情報}) + (\text{意図}) \]</li>
+		<li>問題解決を目的とした<alert>介入</alert>(interference)の技能<br/>
+			<alert>介入</alert>: 他のシステムがどのように行為するか規定する行為<cite id="luhmann-interfere"/><br/>
+			e.g. <em>presentation</em>, <em>design</em>, <em>教育</em></li>
+	</ol>
 </block>
 </frame>
 
 <frame title="\insertsection">
 <block title="コンピュータとプログラミング">
+	<ol>
+		<li>問題解決を目的とした<alert>論理的思考力</alert>の涵養</li>
+		<li>現実の事象の特定の側面に意味を見出す<alert>モデル化</alert>の技能の涵養</li>
+		<li mark="※">過渡的には、手前の教育段階で行われるべき内容も必要</li>
+	</ol>
 </block>
-</frame>
 
-<frame title="\insertsection">
 <block title="情報通信ネットワークとデータの利用">
+	<ol>
+		<li>ネットワークを通して生じる<alert>セキュリティ</alert>上のリスクの理解</li>
+		<li>問題解決を目的にネットワークを通して必要な<em>情報を収集</em>する技能</li>
+	</ol>
 </block>
 </frame>
 </s>
@@ -171,6 +197,8 @@
 	京都市立西京高校1年生(7クラス)で実施
 	<ul>
 		<li>「情報学基礎」(学校設定科目)で実施</li>
+		<li>実教出版『社会と情報』(教科書)を使用</li>
+		<li>補助資料『Information and System』(作成中): <a href="http://saireya.github.io"/></li>
 	</ul>
 </block>
 </frame>
@@ -186,52 +214,25 @@
 <frame title="\insertsection">
 <img src="plan2017-i1.svg" scale=".5" title="情報Iの各項目との対応"/>
 </frame>
-
-<frame title="\insertsection">
-<block title="前半: コミュニケーション・モデル">
-	提案モデルの流れを、発問を交えつつ説明
-	<ul>
-		<li>異性間の告白の場面を例に、それぞれの選択を解説</li>
-		<li>特に「表現の選択」「理解の選択」を焦点化</li>
-	</ul>
-</block>
-
-<block title="後半: メディアとその影響">
-	2種類のメディアと、メディアが及ぼす影響を説明
-	<ul>
-		<li>成果メディアは、「愛」「真理」など一般的なものと「組織文化」を例示</li>
-		<li>メディアが個人と社会に及ぼす影響を説明</li>
-	</ul>
-</block>
-</frame>
-
-<frame title="\insertsection">
-<block title="授業評価アンケートの自由記述欄より">
-	<ul>
-		<li><em>情報の選択や、受け取り方</em>が普段は意識していないけれど大切なんだと感じました。</li>
-		<li>情報の<em>伝え方によって相手が受け止めるものが違う</em>ということが分かった。送り手がしっかりとメディアを選択する必要があると感じた。</li>
-		<li>情報は身近だけれど、とても難しいものだと感じた。同じことを表していても<em>表現の仕方によって伝わり方が全く違った</em>し、自分も普段の会話やラインで気をつけようと思った。</li>
-	</ul>
-</block>
-</frame>
 </s>
 
 
 <s h="Conclusion">
 <frame title="\insertsection">
 <block>
-	N.Luhmannのコミュニケーション・モデルを修正し、それに基づく授業を展開
+	情報Iの項目にシステム論の概念を対応付け、統一的な情報科の教育課程を開発
 	<ul>
-		<li>情報・メディア・コミュニケーションを<alert>統一的な視点</alert>で提示</li>
-		<li>プレゼンなどの応用での土台となる<alert>基礎的な理解</alert>を与えた</li>
+		<li>情報・コミュニケーション・システムの各層を明確化</li>
+		<li>体系化・効率化を進め、勤務校での教育課程を継続的に改善</li>
+		<li>提案した教育課程に基づく補助資料を開発 (作成中)</li>
 	</ul>
 </block>
 
 <block title="Future tasks">
 	<ul>
-		<li>プレゼンテーションやデザインの単元との統合</li>
-		<li>提案モデルに基づく課題の作成<br/>(失敗しているコミュニケーションの分析など)</li>
-		<li>提案モデルに基づく教材の充実<br/>(対象とする生徒に合わせる)</li>
+		<li>システムより上層にある<em>創発</em>・<em>介入</em>の位置づけ・教材開発</li>
+		<li><em>論理的思考</em>と<em>モデル化</em>に関する教材開発</li>
+		<li>補助資料の項目を整理すると共に例を追加し、内容を充実させる</li>
 	</ul>
 </block>
 </frame>

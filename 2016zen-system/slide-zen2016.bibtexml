@@ -34,6 +34,15 @@
 	<isbn>4622025221</isbn>
 </book></entry>
 
+<entry id="barnard"><book>
+	<author>Chester I. Barnard</author>
+	<title>新訳 経営者の役割</title>
+	<publisher>ダイヤモンド社</publisher>
+	<pages>75</pages>
+	<year>1968</year>
+	<isbn>4478320020</isbn>
+</book></entry>
+
 <entry id="nishigaki1"><book>
 	<author>西垣 通</author>
 	<title>基礎情報学――生命から社会へ</title>
@@ -99,5 +108,17 @@
 	<url>http://www.scribd.com/doc/299911454</url>
 	<year>2016</year>
 </article></entry>
+
+<entry id="young"><book>
+	<author>James W. Young</author>
+	<title>A Technique for Producing Ideas</title>
+	<year>1940</year>
+</book></entry>
+
+<entry id="young-j"><book>
+	<author>James W. Young</author>
+	<title>アイデアのつくり方</title>
+	<year>1960</year>
+</book></entry>
 
 </file>
