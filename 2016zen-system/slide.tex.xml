@@ -121,7 +121,7 @@
 	<ol>
 		<li><alert>情報</alert>の選択<br/>
 			送り手と受け手でやりとりされる情報が選択される</li>
-		<li><alert>伝達</alert>の選択<br/>
+		<li><alert>表現</alert>の選択<br/>
 			選ばれた情報をどう伝えるかが選択される</li>
 		<li><alert>理解</alert>の選択<br/>
 			伝達された事柄をどう理解するかが選択される</li>
@@ -129,7 +129,7 @@
 			理解を受け入れるか否か、という理解の受容が選択される</li>
 	</ol>
 	これらの<em>繰り返し</em>により、コミュニケーションが継続していく<br/>
-	(Luhmann「What is Communication?」(1992)<cite id="luhmann-interfere"/>)
+	(Luhmann「What is Communication?」(1992)<cite id="luhmann-interfere"/>, 筆者ら<cite id="ohnishi"/>)
 </block>
 </frame>
 
