@@ -9,4 +9,4 @@
 - [発表スライド(PDF版)](https://www.slideshare.net/saireya/ss-64816787)
 - [論文(Markdown版)](thesis.md)
 - [論文(PDF版)](https://www.scribd.com/doc/319242230)
-- [ソース](https://github.com/saireya/thesis-manuscript/tree/master/2016zen-system)
+- [ソース](https://github.com/saireya/thesis/tree/gh-pages/2016zen-system)

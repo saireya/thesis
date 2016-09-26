@@ -10,4 +10,4 @@
 - [授業資料(スライド、指導案、ワークシート)](https://saireya.gitbooks.io/plan-informatics/content/communication)
 - [論文(Markdown版)](thesis.md)
 - [論文(PDF版)](https://www.scribd.com/doc/299911454)
-- [ソース](https://github.com/saireya/thesis-manuscript/tree/master/2016CIS-communication)
+- [ソース](https://github.com/saireya/thesis/tree/gh-pages/2016CIS-communication)
