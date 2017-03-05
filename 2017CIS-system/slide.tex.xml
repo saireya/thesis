@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../texml2html.xsl"?>
+<log title="社会システム理論に基づく情報教育の教材開発" by="大西 洋, 藤岡 健史 \\ (京都市立西京高等学校)" slide="1" embed="1" bib="slide">
+<article>
+<s h="Background">
+<frame title="\insertsection">
+<block title="次期学習指導要領「情報I」">
+	<ul>
+		<li>情報社会の問題解決</li>
+		<li><alert>コミュニケーションと情報デザイン</alert></li>
+		<li>情報通信ネットワークとデータの利用</li>
+		<li>コンピュータとプログラミング</li>
+	</ul>
+</block>
+</frame>
+
+<frame title="\insertsection">
+<block title="文科省による「コミュニケーション能力」の定義">
+	<ul>
+		<li>学習指導要領「コミュニケーション英語I,II」<br/>
+			「<em>情報や考え</em>などを<em>的確に理解</em>したり<em>適切に伝え</em>たりする」能力</li>
+		<li>文科省「子どもたちのコミュニケーション能力を育むために」<br/>
+			「<em>いろいろな価値観や背景</em>をもつ人々による集団において、<em>相互関係</em>を深め、<em>共感</em>しながら、<em>人間関係やチームワーク</em>を形成し、<em>正解のない課題や経験したことのない問題</em>について、<em>対話</em>をして<em>情報を共有</em>し、自ら<em>深く考え</em>、相互に<em>考えを伝え、深め合い</em>つつ、<em>合意形成</em>・<em>課題解決</em>する能力」</li>
+		<li mark="⇨">「<alert>コミュニケーションとはそもそも何なのか?</alert>」が不明瞭</li>
+	</ul>
+</block>
+</frame>
+
+<frame title="\insertsection">
+<block title="研究目的" class="alert">
+	<alert>コミュニケーションを主軸</alert>とする共通教科情報のカリキュラム作成
+	<ul>
+		<li>情報・メディア・デザインなどの主要概念と結びつけて体系化</li>
+		<li>勤務校の情報科(※)での授業実践とその評価</li>
+		<li mark="※">「社会と情報」(～2015年度)、「情報学基礎」(2016年度～)(学校設定科目)</li>
+	</ul>
+</block>
+
+<block title="Approach" class="alert">
+	<alert>社会システム理論</alert>と<alert>基礎情報学</alert>の知見に基づく<em>教材</em>を開発
+	<ul>
+		<li><em>学習者</em>向けの<em>自習用資料</em></li>
+		<li><em>教授者</em>向けの<em>授業用教材</em></li>
+	</ul>
+</block>
+</frame>
+</s>
+
+
+<s h="Previous works">
+<frame title="\insertsection">
+<img src="structure.svg" scale=".6" title="情報・コミュニケーション・システム概念の次元"/>
+</frame>
+
+<frame title="\insertsection">
+<block title="西垣による情報概念の層化">
+	<alert>情報(information)</alert>を3層に層化(西垣『基礎情報学』(2004)<cite id="nishigaki1"/>)
+	<ol>
+		<li><alert>生命情報</alert><br/>
+			「<em>生命の内部(in)に意味を形成(form)</em>させるもの」</li>
+		<li><alert>社会情報</alert><br/>
+			「<em>記号・言語と意味が一体化</em>した生命情報」<br/>
+			意味を互いに理解することで、生命が社会活動を送ることが可能</li>
+		<li><alert>機械情報</alert><br/>
+			「<em>意味が潜在化</em>した社会情報」<br/>
+			機械的な情報の複製や、計算機による高速な処理が可能</li>
+	</ol>
+</block>
+<img src="inclusion.svg" scale=".75" title="3層の情報概念"/>
+</frame>
+
+<frame title="\insertsection">
+<block title="N.Luhmannのメディア概念">
+	コミュニケーションにおいて情報を媒介するもの
+	<ul>
+		<li><alert>伝播メディア</alert>:
+			<em>機械情報</em>を<em>物理的</em>に媒介<br/>
+			遠隔の相手とのコミュニケーションを可能にするメディア<br/>
+			例: 紙や書籍、動画や放送、電話、ネット、メール、SNS</li>
+		<li><alert>成果メディア</alert>:
+			<em>社会情報</em>を<em>論理的</em>に媒介<br/>
+			コミュニケーションを円滑にし、成果を出やすくなるメディア<br/>
+			例: 真理、愛、貨幣、法、権力、宗教、芸術、組織文化</li>
+	</ul>
+	(Borch『ニクラス・ルーマン入門――社会システム理論とは何か』(2014)<cite id="borch"/>)<br/>
+	(西垣『生命と機械をつなぐ知――基礎情報学入門』(2012)<cite id="nishigaki2"/>)
+</block>
+</frame>
+
+<frame title="\insertsection">
+<block title="コミュニケーション・モデル">
+	コミュニケーションを<em>4つの選択</em>と定義
+	<ol>
+		<li><alert>情報</alert>の選択<br/>
+			送り手と受け手でやりとりされる<em>情報</em>が選択される</li>
+		<li><alert>表現</alert>の選択 (<em>デザイン</em>)<br/>
+			選ばれた情報をどう伝えるかという<em>表現</em>が選択される</li>
+		<li><alert>理解</alert>の選択<br/>
+			表現された事柄をどう<em>理解</em>するかが選択される</li>
+		<li><alert>理解の受容</alert>の選択<br/>
+			理解を<em>受け入れるか否か</em>、という理解の受容が選択される</li>
+	</ol>
+	これらの<em>繰り返し</em>により、コミュニケーションが継続していく<br/>
+	(Luhmann「What is Communication?」(1992)<cite id="luhmann-interfere"/>, 筆者ら(2016, CIS)<cite id="ohnishi"/>)
+</block>
+</frame>
+
+<frame title="\insertsection">
+<img src="model-comm.svg" scale=".5" title="情報・メディア・コミュニケーションの統合モデル (筆者ら(2016, CIS))"/>
+</frame>
+
+<frame title="\insertsection">
+<block title="社会システム理論・基礎情報学に基づく授業実践事例・教材">
+	<ul>
+		<li>筆者ら「参照基準における「情報一般の原理」に関連する授業実践」(2016, 全高情研)<cite id="fi"/></li>
+		<li>筆者「システム論に基づく情報教育の授業計画と教育実践」(2016, 全高情研)<cite id="ohnishi2"/></li>
+		<li>中島・西垣『生命と機械をつなぐ授業――「基礎情報学」からデザインした高校情報』(高陵社書店, 2012)<cite id="nakajima"/></li>
+	</ul>
+</block>
+</frame>
+
+<frame title="\insertsection">
+<block title="Bertalanffyによるシステム(系)の定義">
+	<alert>相互に作用</alert>しあう要素の集合(Bertalanffy『一般システム理論』(1973)<cite id="bertalanffy"/>)
+	<ul>
+		<li><alert>心理システム</alert> (e.g. 個人)<br/>
+			<em>思考</em>を要素とするシステム</li>
+		<li><alert>社会システム</alert> (e.g. 組織)<br/>
+			<em>コミュニケーション</em>を要素とするシステム<br/>
+			(Barnard『経営者の役割』(1968)<cite id="barnard"/>, March and Simon『Organizations』(2014)<cite id="marchsimon"/>)
+			</li>
+		<li mark="※"><alert>構造</alert>: 要素間の関連(関係, 結び付き, つながり, ...)</li>
+	</ul>
+</block>
+<img src="system.svg" scale=".8" title="システムの分類"/>
+</frame>
+
+<frame title="\insertsection">
+<block title="Autopoiesis(自己創発)">
+	要素が継続的に生じることでシステムを維持<cite id="kawamoto"/>
+	<ul>
+		<li><alert>開放系</alert>:
+			<em>直接的</em>に<em>外部からの影響を受けて</em>変化するシステム</li>
+		<li><alert>半閉鎖系</alert>:
+			<em>間接的</em>に<em>外部からの影響を受けて</em>変化するシステム</li>
+		<li><alert>閉鎖系</alert>:
+			<em>外部からの影響を受けずに</em>変化するシステム</li>
+	</ul>
+</block>
+<img src="system-autopoiesis.svg" scale=".75" title="Autopoiesis"/>
+</frame>
+
+<frame title="\insertsection">
+<img src="plan2017-i1.svg" scale=".5" title="情報Iの各項目との対応(筆者(2016, 全高情研))"/>
+
+<block title="Problem">
+	<ul>
+		<li>現行教科書に記載が少ないため、授業時間の多くが説明に費やされる</li>
+		<li>概念理解に使える具体的な事例が不足している</li>
+	</ul>
+</block>
+</frame>
+</s>
+
+
+<s h="教材開発">
+<frame title="\insertsection">
+<block title="学習者向け自習用資料">
+	<a href="http://saireya.github.io">筆者Webサイト</a>
+	<ul>
+		<li>情報を基礎単位とし、コミュニケーション、メディア、システムの各概念を解説</li>
+		<li>概念を説明する図解を多用し、概念理解が容易になるよう配慮</li>
+		<li>(引用以外の素材は基本的にパブリックドメインかFLOSSライセンスに)</li>
+		<li>(GitBookとLaTeXを併用し、PDFにもHTMLにも出力可)</li>
+	</ul>
+</block>
+</frame>
+
+<frame title="\insertsection">
+<block title="教授者向け授業用教材">
+	指導案・授業スライドは筆者のWebサイトで公開
+	<ul>
+		<li>情報の主観性: 「菖蒲」は何を指すか? 、色覚の多様性、岡本太郎『今日の芸術』</li>
+		<li>社会情報: ピクトグラム</li>
+		<li>機械情報: 写経、暗号</li>
+		<li>コミュニケーション: 「月が綺麗ですね」とは? 、「車いすでみるなら」(産経新聞連載)、高橋みなみ『リーダー論』、冗長性(Shannon)、Postelの法則</li>
+		<li>成果メディア: 内輪ネタ(組織文化)、「お茶飲んでくるねー」(3776)の意味、THE BIG ISSUE(包摂と排除)</li>
+		<li><em>介入</em>: 3Dグラフ、コウノトリの生息数と出生率、<alert>津波記念碑の碑文と風化</alert></li>
+	</ul>
+</block>
+</frame>
+
+<frame title="\insertsection">
+<block title="介入(interference)">
+	あるシステムがその<alert>行為を通して、他のシステムがどのように行為するか規定</alert>する行為(Luhmann(1992)<cite id="luhmann-interfere"/>)
+	<ul>
+		<li><em>他のシステムを変化させるため</em>に行うコミュニケーション</li>
+		<li><alert>(情報) + (意図) = (表現)</alert></li>
+		<li>e.g. <em>プレゼンテーション</em>, <em>教育</em>, 檄文</li>
+	</ul>
+</block>
+
+<block title="「風化」">
+	地域コミュニティ(<em>社会システム</em>)における共通の文化(<em>成果メディア</em>)であった<em>被災体験</em>が時間の経過とともに消失していく現象
+	<ul>
+		<li><alert>石碑</alert>: 被災体験の維持(<em>介入</em>)を目的とした、次世代とのコミュニケーションにおける<em>伝播メディア</em>の1つ</li>
+	</ul>
+</block>
+</frame>
+
+<frame title="\insertsection">
+<multicols>
+<column width="5cm">
+<block title="読売新聞より">
+	<p><cmd name="quad" gr="0"/>東日本大震災からしばらくして、自分が住んでいた近くに、昭和三陸津波の石碑があったらしいと知りました。公民館のとなりの、広場のようなところ。<em>よく友達と遊んでいた場所</em>です。行ってみたら、高さ２メートルくらいの石碑が残っていました。(中略)</p>
+	<p><cmd name="quad" gr="0"/><alert>それまで全然気づかなかった</alert>。よく残ってたなと思うと同時に、すごいショックで。後悔しきれなかった。<alert>もっと伝わっていれば、もっと多くの人が助かったのでは</alert>と。</p>
+	<!-- いわゆる「風化」 -->
+</block>
+</column>
+<column width="5cm">
+<img src="sekihi.jpg" scale=".4"/>
+</column>
+</multicols>
+</frame>
+
+<frame title="\insertsection">
+<block title="岩手県大槌町">
+	東日本大震災では多数の建物が流失し、死者・行方不明者は町長はじめ1,200人以上(町民の1割)
+</block>
+<multicols num="2">
+<block title="大津浪記念碑(岩手県大槌町)碑文" class="example">
+	昭和八年三月三日<br/>
+	大津波記念碑<br/>
+	<cmd name="vspace"><parm>1em</parm></cmd>
+	一、地震があったら津波の用心せよ<br/>
+	一、津波が来たら高い所へ逃げよ<br/>
+	一、危険地帯に住居をするな
+</block>
+<img src="sekihi.jpg" scale=".4"/>
+</multicols>
+</frame>
+
+<frame title="\insertsection">
+<block title="岩手県宮古市姉吉地区">
+	東日本大震災では、11世帯30名のうち4名が行方不明になったものの、浸水した建物はなし
+</block>
+<multicols num="2">
+<block title="大津浪記念碑(岩手県宮古市)碑文" class="example">
+	大津波記念碑<br/>
+	<cmd name="vspace"><parm>1em</parm></cmd>
+	高き住居は児孫の和楽<br/>
+	想へ惨禍の大津浪<br/>
+	此処より下に家を建てるな<br/>
+	<cmd name="vspace"><parm>1em</parm></cmd>
+	明治二十九年にも、昭和八年にも<br/>
+	津浪は此処まで来て<br/>
+	部落は全滅し、生存者僅かに<br/>
+	前に二人後に四人のみ<br/>
+	幾歳経るとも要心<ruby r="なにより">何従</ruby>
+</block>
+<img src="sekihi2.jpg" scale=".4"/>
+</multicols>
+</frame>
+
+<frame title="\insertsection">
+<block title="「木碑」">
+	定期的に交換させることで「風化」を防ぐ
+</block>
+
+<multicols>
+<column width="7cm">
+<block title="「津波の記憶、木製の碑に…被災地の10代」(読売新聞2015/3/11)">
+	<p><cmd name="quad" gr="0"/><em>石だと風景の一部に</em>なってしまう。だから木です。木だと腐る。腐るときに記憶に残る。それで<em>交換しにいけば風化しないのでは</em>ないか。４年に１度、交換します。</p>
+	<p><cmd name="quad" gr="0"/>震災のことを忘れてほしくない。町内に、１本だけです。立てすぎても、風景になって忘れられてしまうと思うから。</p>
+</block>
+</column>
+<column width="4cm">
+	<img src="mokuhi2.jpg" scale=".4"/>
+</column>
+</multicols>
+</frame>
+
+<frame title="\insertsection">
+<block title="生徒記述欄:「情報を潜在化させずに伝えるにはどうすればよいか」">
+	<ul>
+		<li>自分が<em>伝えたいと思っている情報についてまず自分自身でより理解</em>しないといけない。</li>
+		<li>自分で<em>わかっていることほど”具体的に”</em>伝える。</li>
+		<li><em>感情が完全に伝わらない分、はっきりとした根拠を持って、それを的確に</em>伝える必要がある。</li>
+		<li>まずは<em>相手に自分が伝えたい内容についてどれだけ知識があるのか</em>知る。</li>
+		<li>自分は何が言いたいのか分かっていても相手が分かってくれるとは限らないので、<em>相手には伝わらないという前提</em>で考える。</li>
+		<li>他人ごとにならないように、<em>自分のこととして受け止めてもらえるように</em>する。</li>
+	</ul>
+</block>
+</frame>
+
+<frame title="\insertsection">
+<multicols>
+<column width="7cm">
+<block title="気仙沼市震災復興計画「海と生きる」">
+先人たちはこれまで何度も津波に襲われても、海の可能性を信じて再起を果たしてきた。人智の及ばぬ壮大な力としながらも、<em>海を敵視せず、積極的に関わり合って</em>暮らしてきた。
+それは、単に「海で」生活していたのではなく、人間は自然の一部であることを経験的に体得し、<em>対等の関係を築いて「海と」生活</em>していたとも言える。その態度が<em>自然観や運命観、ひいては死生観</em>となった。
+気仙沼の<em>観念</em>は海にある。
+いまを生きる世代が再び<em>海の可能性</em>を信じ、復興を成し遂げることが犠牲者への供養となり、次世代への希望となろう。
+理念を超えた観念をメッセージ化したものが「<alert>海と生きる</alert>」である。
+</block>
+</column>
+<column width="5cm">
+<img src="karakuwa.jpg" scale=".2"/>
+<img src="port.jpg" scale=".2"/>
+</column>
+</multicols>
+</frame>
+</s>
+
+
+<s h="Conclusion">
+<frame title="\insertsection">
+<block>
+	<em>社会システム理論</em>に基づく体系的な授業を実践できる教材を開発
+	<ul>
+		<li><em>学習者</em>が<em>自習</em>用に使用できる<em>資料</em>を作成</li>
+		<li><em>教授者</em>が<em>授業</em>用に使用できる<em>教材</em>を作成</li>
+		<li>三陸地域の<em>津波記念碑</em>を題材に、他者とのコミュニケーションにおける要点を考察する授業を実施</li>
+	</ul>
+</block>
+
+<block title="Future tasks">
+	<ul>
+		<li>主要概念の<em>関連分野に関する記述や事例</em>の追加</li>
+		<li>教材に沿った個人や協働で取り組む<em>授業用課題</em>の作成<br/>(失敗しているコミュニケーションの分析など)</li>
+	</ul>
+</block>
+</frame>
+
+</s>
+</article>
+</log>

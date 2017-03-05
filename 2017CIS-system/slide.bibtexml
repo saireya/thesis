@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../bibtexml2html.xsl"?>
+<file xmlns="http://bibtexml.sf.net/">
+
+<entry id="marchsimon"><book>
+	<author>
+		<person>James G. March</person>
+		<person>Herbert A. Simon</person>
+	</author>
+	<title>オーガニゼーションズ 第2版――現代組織論の原典</title>
+	<publisher>ダイヤモンド社</publisher>
+	<year>2014</year>
+	<isbn>4478021767</isbn>
+</book></entry>
+
+<entry id="bertalanffy"><book>
+	<author>Ludwig von Bertalanffy</author>
+	<title>一般システム理論――その基礎・発展・応用</title>
+	<publisher>みすず書房</publisher>
+	<year>1973</year>
+	<isbn>4622025221</isbn>
+</book></entry>
+
+<entry id="barnard"><book>
+	<author>Chester I. Barnard</author>
+	<title>新訳 経営者の役割</title>
+	<publisher>ダイヤモンド社</publisher>
+	<pages>75</pages>
+	<year>1968</year>
+	<isbn>4478320020</isbn>
+</book></entry>
+
+<entry id="nishigaki1"><book>
+	<author>西垣 通</author>
+	<title>基礎情報学――生命から社会へ</title>
+	<publisher>NTT出版</publisher>
+	<year>2004</year>
+	<isbn>4757101201</isbn>
+</book></entry>
+
+<entry id="nishigaki2"><book>
+	<author>西垣 通</author>
+	<title>生命と機械をつなぐ知 基礎情報学入門</title>
+	<publisher>高陵社書店</publisher>
+	<year>2012</year>
+	<isbn>4771109958</isbn>
+</book></entry>
+
+<entry id="luhmann"><article>
+	<author>Niklas Luhmann</author>
+	<title>What is Communication?</title>
+	<journal>Communication Theory</journal>
+	<publisher>Blackwell Publishing Ltd</publisher>
+	<volume>2</volume>
+	<number>3</number>
+	<pages>251-259</pages>
+	<year>1992</year>
+	<doi>10.1111/j.1468-2885.1992.tb00042.x</doi>
+</article></entry>
+
+<entry id="luhmann-interfere"><article>
+	<author>
+		<person>Niklas Luhmann</person>
+		<person>Karl-Eberhard Schorr</person>
+	</author>
+	<title>Wie ist Erziehung Möglich? - Eine wissenschaftssoziologische Analyse der Erziehungswissenschaft (教育が可能であるとはどういうことか?――教育科学の社会科学的分析 (下地ら訳))</title>
+	<journal>東京大学教育学部教育哲学・教育史研究室紀要</journal>
+	<publisher>東京大学</publisher>
+	<volume>18</volume>
+	<year>1992</year>
+</article></entry>
+
+<entry id="borch"><book>
+	<author>Christian Borch</author>
+	<title>ニクラス・ルーマン入門――社会システム理論とは何か</title>
+	<publisher>新泉社</publisher>
+	<year>2014</year>
+	<isbn>4787714066</isbn>
+</book></entry>
+
+<entry id="kawamoto"><book>
+	<author>河本 英夫</author>
+	<title>オートポイエーシス――第三世代システム</title>
+	<publisher>青土社</publisher>
+	<year>1995</year>
+	<isbn>4791753879</isbn>
+</book></entry>
+
+<entry id="ohnishi"><article>
+	<author>
+		<person>大西 洋</person>
+		<person>藤岡 健史</person>
+	</author>
+	<title>コミュニケーション・情報・メディアの統合モデルに基づく教育実践</title>
+	<url>http://www.scribd.com/doc/299911454</url>
+	<year>2016</year>
+</article></entry>
+
+<entry id="ohnishi2"><article>
+	<author>大西 洋</author>
+	<title>システム論に基づく情報教育の授業計画と教育実践</title>
+	<url>http://www.scribd.com/doc/336892468</url>
+	<year>2016</year>
+</article></entry>
+
+<entry id="fi"><article>
+	<author>
+		<person>藤岡 健史</person>
+		<person>大西 洋</person>
+		<person>下村 誠</person>
+	</author>
+	<title>参照基準における「情報一般の原理」に関連する授業実践</title>
+	<url>http://www.zenkojoken.jp/09kanagawa/subcom/</url>
+	<year>2016</year>
+</article></entry>
+
+<entry id="nakajima"><book>
+	<author>
+		<person>中島 聡</person>
+		<person>西垣 通</person>
+	</author>
+	<title>生命と機械をつなぐ授業――「基礎情報学」からデザインした高校情報</title>
+	<publisher>高陵社書店</publisher>
+	<year>2012</year>
+	<isbn>4771109982</isbn>
+</book></entry>
+
+<entry id="sekihi"><misc>
+	<author>防災科学技術研究所 自然災害情報室</author>
+	<title>三陸地方の地震津波災害</title>
+	<url>http://dil.bosai.go.jp/disaster/2011eq311/sanrikuhistory.html</url>
+</misc></entry>
+
+<entry id="mokuhi"><misc>
+	<author>被災地NGO恊働センター</author>
+	<title>【東日本大震災】レポートNo.227</title>
+	<url>http://miyagijishin.seesaa.net/article/373641327.html</url>
+</misc></entry>
+
+<entry id="mokuhi2"><misc>
+	<author>毎日新聞</author>
+	<title>津波:石碑ではなく「木碑」…教訓の風化、建て替えで防ぐ</title>
+	<url>http://mainichi.jp/select/news/20150219k0000e040228000c.html</url>
+</misc></entry>
+</file>
