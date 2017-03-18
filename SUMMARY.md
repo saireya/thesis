@@ -3,6 +3,7 @@
 	* [社会システム理論に基づく情報教育の教材開発](2017CIS-system/README.md)
 		* [要旨](2017CIS-system/README.md)
 		* [本文](2017CIS-system/thesis.md)
+	* [視座としての一般システム理論の可能性](2017ICKT-system/README.md) (poster)
 	* [システム論に基づく情報教育の授業計画と教育実践](2016zen-system/README.md)
 		* [要旨](2016zen-system/README.md)
 		* [本文](2016zen-system/thesis.md)
