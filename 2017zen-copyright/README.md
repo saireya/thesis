@@ -6,3 +6,6 @@
 
 ## 関連資料
 - [ポスター(PDF版)](https://www.scribd.com/doc/355560688)
+- [授業スライド(PDF版)](https://www.slideshare.net/saireya/ss-51971964)
+- [グループワーク課題](https://www.dropbox.com/s/w5g35m2soo1c18u/%E8%91%97%E4%BD%9C%E6%A8%A9%E6%B3%95%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%83%AF%E3%83%BC%E3%82%AF%E8%AA%B2%E9%A1%8C.docx?dl=0)
+- [著作権法条文プリント](https://www.dropbox.com/s/wtq6kbtzmib9ugi/%E8%91%97%E4%BD%9C%E6%A8%A9%E6%B3%95%E6%9D%A1%E6%96%87.docx?dl=0)
