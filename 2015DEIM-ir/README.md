@@ -8,6 +8,6 @@
 
 ## 関連資料
 
-- [発表スライド](http://www.slideshare.net/saireya/slide-deim2015)
+- [発表スライド](https://www.slideshare.net/saireya/slide-deim2015)
 - [論文(docx版)](https://www.scribd.com/doc/257485153)
 - [ポスター](https://www.scribd.com/doc/257486265)

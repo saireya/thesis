@@ -8,7 +8,7 @@
 
 ## 関連資料
 
-- [発表スライド](http://www.slideshare.net/saireya/ss-16947621)
+- [発表スライド](https://www.slideshare.net/saireya/ss-16947621)
 - [論文(docx版)](https://www.scribd.com/doc/255147679)
 - [ポスター](https://www.scribd.com/doc/257486031)
 

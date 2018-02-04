@@ -8,9 +8,9 @@
 
 ## 関連資料
 
-- [発表スライド(HTML版)](http://saireya.github.io/thesis/2016CIS-communication/slide.tex.xml)
+- [発表スライド(HTML版)](https://saireya.github.io/thesis/2016CIS-communication/slide.tex.xml)
 - [発表スライド(PDF版)](https://www.slideshare.net/saireya/ss-58806956)
 - [授業資料(スライド、指導案、ワークシート)](https://saireya.gitbooks.io/plan-informatics/content/communication)
 - [論文(Markdown版)](thesis.md)
 - [論文(PDF版)](https://www.scribd.com/doc/299911454)
-- [ソース](https://github.com/saireya/thesis/tree/gh-pages/2016CIS-communication)
+- [ソース](https://github.com/saireya/thesis/tree/master/2016CIS-communication)

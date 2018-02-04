@@ -8,8 +8,8 @@
 
 ## 関連資料
 
-- [発表スライド(HTML版)](http://saireya.github.io/thesis/2017CIS-system/slide.tex.xml)
+- [発表スライド(HTML版)](https://saireya.github.io/thesis/2017CIS-system/slide.tex.xml)
 - [発表スライド(PDF版)](https://www.slideshare.net/saireya/ss-72823010)
 - [論文(Markdown版)](thesis.md)
 - [論文(PDF版)](https://www.scribd.com/doc/336892468)
-- [ソース](https://github.com/saireya/thesis/tree/gh-pages/2017CIS-system)
+- [ソース](https://github.com/saireya/thesis/tree/master/2017CIS-system)

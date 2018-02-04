@@ -8,9 +8,9 @@
 
 ## 関連資料
 
-- [発表スライド(HTML版)](http://saireya.github.io/thesis/2015CIS-design/slide.tex.xml)
+- [発表スライド(HTML版)](https://saireya.github.io/thesis/2015CIS-design/slide.tex.xml)
 - [発表スライド(PDF版)](https://www.slideshare.net/saireya/slide-cis2015)
 - [授業資料(スライド、指導案、ワークシート)](https://saireya.gitbooks.io/plan-informatics/content/design)
 - [論文(Markdown版)](thesis.md)
 - [論文(PDF版)](https://www.scribd.com/doc/255147300)
-- [ソース](https://github.com/saireya/thesis/tree/gh-pages/2015CIS-design)
+- [ソース](https://github.com/saireya/thesis/tree/master/2015CIS-design)
