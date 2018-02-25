@@ -8,5 +8,5 @@
 - [発表スライド(HTML版)](https://saireya.github.io/thesis/2018CIS-innovation/slide.tex.xml)
 - [発表スライド(PDF版)](https://www.slideshare.net/saireya/ss-xxx)
 - [論文(Markdown版)](thesis.md)
-- [論文(PDF版)](https://www.scribd.com/doc/xxx)
+- [論文(PDF版)](https://www.scribd.com/doc/372350824/)
 - [ソース](https://github.com/saireya/thesis/tree/gh-pages/2018CIS-innovation)
