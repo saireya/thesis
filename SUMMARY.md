@@ -2,6 +2,8 @@
 
 * 情報教育系
 	* [社会のイノベーションを志向する情報教育の体系化](2018CIS-innovation/README.md)
+		* [要旨](2018CIS-innovation/README.md)
+		* [本文](2018CIS-innovation/thesis.md)
 	* [変化する社会への適応力を涵養する著作権法の教育実践](2017zen-copyright/README.md) (poster)
 	* [社会システム理論に基づく情報教育の教材開発](2017CIS-system/README.md)
 		* [要旨](2017CIS-system/README.md)
