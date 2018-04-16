@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../bibtexml2html.xsl"?>
+<file xmlns="http://bibtexml.sf.net/">
+
+<entry id="mext"><misc>
+	<author>文部科学省</author>
+	<title>高等学校学習指導要領(案)</title>
+	<url>http://search.e-gov.go.jp/servlet/PcmFileDownload?seqNo=0000170358</url>
+	<year>2018</year>
+</misc></entry>
+
+<entry id="scj"><misc>
+	<author>日本学術会議</author>
+	<title>大学教育の分野別質保証のための教育課程編成上の参照基準 情報学分野</title>
+	<url>http://www.scj.go.jp/ja/info/kohyo/pdf/kohyo-23-h160323-2.pdf</url>
+	<year>2016</year>
+</misc></entry>
+
+<entry id="bertalanffy"><book>
+	<author>Ludwig von Bertalanffy</author>
+	<title>一般システム理論――その基礎・発展・応用</title>
+	<publisher>みすず書房</publisher>
+	<year>1973</year>
+	<isbn>4622025221</isbn>
+</book></entry>
+
+<entry id="barnard"><book>
+	<author>Chester I. Barnard</author>
+	<title>新訳 経営者の役割</title>
+	<publisher>ダイヤモンド社</publisher>
+	<pages>75</pages>
+	<year>1968</year>
+	<isbn>4478320020</isbn>
+</book></entry>
+
+<entry id="luhmann-interfere"><article>
+	<author>
+		<person>Niklas Luhmann</person>
+		<person>Karl-Eberhard Schorr</person>
+	</author>
+	<title>Wie ist Erziehung Möglich? - Eine wissenschaftssoziologische Analyse der Erziehungswissenschaft (教育が可能であるとはどういうことか?――教育科学の社会科学的分析 (下地ら訳))</title>
+	<journal>東京大学教育学部教育哲学・教育史研究室紀要</journal>
+	<publisher>東京大学</publisher>
+	<volume>18</volume>
+	<year>1992</year>
+</article></entry>
+
+<entry id="ohnishi"><article>
+	<author>
+		<person>大西 洋</person>
+		<person>藤岡 健史</person>
+	</author>
+	<title>コミュニケーション・情報・メディアの統合モデルに基づく教育実践</title>
+	<url>https://www.scribd.com/doc/299911454</url>
+	<year>2016</year>
+</article></entry>
+
+<entry id="ohnishi2"><article>
+	<author>大西 洋</author>
+	<title>システム論に基づく情報教育の授業計画と教育実践</title>
+	<url>https://www.scribd.com/doc/319242230</url>
+	<year>2016</year>
+</article></entry>
+
+<entry id="ohnishi3"><article>
+	<author>
+		<person>大西 洋</person>
+		<person>藤岡 健史</person>
+	</author>
+	<title>社会システム理論に基づく情報教育の教材開発</title>
+	<url>https://www.scribd.com/doc/336892468</url>
+	<year>2016</year>
+</article></entry>
+
+<entry id="fi"><article>
+	<author>
+		<person>藤岡 健史</person>
+		<person>大西 洋</person>
+		<person>下村 誠</person>
+	</author>
+	<title>参照基準における「情報一般の原理」に関連する授業実践</title>
+	<url>http://www.zenkojoken.jp/09kanagawa/subcom/</url>
+	<year>2016</year>
+</article></entry>
+
+<entry id="nakajima"><book>
+	<author>
+		<person>中島 聡</person>
+		<person>西垣 通</person>
+	</author>
+	<title>生命と機械をつなぐ授業――「基礎情報学」からデザインした高校情報</title>
+	<publisher>高陵社書店</publisher>
+	<year>2012</year>
+	<isbn>4771109982</isbn>
+</book></entry>
+
+<entry id="young"><book>
+	<author>James W. Young</author>
+	<title>A Technique for Producing Ideas</title>
+	<year>1940</year>
+	<isbn>0071410945</isbn>
+</book></entry>
+
+<entry id="young-j"><book>
+	<author>James W. Young</author>
+	<title>アイデアのつくり方</title>
+	<year>1960</year>
+	<isbn>4484881047</isbn>
+	<note>竹内均訳</note>
+</book></entry>
+
+<entry id="schumpeter"><book>
+	<author>Joseph Alois Schumpeter</author>
+	<title>経済発展の理論――企業者利潤・資本・信用・利子および景気の回転に関する一研究(上)</title>
+	<year>1977</year>
+	<isbn>4003414713</isbn>
+	<publisher>岩波書店</publisher>
+	<note>塩野谷, 東畑, 中山訳</note>
+</book></entry>
+
+<entry id="debono"><book>
+	<author>Edward de Bono</author>
+	<title>Lateral Thinking: Creativity Step by Step</title>
+	<publisher>Harper</publisher>
+	<year>1970</year>
+	<isbn>0060903252</isbn>
+</book></entry>
+
+<entry id="wilson"><book>
+	<author>Brian Wilson</author>
+	<title>システム仕様の分析学――ソフトシステム方法論</title>
+	<publisher>共立出版</publisher>
+	<year>1996</year>
+	<isbn>4320027523</isbn>
+	<pages>14</pages>
+	<note>根来竜之訳</note>
+</book></entry>
+
+<entry id="malaterre"><book>
+	<author>Christophe Malaterre</author>
+	<title>生命起源論の科学哲学――創発か、還元的説明か</title>
+	<publisher>みすず書房</publisher>
+	<year>2013</year>
+	<isbn>4622077426</isbn>
+</book></entry>
+</file>

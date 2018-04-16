@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../texml2html.xsl"?>
+<log title="社会のイノベーションを志向する情報教育の体系化" by="大西 洋 \\ (京都市立西京高等学校)" slide="1" embed="1" bib="slide">
+<article>
+<s h="Background">
+<frame title="\insertsection">
+<block title="次期学習指導要領「情報I」">
+	情報に関する科学的な見方・考え方を働かせ、情報技術を活用して問題の発見・解決を行う学習活動を通して、<alert>問題の発見・解決</alert>に向けて情報と情報技術を適切かつ効果的に活用し、情報社会に主体的に参画するための資質・能力を次のとおり育成することを目指す。
+	<ol>
+		<li>効果的なコミュニケーションの実現、コンピュータやデータの活用について理解を深め技能を習得するとともに、情報社会と人との関わりについて理解を深めるようにする。</li>
+		<li>様々な<alert>事象を情報とその結び付きとして捉え</alert>、問題の発見・解決に向けて<alert>情報と</alert>情報技術を適切かつ効果的に活用する力を養う。</li>
+		<li>情報と情報技術を適切に活用するとともに、<alert>情報社会に主体的に参画</alert>する態度を養う。</li>
+	</ol>
+	(文科省「高等学校学習指導要領(案)」(2018/2))
+</block>
+</frame>
+
+<frame title="\insertsection">
+<block title="研究目的" class="alert">
+	社会の<alert>変革</alert>(<alert>innovation</alert>)に<em>主体的に参画</em>する能力を涵養する教育課程の作成
+	<ul>
+		<li><em>一般システム理論</em>における社会での<alert>創発</alert>や<alert>介入</alert>の概念に基づき体系化</li>
+		<li>勤務校の情報科(※)での授業実践とその評価</li>
+		<li mark="※">「社会と情報」(～2015年度)<br/>「情報学基礎」(2016年度～)(学校設定科目)</li>
+	</ul>
+</block>
+</frame>
+</s>
+
+
+<s h="Previous works">
+<frame title="\insertsection">
+<block title="情報学" class="alert">
+	<em>情報によって</em>世界に<alert>意味</alert>と<alert>秩序</alert>をもたらすとともに<alert>社会的価値を創造</alert>することを目的とし、情報の生成・探索・表現・蓄積・管理・認識・分析・変換・伝達(情報を「扱う」こと)に関わる原理と技術を探求する学問<br/>
+	(日本学術会議「情報学分野の参照基準」(2016))
+</block>
+
+<block title="情報学の対象">
+	単に情報を扱うというだけではなく、情報と対象、情報と情報の<em>関連</em>を調べることにより、情報がもたらす意味や秩序を探求
+</block>
+</frame>
+
+<frame title="\insertsection">
+<block title="一般システム理論" class="alert">
+	事象を「相互に作用する要素の集合」(<alert>システム</alert>, 系)と捉え、<em>関係性</em>に基づく分析や解明を行う理論(「関係性の科学」)
+	<ul>
+		<li><alert>生命システム</alert>(e.g. 動物, 植物)<br/>
+			生体における現象をモデル化(Bertalanffy<cite id="bertalanffy"/>)</li>
+		<li><alert>心理システム</alert>(e.g. 生命の「心」)<br/>
+			人間の心理を、<em>思考</em>の相互関連としてモデル化</li>
+		<li><alert>社会システム</alert>(e.g. 組織, 団体)<br/>
+			社会における現象を、<em>コミュニケーション</em>の相互関連としてモデル化(Luhmann, Barnard<cite id="barnard"/>)</li>
+	</ul>
+</block>
+</frame>
+
+<frame title="\insertsection">
+<block title="システム論や創発理論への批判">
+	<ul>
+		<li>システム論のモデルは<em>単純化されすぎ</em>ており、現実の事象には適用が難しい</li>
+		<li mark="⇨">モデル自体が複雑性を捨象したものであり、どの程度の捨象を許容するかという程度の問題<br/>
+			(c.f. Wilson<cite id="wilson"/>によるモデルの定義)</li>
+		<li>「関係性」や「全体性」は<em>マジックワード</em>に過ぎず、現象の原理が解明されない限り理論とはいえない</li>
+		<li mark="⇨">還元主義的に現象が解明されるまでの<em>過渡理論</em>としては有用<br/>
+			(c.f. Malaterre『生命起源論の科学哲学』<cite id="malaterre"/>)</li>
+	</ul>
+</block>
+</frame>
+
+<frame title="\insertsection">
+<block title="基礎情報学に基づく授業実践事例・教材">
+	<ul>
+		<li>筆者ら「参照基準における「情報一般の原理」に関連する授業実践」(2016, 全高情研)<cite id="fi"/></li>
+		<li>中島ら『生命と機械をつなぐ授業――「基礎情報学」からデザインした高校情報』(高陵社書店, 2012)<cite id="nakajima"/></li>
+	</ul>
+</block>
+
+<block title="一般システム理論に基づく授業実践事例・教材">
+	<ul>
+		<li>筆者ら「社会システム理論に基づく情報教育の教材開発」(2017, CIS)<cite id="ohnishi3"/></li>
+		<li>筆者「システム論に基づく情報教育の授業計画と教育実践」(2016, 全高情研)<cite id="ohnishi2"/></li>
+		<li>筆者ら「コミュニケーション・情報・メディアの統合モデルに基づく教育実践」(2016, CIS)<cite id="ohnishi"/></li>
+	</ul>
+</block>
+</frame>
+
+<frame title="\insertsection">
+<img src="structure.svg" scale=".6" title="情報・コミュニケーション・システム概念の次元"/>
+</frame>
+</s>
+
+
+<s h="Practice">
+<frame title="\insertsection">
+<block title="年間計画">
+	「社会の変革」に必要な事柄を学ぶ
+	<ol>
+		<li>(問題の解決策としての)新たな発想を生み出す(<em>創発</em>)</li>
+		<li>(提案内容を)他者に受け入れさせる(<em>介入</em>)</li>
+		<li mark="※">双方を効果的に行うため、これらを<em>一体化させずに</em>授業を実施</li>
+		<li mark="※">時間の都合上、システム論の基礎事項は生徒への資料配布で代替</li>
+	</ol>
+</block>
+</frame>
+
+<frame title="\insertsection">
+<img src="plan2017-i1.svg" scale=".5" title="「情報I」と「情報学基礎」との単元の対応"/>
+</frame>
+
+<frame title="\insertsection">
+<block title="創発(emergence)" class="alert">
+	システムの内部で<alert>新たな要素が生成</alert>される現象<cite id="malaterre"/>
+	<ul>
+		<li>e.g. 「ひらめき」「発想」</li>
+		<li mark="※">理論なしに情報科や総合学習で扱うのは無謀</li>
+		<li mark="※">個別の方法を体系化して学ばせることが重要</li>
+	</ul>
+</block>
+
+<block title="授業単元: 創発">
+	<ul>
+		<li>Youngによる<alert>アイデア</alert>の定義<cite id="young"/><cite id="young-j"/> (+ Luhmannによる<alert>個性</alert>の定義)<br/>
+			「<alert>既存の要素の新たな組み合わせ</alert>」<br/>⇒「新たな組み合わせ(<em>関係性</em>)を見いだす能力が重要」</li>
+		<li>(Schumpeterによる<alert>イノベーション</alert>の定義(<em>新結合の遂行</em>)<cite id="schumpeter"/>)</li>
+		<li>「組み合わせ」を発見する思考法: 垂直思考と<alert>水平思考</alert>(de Bono<cite id="debono"/>)<br/>
+			「穴を<em>深く</em>掘る」垂直思考と「穴を<em>多く</em>掘る」水平思考<br/>
+			(垂直思考≒<em>深さ優先</em>探索、水平思考≒<em>幅優先</em>探索)</li>
+		<li>水平思考の実践的な方法論: <alert>SCAMPER</alert>と事例紹介</li>
+	</ul>
+</block>
+</frame>
+
+<frame title="\insertsection">
+<block title="「個性」">
+	個人の所属する組織をすべて<em>除いた</em>、<em>その人に固有</em>の部分(Luhmann)
+</block>
+<img src="personality-color.svg" scale=".5"/>
+</frame>
+
+<frame title="\insertsection">
+<block title="介入(interference)" class="alert">
+	あるシステムがその<alert>行為を通して、他のシステムがどのように行為するか規定</alert>する行為(Luhmann(1992)<cite id="luhmann-interfere"/>)
+	<ul>
+		<li><em>他のシステムを変化させるため</em>に行うコミュニケーション</li>
+		<li><alert>(情報) + (意図) = (表現)</alert></li>
+		<li>e.g. <em>プレゼンテーション</em>, <em>教育</em>, 印象操作</li>
+	</ul>
+</block>
+
+<block title="授業単元: 意図と介入">
+	<ul>
+		<li>(受け手側) 新聞記事を題材に<alert>意図</alert>を考察するレポート(夏課題)</li>
+		<li>(受け手側) <em>印象操作</em>(グラフなど)の事例紹介</li>
+		<li>(送り手側) グループでの<em>プレゼンテーション</em>実習</li>
+		<li>(送り手側) <em>ユニバーサルデザイン</em>課題</li>
+	</ul>
+</block>
+</frame>
+</s>
+
+
+<s h="Evaluation">
+<frame title="\insertsection">
+<block title="感想">
+	プレゼンテーション実習後に記入したリフレクションシートの感想欄より
+	<ul>
+		<li>「言葉選び、分かりやすいスライド、話し方と、<em>相手の立場になって</em>考えてみることができた」</li>
+		<li>「プレゼンをすると言っても、<em>相手は画面でなく聞き手</em>だということを学んだ」</li>
+	</ul>
+</block>
+</frame>
+
+<frame title="\insertsection">
+<block title="生徒アンケート">
+	各単元がどの程度有意義か、4段階で評価<br/>(4: とても有意義だった, 1: 全く有意義ではなかった)
+</block>
+<img src="enq.svg" scale=".6"/>
+</frame>
+</s>
+
+
+<s h="Conclusion">
+<frame title="\insertsection">
+<block>
+	社会の<alert>変革</alert>(<alert>innovation</alert>)に<em>主体的に参画</em>する能力を涵養する教育課程を作成
+	<ul>
+		<li><em>一般システム理論</em>に基づく<em>創発</em>と<em>介入</em>の単元を実施</li>
+		<li>体系化された<em>理論</em>と説明する<em>事例</em>を組み合わせた授業を実施</li>
+	</ul>
+</block>
+
+<block title="Future tasks">
+	<ul>
+		<li>時間的制約も考慮した創発と介入の<em>配当時間数</em>の再検討</li>
+		<li>より深い理解を促す創発の<em>事例分析</em>や<em>生徒主体の活動</em>の実施</li>
+		<li>情報Iの単元構成を踏まえた<em>年間計画</em>の修正</li>
+	</ul>
+</block>
+</frame>
+</s>
+</article>
+</log>
