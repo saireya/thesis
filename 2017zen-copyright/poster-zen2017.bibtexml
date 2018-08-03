@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<file xmlns="http://bibtexml.sf.net/">
+
+<entry id="hourei"><misc>
+	<author>日本法令索引</author>
+	<title>法令沿革一覧: 著作権法</title>
+	<url>http://hourei.ndl.go.jp/SearchSys/viewEnkaku.do?i=dmAHJN8TtUvtttcvcePBGA%3D%3D</url>
+</misc></entry>
+
+<entry id="sangiin"><article>
+	<author>畦地 堅司</author>
+	<title>法制執務コラム: 法律の構成</title>
+	<journal>立法と調査</journal>
+	<publisher>参議院</publisher>
+	<number>230</number>
+	<year>2002</year>
+	<url>http://houseikyoku.sangiin.go.jp/column/column044.htm</url>
+</article></entry>
+</file>
