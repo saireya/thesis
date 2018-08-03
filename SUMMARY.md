@@ -1,6 +1,7 @@
 # Summary
 
 * 情報教育系
+	* [コミュニケーション/メディア概念と関連付けた情報概念の形式化](2018zen-information/README.md) (poster)
 	* [社会のイノベーションを志向する情報教育の体系化](2018CIS-innovation/README.md)
 		* [要旨](2018CIS-innovation/README.md)
 		* [本文](2018CIS-innovation/thesis.md)
