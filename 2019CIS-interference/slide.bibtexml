@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../bibtexml2html.xsl"?>
+<file xmlns="http://bibtexml.sf.net/">
+
+<entry id="mext"><misc>
+	<author>文部科学省</author>
+	<title>高等学校学習指導要領</title>
+	<url>http://www.mext.go.jp/a_menu/shotou/new-cs/1384661.htm</url>
+	<year>2018</year>
+</misc></entry>
+
+<entry id="simon2"><book>
+	<author>Herbert A. Simon</author>
+	<title>システムの科学</title>
+	<publisher>パーソナルメディア</publisher>
+	<year>1999</year>
+	<isbn>489362167X</isbn>
+	<note>稲葉元吉, 吉原英樹訳</note>
+</book></entry>
+
+<entry id="bertalanffy"><book>
+	<author>Ludwig von Bertalanffy</author>
+	<title>一般システム理論――その基礎・発展・応用</title>
+	<publisher>みすず書房</publisher>
+	<year>1973</year>
+	<isbn>4622025221</isbn>
+</book></entry>
+
+<entry id="barnard"><book>
+	<author>Chester I. Barnard</author>
+	<title>新訳 経営者の役割</title>
+	<publisher>ダイヤモンド社</publisher>
+	<pages>75</pages>
+	<year>1968</year>
+	<isbn>4478320020</isbn>
+	<note>山本安次郎訳</note>
+</book></entry>
+
+<entry id="luhmann-interfere"><article>
+	<author>
+		<person>Niklas Luhmann</person>
+		<person>Karl-Eberhard Schorr</person>
+	</author>
+	<title>Wie ist Erziehung Möglich? - Eine wissenschaftssoziologische Analyse der Erziehungswissenschaft (教育が可能であるとはどういうことか?――教育科学の社会科学的分析 (下地ら訳))</title>
+	<journal>東京大学教育学部教育哲学・教育史研究室紀要</journal>
+	<publisher>東京大学</publisher>
+	<volume>18</volume>
+	<year>1992</year>
+</article></entry>
+</file>

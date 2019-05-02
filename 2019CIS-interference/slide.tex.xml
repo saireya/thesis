@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../texml2html.xsl"?>
+<log title="介入としての側面に焦点化した \\ プレゼンテーションの教育実践" by="大西 洋 \\ (京都市立西京高等学校)" slide="1" embed="1" bib="slide">
+<article>
+<s h="Background">
+<frame title="\insertsection">
+<block title="次期学習指導要領「情報I」">
+	情報に関する科学的な見方・考え方を働かせ、情報技術を活用して問題の発見・解決を行う学習活動を通して、<alert>問題の発見・解決</alert>に向けて情報と情報技術を適切かつ効果的に活用し、情報社会に主体的に参画するための資質・能力を次のとおり育成することを目指す。<br/>
+	(文科省「高等学校学習指導要領」<cite id="mext"/>(2018/2))
+</block>
+</frame>
+
+<frame title="\insertsection">
+<block title="問題" class="alert">
+	<alert>目標とする状態</alert>(To-Be)と<alert>現在の状態</alert>(As-Is)の間に<em>差</em>があること<br/>
+	(H. A. Simon『システムの科学』<cite id="simon2"/>)
+</block>
+<img src="problem.svg" scale=".75"/>
+</frame>
+
+<frame title="\insertsection">
+<block title="「情報I」の単元">
+	<ol>
+		<li><alert>情報社会の問題解決</alert><br/>
+			「この科目の<em>導入</em>として位置付け，<em>(2)から(4)までとの関連に配慮</em>する」<cite id="mext"/></li>
+		<li><alert>コミュニケーションと情報デザイン</alert><br/>
+			問題を<em>コミュニケーション</em>と<em>情報デザイン</em>により解決する方法を学ぶ</li>
+		<li>コンピュータとプログラミング<br/>
+			問題を<em>プログラミング</em>により解決する方法を学ぶ</li>
+		<li>情報通信ネットワークとデータの活用<br/>
+			問題を<em>データの活用</em>により解決する方法を学ぶ</li>
+	</ol>
+</block>
+</frame>
+
+<frame title="\insertsection">
+<block title="「プレゼンテーション(プレゼン)実習」の目的(?)">
+	「生徒に人前で<em>話す経験</em>をさせる」こと(?)
+	<ul>
+		<li mark="⇨">プレゼンが聴衆に与えた効果の検証や評価が不十分</li>
+	</ul>
+	「総合学習などでの課題研究や課題として調べた事柄を<em>発表</em>する」こと(?)
+	<ul>
+		<li mark="⇨">プレゼン自体の学習が不十分</li>
+	</ul>
+	「スライド作成の<em>技術を習得</em>する」こと(?)
+	<ul>
+		<li mark="⇨">スライド以外の演者の言動やプレゼンの内容面の構成を全体として考えることが不十分</li>
+	</ul>
+</block>
+</frame>
+
+<frame title="\insertsection">
+<block title="研究目的" class="alert">
+	体系的にプレゼンテーションを学ぶ、実習と座学からなる教育課程の作成
+	<ul>
+		<li>Simonの「<alert>問題</alert>」概念<cite id="simon2"/>やLuhmannの「<alert>介入</alert>」概念<cite id="luhmann-interfere"/>に基づき体系化</li>
+		<li>勤務校の情報科「情報学基礎」(学校設定科目)での授業実践</li>
+	</ul>
+</block>
+</frame>
+</s>
+
+
+<s h="Previous works">
+<frame title="\insertsection">
+<block title="一般システム理論" class="alert">
+	事象を「相互に作用する要素の集合」(<alert>システム</alert>, 系)と捉え、<em>関係性</em>に基づく分析や解明を行う理論(「関係性の科学」)
+	<ul>
+		<li><alert>生命システム</alert>(e.g. 動物, 植物)<br/>
+			生体における現象をモデル化(Bertalanffy<cite id="bertalanffy"/>)</li>
+		<li><alert>心理システム</alert>(e.g. 生命の「心」)<br/>
+			人間の心理を、<em>思考</em>の相互関連としてモデル化</li>
+		<li><alert>社会システム</alert>(e.g. 組織, 団体)<br/>
+			社会における現象を、<em>コミュニケーション</em>の相互関連としてモデル化(Luhmann, Barnard<cite id="barnard"/>)</li>
+	</ul>
+</block>
+</frame>
+
+<frame title="\insertsection">
+<block class="alert" title="介入(interference)">
+	あるシステムがその<alert>行為を通して、他のシステムがどのように行為するか規定</alert>する行為<cite id="luhmann-interfere"/>
+	<ul>
+		<li mark="⇨">相手に<em>自分の望む行動を起こさせるため</em>に行うコミュニケーション</li>
+		<li mark="※"><alert>意図</alert>: コミュニケーションを行う<em>目的</em></li>
+	</ul>
+</block>
+<img src="system-interference.svg" scale=".75"/>
+</frame>
+
+<frame title="\insertsection">
+<block title="介入の例">
+	プレゼンテーション, 教育, 印象操作, 勧誘, 檄文, 指示, 命令
+</block>
+<img src="system-interference.svg" scale=".75"/>
+</frame>
+</s>
+
+
+<s h="Practice">
+<frame title="\insertsection">
+<block title="実習概要">
+	各クラス約12時間(9月から11月)で実施
+	<ul>
+		<li>個人で口頭発表形式のプレゼンテーションを行う</li>
+		<li>持ち時間は5分(発表)+5分(質疑)、スライドを使用</li>
+		<li>テーマは自由</li>
+		<li>場所はメモリアルホール(ですが、舞台は使いません)</li>
+		<li>タブレットPCを手持ちで、クラスメート数名の聴衆を相手に発表</li>
+		<li>実演や物品の持ち込みは応相談</li>
+		<li>発表の様子は撮影し、撮影された動画を基に評価します</li>
+	</ul>
+</block>
+</frame>
+
+<frame title="\insertsection">
+<block title="授業計画">
+	各クラス約12時間(9月から11月)で実施
+	<ol>
+		<li><alert>導入</alert>・実習の<alert>概要説明</alert></li>
+		<li><alert>テーマ</alert>の設定</li>
+		<li><alert>アウトライン(構成)</alert>の作成</li>
+		<li><alert>スライド(資料)</alert>の作成</li>
+		<li><alert>リハーサル</alert></li>
+		<li><alert>本番</alert></li>
+		<li><alert>リフレクション(振り返り)</alert></li>
+	</ol>
+</block>
+</frame>
+
+<frame title="\insertsection">
+<block title="導入・実習の概要説明">
+	<ol>
+		<li>スライドを使用して<em>介入</em>や<em>プレゼンテーション</em>について説明</li>
+		<li><alert>目標設定シート</alert>の記入<br/>
+			過去のプレゼン経験を振り返り、各自の<em>現状を生徒自身で把握</em>した上で<em>目標を設定</em>する<br/>
+			(現状と理想的な状態を設定するワークは以前にも実施)</li>
+		<li>TEDのプレゼン<alert>動画分析</alert>(課題)<br/>
+			TEDかTEDx○○のプレゼン動画を1つ選び、内容について分析することで、プレゼンに関するイメージを共有<br/>
+			(「TED風」が良いかどうかは検討の余地があることも、生徒に伝えた)</li>
+	</ol>
+</block>
+</frame>
+
+<frame title="\insertsection">
+<block title="リハーサル・本番">
+	多数の生徒が同時にプレゼンを実施しても聴衆が聴けるよう、メモリアルホールで実施
+	<ol>
+		<li>生徒(約40名)をホール内の約10箇所に散らし、順にプレゼンを実施</li>
+		<li>プレゼンの様子を動画撮影するため、可動式の椅子を2つ重ねてiPadを縦置き</li>
+		<li>終了後は教室へ移動し、動画を見てリフレクション(振り返り)を実施</li>
+		<li>教員側でも後日、本番の発表動画を視聴し、S,A,Bの3段階で評価</li>
+	</ol>
+</block>
+</frame>
+
+<frame title="\insertsection">
+<img src="hall1.jpg" title="椅子を重ねて撮影用のiPadを設置した状態" n="fig:hall1" scale="1.25"/>
+</frame>
+
+<frame title="\insertsection">
+<img src="hall2.jpg" title="カバーを用いて縦置きした撮影用iPad" n="fig:hall2" scale="1.25"/>
+</frame>
+</s>
+
+
+<s h="Evaluation">
+<frame title="\insertsection">
+<block title="感想">
+	プレゼンテーション実習後に記入したリフレクションシートの感想欄より
+	<ul>
+		<li>「言葉選び、分かりやすいスライド、話し方と、<em>相手の立場になって</em>考えてみることができた」</li>
+		<li>「プレゼンをすると言っても、<em>相手は画面でなく聞き手</em>だということを学んだ」</li>
+	</ul>
+</block>
+</frame>
+</s>
+
+
+<s h="Conclusion">
+<frame title="\insertsection">
+<block>
+	体系的にプレゼンテーションを学ぶ、実習と座学からなる教育課程の作成
+	<ul>
+		<li>プレゼン自体を学ぶことに焦点化して実施</li>
+		<li>体系化された<em>理論</em>と、理論を実践する<em>実習</em>を組み合わせた授業を実施</li>
+	</ul>
+</block>
+
+<block title="Future tasks">
+	<ul>
+		<li>生徒の<em>テーマ選択を深化</em>させる方法の検討</li>
+		<li>教員による生徒の<em>評価</em>を効率化する方法の検討</li>
+		<li>実習による生徒の<em>成長</em>に関する定量的な検証</li>
+		<li>実習にグループと個人で取り組む場合の差異の定量的な検証</li>
+	</ul>
+</block>
+</frame>
+</s>
+</article>
+</log>

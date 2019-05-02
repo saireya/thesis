@@ -1,6 +1,9 @@
 # Summary
 
 * 情報教育系
+	* [介入としての側面に焦点化したプレゼンテーションの教育実践](2019CIS-interference/README.md)
+		* [要旨](2019CIS-interference/README.md)
+		* [本文](2019CIS-interference/thesis.md)
 	* [コミュニケーション/メディア概念と関連付けた情報概念の形式化](2018zen-information/README.md) (poster)
 	* [社会のイノベーションを志向する情報教育の体系化](2018CIS-innovation/README.md)
 		* [要旨](2018CIS-innovation/README.md)
