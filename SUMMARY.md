@@ -1,6 +1,9 @@
 # Summary
 
 * 情報教育系
+	* [志望する職業の存続可能性に焦点化した情報教育の授業実践](2020CIS-career/README.md)
+		* [要旨](2020CIS-career/README.md)
+		* [本文](2020CIS-career/thesis.md)
 	* [介入としての側面に焦点化したプレゼンテーションの教育実践](2019CIS-interference/README.md)
 		* [要旨](2019CIS-interference/README.md)
 		* [本文](2019CIS-interference/thesis.md)
