@@ -8,5 +8,5 @@
 - [発表スライド(HTML版)](https://saireya.github.io/thesis/2020CIS-career/slide.tex.xml)
 - [発表スライド(PDF版)](https://www.slideshare.net/saireya/ss-133066472)
 - [論文(Markdown版)](thesis.md)
-- [論文(PDF版)](https://www.scribd.com/doc/400351512)
+- [論文(PDF版)](https://www.scribd.com/doc/446890767)
 - [ソース](https://github.com/saireya/thesis/tree/gh-pages/2020CIS-career)
