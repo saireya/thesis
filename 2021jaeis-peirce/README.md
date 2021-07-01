@@ -10,4 +10,5 @@
 
 ## 関連資料
 
-- [スライド(PDF版)](https://www.scribd.com/doc/xxxxxxxxxxx)
+- [スライド(PDF版)](https://www.slideshare.net/saireya/peircei-ii)
+- [論文(PDF版)](https://jaeis-org.sakura.ne.jp/taikai/t21/pdf/presentation/1-A-1.pdf)
