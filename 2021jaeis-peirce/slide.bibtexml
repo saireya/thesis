@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../bibtexml2html.xsl"?>
+<file xmlns="http://bibtexml.sf.net/">
+
+<entry id="mext"><misc>
+	<author>文部科学省</author>
+	<title>高等学校学習指導要領</title>
+	<url>http://www.mext.go.jp/a_menu/shotou/new-cs/1384661.htm</url>
+	<year>2018</year>
+</misc></entry>
+
+<entry id="peirce-inference"><article>
+	<author>Charles Sanders Peirce</author>
+	<title>Deduction, Induction and Hypothesis</title>
+	<journal>Collected Papers of Charles Sanders Peirce</journal>
+	<publisher>Belknap Press</publisher>
+	<year>1878</year>
+	<volume>2</volume>
+	<pages>372-375</pages>
+	<note>CP2.619-624</note>
+</article></entry>
+
+<entry id="peirce-inquiry"><article>
+	<author>Charles Sanders Peirce</author>
+	<title>Lessons from the History of Science</title>
+	<journal>Collected Papers of Charles Sanders Peirce</journal>
+	<publisher>Belknap Press</publisher>
+	<year>1896?</year>
+	<volume>1</volume>
+	<pages>28-29</pages>
+	<note>CP1.65-68</note>
+</article></entry>
+
+<entry id="bruner"><book>
+	<author>Jerome S. Bruner</author>
+	<title>教育の過程</title>
+	<publisher>岩波書店</publisher>
+	<year>1963</year>
+</book></entry>
+
+<entry id="scj-info"><misc>
+	<author>日本学術会議</author>
+	<title>大学教育の分野別質保証のための教育課程編成上の参照基準 情報学分野</title>
+	<url>http://www.scj.go.jp/ja/info/kohyo/pdf/kohyo-23-h160323-2.pdf</url>
+	<year>2016</year>
+</misc></entry>
+
+<entry id="scj-edu"><misc>
+	<author>日本学術会議</author>
+	<title>情報教育課程の設計指針――初等教育から高等教育まで</title>
+	<url>http://www.scj.go.jp/ja/info/kohyo/pdf/kohyo-24-h200925.pdf</url>
+	<year>2016</year>
+</misc></entry>
+
+<entry id="simon"><book>
+	<author>Herbert A. Simon</author>
+	<title>the new science of management decision</title>
+	<publisher>Prentice Hall</publisher>
+	<year>1977</year>
+	<isbn>0136161367</isbn>
+	<pages>70</pages>
+</book></entry>
+
+<entry id="simon-j"><book>
+	<author>Herbert A. Simon</author>
+	<title>意思決定の科学</title>
+	<publisher>産業能率大学出版部</publisher>
+	<year>1979</year>
+	<isbn>4382046254</isbn>
+	<pages>95-96</pages>
+	<note>稲葉元吉, 倉井武夫訳</note>
+</book></entry>
+
+<entry id="simon2"><book>
+	<author>Herbert A. Simon</author>
+	<title>システムの科学</title>
+	<publisher>パーソナルメディア</publisher>
+	<year>1999</year>
+	<isbn>489362167X</isbn>
+	<note>稲葉元吉・吉原英樹訳</note>
+</book></entry>
+
+<entry id="mic"><misc>
+	<author>総務省</author>
+	<title>国政選挙の年代別投票率の推移について</title>
+	<url>https://www.soumu.go.jp/senkyo/senkyo_s/news/sonota/nendaibetu</url>
+</misc></entry>
+
+<entry id="rowe"><book>
+	<author>Peter G. Rowe</author>
+	<title>デザインの思考過程</title>
+	<publisher>鹿島出版会</publisher>
+	<year>1990</year>
+	<pages>121-123</pages>
+	<isbn>430606106X</isbn>
+	<note>奥山健二訳</note>
+</book></entry>
+
+<entry id="yoshikawa"><book>
+	<author>吉川 弘之</author>
+	<title>一般デザイン学</title>
+	<publisher>岩波書店</publisher>
+	<year>2020</year>
+	<pages>250-253</pages>
+	<isbn>4000050621</isbn>
+</book></entry>
+
+<entry id="mext-prog"><misc>
+	<author>文部科学省</author>
+	<title>小学校段階におけるプログラミング教育の在り方について</title>
+	<url>https://www.mext.go.jp/b_menu/shingi/chousa/shotou/122/attach/1372525.htm</url>
+	<year>2016</year>
+</misc></entry>
+
+<entry id="hume"><book>
+	<author>David Hume</author>
+	<title>人間本性論 第1巻: 知性について</title>
+	<publisher>法政大学出版局</publisher>
+	<year>2011</year>
+	<pages>108-111</pages>
+	<isbn>4588120808</isbn>
+	<note>木曾好能訳</note>
+</book></entry>
+
+<entry id="otsuka"><book>
+	<author>大塚 淳</author>
+	<title>統計学を哲学する</title>
+	<publisher>名古屋大学出版会</publisher>
+	<year>2020</year>
+	<pages>19-22, 33, 43</pages>
+	<isbn>4815810036</isbn>
+</book></entry>
+
+</file>
