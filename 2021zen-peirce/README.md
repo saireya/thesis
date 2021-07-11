@@ -11,4 +11,4 @@
 
 ## 関連資料
 
-- [スライド(PDF版)](https://www.scribd.com/doc/xxxxxxxxxxx)
+- [スライド(PDF版)](https://www.slideshare.net/saireya/peircei-ii-249686147)
