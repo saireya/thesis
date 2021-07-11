@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../texml2html.xsl"?>
+<log title="Peirceの探究段階論に基づく \\ 「情報I, II」の授業設計" by="大西 洋 \\ (関西大学)" slide="1" embed="1" bib="slide">
+<article>
+<s h="Background">
+<frame title="\insertsection">
+<block title="次期学習指導要領「情報科」">
+	情報に関する科学的な見方・考え方を働かせ、情報技術を活用して問題の発見・解決を行う学習活動を通して、<alert>問題の発見・解決</alert>に向けて情報と情報技術を適切かつ効果的に活用し、情報社会に主体的に参画するための資質・能力を次のとおり育成することを目指す。<br/>
+	(文科省「高等学校学習指導要領」<cite id="mext"/>(2018/2))
+</block>
+</frame>
+
+<frame title="\insertsection">
+<block title="「情報I」の単元">
+	<ol>
+		<li><alert>情報社会の問題解決</alert><br/>
+			「この科目の<em>導入</em>として位置付け」<br/>
+			「<em>(2)から(4)までとの関連に配慮</em>する」<cite id="mext"/></li>
+		<li>コミュニケーションと情報デザイン<br/>
+			問題を<em>情報デザイン</em>により解決する方法を学ぶ</li>
+		<li>コンピュータとプログラミング<br/>
+			問題を<em>プログラミング</em>により解決する方法を学ぶ</li>
+		<li>情報通信ネットワークとデータの活用<br/>
+			問題を<em>データの活用</em>により解決する方法を学ぶ</li>
+	</ol>
+</block>
+</frame>
+
+<frame title="\insertsection">
+	<block title="「情報II」の単元">
+		<ol>
+			<li><alert>情報社会の進展と情報技術</alert><br/>
+				「この科目の<em>導入</em>として位置付け」<cite id="mext"/></li>
+			<li>コミュニケーションとコンテンツ<br/>
+				問題を<em>情報デザイン</em>により解決する方法を学ぶ</li>
+			<li>情報とデータサイエンス<br/>
+				問題を<em>データの活用</em>により解決する方法を学ぶ</li>
+			<li>情報システムとプログラミング<br/>
+				問題を<em>プログラミング</em>により解決する方法を学ぶ</li>
+			<li><alert>情報と情報技術を活用した問題発見・解決の探究</alert><br/>
+				「この科目の<em>まとめ</em>として位置付け」<br/>
+				「課題を設定して問題の発見・解決に取り組ませる」<cite id="mext"/></li>
+			</ol>
+	</block>
+	</frame>
+
+<frame title="\insertsection">
+	<img src="structure.svg" scale=".6"/>
+</frame>
+
+<frame title="\insertsection">
+<block title="「情報I,II」の教育課程の特徴">
+	<alert>縦</alert>方向の関係が明瞭
+	<ul>
+		<li>科目<em>間</em>での系統性<br/>
+			両科目で「<em>情報デザイン</em>」「<em>プログラミング</em>」「<em>データの活用</em>」の問題解決を扱う</li>
+		<li>科目<em>内</em>での系統性<br/>
+			「科目の導入・まとめ」として総論・応用の単元が設置されている</li>
+	</ul>
+</block>
+<block title="「情報I,II」の教育課程の問題点">
+	<alert>横</alert>方向の関係が不明瞭
+	<ul>
+		<li>科目<em>間</em>での網羅性<br/>
+			「<em>情報デザイン</em>」「<em>プログラミング</em>」「<em>データの活用</em>」の3種で十分?<br/>
+			(多数ある問題解決方法のうち3つだけを選ぶ妥当性は?)</li>
+		<li>科目<em>内</em>での関連性<br/>
+			「<em>情報デザイン</em>」「<em>プログラミング</em>」「<em>データの活用</em>」の関係性は?</li>
+	</ul>
+</block>
+</frame>
+
+<frame title="\insertsection">
+<block title="懸念される問題">
+	<ul>
+		<li>「<em>なぜこの3つ</em>の問題解決を扱うのか?」が生徒に伝わらない<br/>
+			(「PCを使う内容は全て情報科」というのは、20年前の言説)</li>
+		<li>体系性のない<em>断片的な授業</em>が実施される可能性がある<br/>
+			(3つバラバラなプロジェクト実習をやっても、生徒が体系的に理解できない)</li>
+		<li>年間計画上で<em>適切な時間配分</em>が実施されない可能性がある<br/>
+			(授業時間の大半がプログラミングとデータ分析! …他の単元は?)</li>
+	</ul>
+</block>
+
+<block title="研究目的" class="alert">
+	共通教科「情報」で扱う問題解決方法の<alert>妥当性</alert>と、各方法間の<alert>関連性</alert>を明らかにする
+	<ul>
+		<li>Peirceによる<alert>推論</alert>方法の分類<cite id="peirce-inference"/>と<alert>探究</alert>段階論<cite id="peirce-inquiry"/>に基づく分析</li>
+		<li>各単元を授業で扱う際の<alert>指針</alert>を示し、<alert>教科書の活用法</alert>を検討</li>
+	</ul>
+</block>
+</frame>
+</s>
+
+
+<s h="Previous works">
+<frame title="\insertsection">
+<block title="Bruner『教育の過程』">
+	「ものごとは<alert>関連</alert>しているのであって<em>孤立しているのではない</em>」<cite id="bruner"/>
+	<ul>
+		<li>教科の<alert>構造(structure)</alert>: 「どのようにものごとが<em>関連</em>しているか」</li>
+		<li>「研究分野の基礎的な、つまり、その<em>根底にある原理を明確に反映している教育課程をどのように編成</em>するか」が重要</li>
+		<li>「細かい部分は構造化された<em>全体のパターンのなかに位置づけられるのでなければ、急速に忘れ去られる</em>」</li>
+		<li>「知識を獲得しても、それを相互に結合するだけの<em>十分な構造をもたなければ、その知識は忘れられがち</em>」</li>
+	</ul>
+</block>
+</frame>
+
+<frame title="\insertsection">
+	<block title="情報教育における「構造」?">
+		教科の<em>構造</em>が見えづらく、<em>位置づけ</em>や<em>意義</em>が明らかでない<br/>
+		例) プログラミング・Computational Thinking・データサイエンス・統計・人工知能・問題解決・メディアリテラシー・コミュニケーション・デザイン・マルチメディア・情報モラル・ネチケット・ITリテラシー・…
+	</block>
+
+	<block title="情報教育における構造化の試み">
+		<ul>
+			<li>日本学術会議「大学教育の分野別質保証のための教育課程編成上の<em>参照基準</em> 情報学分野」(2016)<cite id="scj-info"/></li>
+			<li>日本学術会議「情報教育課程の<em>設計指針</em>――初等教育から高等教育まで」(2020)<cite id="scj-edu"/></li>
+			<li>文部科学省「高等学校<em>学習指導要領</em>」(2018)<cite id="mext"/><br/>
+				(「情報A・B・C」→「社会と情報・情報の科学」→「情報I(必履修)・II(選択)」)</li>
+		</ul>
+	</block>
+</frame>
+
+<frame title="\insertsection">
+<block title="「問題」と「問題解決」">
+	<alert>問題(problem)</alert>: <em>現在の状態(As-Is)</em>と<em>目標の状態(To-Be)</em>の間の<em>差異</em>(Simon<cite id="simon"/><cite id="simon-j"/><cite id="simon2"/>)
+	<ul>
+		<li><em>解(solution)</em>: 現在の状態から目標の状態へ至る<em>経路</em></li>
+		<li><em>問題解決(problem solving)</em>: 問題の<em>解を発見</em>すること</li>
+	</ul>
+</block>
+<img src="problem.svg" scale=".75"/>
+</frame>
+
+<frame title="\insertsection">
+<block title="例: 問題定義の例" class="example">
+	<em>問題</em>: <alert>20代の投票率</alert><cite id="mic"/>
+	<ul>
+		<li><em>現状</em>: 20代の投票率が<alert>4割以下</alert>である(という状態)</li>
+		<li><em>目標</em>: 20代の投票率が<alert>5割以上</alert>である(という状態)</li>
+	</ul>
+</block>
+<img src="problem.svg" scale=".75"/>
+</frame>
+
+<frame title="\insertsection">
+	<block title="Peirceの推論分類" class="alert">
+		<ul>
+			<li><alert>アブダクション(abduction)</alert>: <em>規則</em>と<em>結果</em>から<em>事例</em>を推論</li>
+			<li><alert>演繹(deduction)</alert>: <em>事例</em>と<em>規則</em>から<em>結果</em>を推論</li>
+			<li><alert>帰納(induction)</alert>: <em>結果</em>と<em>事例</em>から<em>規則</em>を推論</li>
+		</ul>
+		※桐原書店『探求 現代の国語』(現国717)に上記に近い記載あり
+	</block>
+	<img src="logic-inference.svg" scale=".45"/>
+</frame>
+
+<frame title="\insertsection">
+	<block title="Peirceの探究段階" class="alert">
+		<ol>
+			<li><alert>アブダクション</alert>による仮説の考案<br/>
+				既知の知識(規則)と観察した現象(結果)から、現象を説明する仮説(事例)を推論する</li>
+			<li><alert>演繹</alert>による仮説の検証可能化<br/>
+				考案した仮説(事例)と既知の知識(規則)から、観察可能な現象(結果)を推論する</li>
+			<li><alert>帰納</alert>による仮説の実証<br/>
+				実験で観察できた現象(結果)と実験に用いた対象(事例)から、知識(規則)の正しさを推論する</li>
+		</ol>
+	</block>
+</frame>
+
+<frame title="\insertsection">
+	<block title="例: Peirceの探究段階に基づく問題解決の例" class="example">
+		<em>目標</em>: 20代の投票率が<alert>5割以上</alert>である(という状態)
+		<ol>
+			<li><alert>アブダクション</alert>による仮説の考案<br/>
+				例: 「方法を知っていれば行動する」(規則)と「(主権者教育を行った)10代の投票率は高い」(結果)から「20代に投票方法を伝える」(事例)を推論</li>
+			<li><alert>演繹</alert>による仮説の検証可能化<br/>
+				例: 「20代に投票方法を伝える」(事例)と「方法を知っていれば行動する」(規則)から現象「20代の投票率が上がる」(結果)を推論</li>
+			<li><alert>帰納</alert>による仮説の実証<br/>
+				例: 「20代に投票方法を伝える」(事例)と「20代の投票率が上がる(?)」(結果)から「方法を知っていれば行動する」(規則)の正しさを推論</li>
+		</ol>
+	</block>
+</frame>
+</s>
+
+<s h="Apply">
+<frame title="\insertsection">
+	<block title="対応付け">
+		<em>情報科で扱う問題解決方法</em>と<em>Peirceの探究段階</em>を対応させる
+	</block>
+
+	<img src="inquiry-table.svg"/>
+</frame>
+
+<frame title="\insertsection">
+	<block title="「情報デザイン」による問題解決" class="alert">
+		情報デザインでは<alert>アブダクション</alert>の段階が重要
+		<ul>
+			<li>Rowe『デザインの思考過程』<cite id="rowe"/>:<br/>
+				アブダクションは「デザインにおいて、極めて一般的なこと」</li>
+			<li>吉川『一般デザイン学』<cite id="yoshikawa"/>:<br/>
+				デザインを「<em>誤りの可能性のあるアブダクションによって提案</em>し、それを検証することによって実在のものとする」ことが人類の歴史</li>
+		</ul>
+	</block>
+</frame>
+
+<frame title="\insertsection">
+	<block title="例: アブダクションに焦点化した「情報デザイン」で扱える事項" class="example">
+		<ul>
+			<li>コミュニケーションの基礎理論:<br/>
+				記号論・encoding/decoding(S.Hall)・コミュニケーションモデル・アフォーダンス・シグニファイア(シニフィアン)・ゲシュタルト心理学・感覚の多様性・ユーザ体験(UX)・Postelの法則</li>
+			<li>発想の概念と方法:<br/>
+				創発・アイデア・イノベーション・水平思考・SCAMPER・発想法・抽象化(モデル化)・可視化・図解・ファシリテーショングラフィック・グラフィックレコーディング(GR)</li>
+			<li>デザインの方法:<br/>
+				ユニバーサルデザイン(UD)・インクルーシブデザイン・人間中心設計(HCD)・ペルソナ法・デザイン思考・アートとデザインの違い</li>
+		</ul>
+	</block>
+</frame>
+
+<frame title="\insertsection">
+	<block title="「プログラミング」による問題解決" class="alert">
+		プログラミングでは<alert>演繹</alert>の段階が重要
+		<ul>
+			<li>文科省<cite id="mext-prog"/>の「プログラミング的思考」:<br/>
+				「自分が意図する一連の活動を実現するために、<em>どのような動きの組合せが必要</em>であり、一つ一つの<em>動きに対応した記号を、どのように組み合わせたら</em>いいのか、<em>記号の組合せをどのように改善していけば、より意図した活動に近づく</em>のか、といったことを<alert>論理的に</alert>考えていく力」</li>
+		</ul>
+	</block>
+</frame>
+
+<frame title="\insertsection">
+	<block title="例: 演繹に焦点化した「プログラミング」で扱える事項" class="example">
+		<ul>
+			<li>演繹論理の基礎理論:<br/>
+				Modus ponens・三段論法・証明図・状態・状態遷移・オートマトン・Turing Machine・Hoare論理</li>
+			<li>プログラムの基礎概念:<br/>
+				プログラム・逐次・選択・反復・構造化定理・論理回路・アルゴリズム・フローチャート・UML・計算量・複雑性・停止性</li>
+			<li>還元主義の基礎概念:<br/>
+				分割統治法・関数・クラス・ライブラリ・メッセージ交換・凝集度・結合度・DRY原則・OSI階層モデル</li>
+		</ul>
+	</block>
+</frame>
+
+<frame title="\insertsection">
+	<block title="「データの活用」による問題解決" class="alert">
+		データの活用では<alert>帰納</alert>の段階が重要
+		<ul>
+			<li>Hume<cite id="hume"/>の<em>自然の斉一性原理</em>:<br/>
+				「<em>経験されなかった(標本集合にない)事例は、経験された(標本集合にある)事例に必ず類似</em>し、自然の歩みは、常に一様に同じであり続ける」</li>
+			<li>大塚『統計学を哲学する』<cite id="otsuka"/>:<br/>
+				推測統計は「データの背後に控える「存在」として確率モデル(確率分布)を導入することで、<em>帰納推論</em>を行う」<br/>推測統計は「斉一性条件をより洗練された<em>IID(独立同一分布)条件</em>として定式化する」</li>
+		</ul>
+	</block>
+</frame>
+
+<frame title="\insertsection">
+	<block title="例: 帰納に焦点化した「データの活用」で扱える事項" class="example">
+		<ul>
+			<li>統計学の基礎理論:<br/>
+				標本・社会調査・データ・実験計画法・尺度・群・一般化・外れ値・欠損・回帰・推定・検定</li>
+			<li>関係データの基礎概念:<br/>
+				関係・相関・因果・バイアス・独立性・関数従属性・正規化</li>
+			<li>確率的なプログラミング:<br/>
+				乱数・シミュレーション・機械学習・パーセプトロン・パターン認識・転移学習・情報推薦・決定木・ニューラルネット・ビッグデータ・人工知能・説明可能AI(XAI)</li>
+		</ul>
+	</block>
+</frame>
+</s>
+
+
+<s h="Survey and Result">
+<frame title="\insertsection">
+	<block title="Survey">
+		情報I(+技術分野)の教科書すべてを教科書展示会で調査
+		<ul>
+			<li>Peirceの探究段階を掲載している教科書はない</li>
+			<li>問題解決の扱いの観点から各教科書を調査</li>
+		</ul>
+	</block>
+
+	<block title="調査内容">
+		<ol>
+			<li>各教科書の<em>全体の構成</em>はどうなっているか?</li>
+			<li>各教科書の<em>各単元の分量・比率</em>はどうなっているか?</li>
+			<li>各教科書で<em>問題の定義</em>はどうなっているか?</li>
+			<li>各教科書の<em>問題解決手順</em>はどう示されているか?</li>
+		</ol>
+	</block>
+</frame>
+
+<frame title="\insertsection">
+	<block title="調査1: 全体の構成(概要)">
+		<ul>
+			<li>情I707(開隆堂)以外: 学習指導要領の各単元に対応する章が存在</li>
+			<li>情I707(開隆堂)以外: 最初の章は「情報社会の問題解決」の内容</li>
+			<li>情I710(日文)以外: <alert>3種の問題解決方法を扱う構造を明示していない</alert></li>
+		</ul>
+	</block>
+
+	<block title="調査1: 全体の構成(詳細)">
+		<ul>
+			<li>情I702(東書): 5章が<em>実習のみをまとめた「問題解決」という章</em><br/>
+				(問題解決には理論がないように見える)</li>
+			<li>情I703, 704, 705(実教): <em>データ分析の章見出しに「問題解決」</em>を含む<br/>
+				(他の章では問題解決を扱わないように見える)</li>
+			<li>情I705(実教): 1章に現れるのは「課題解決」のみ<br/>
+				(「問題解決」の記載がない)</li>
+			<li>情I707(開隆堂): 1章は「情報の表現」(デジタル化)<br/>(2章「コミュニケーション」で初めて「問題解決」が現れる)</li>
+		</ul>
+	</block>
+</frame>
+
+<frame title="\insertsection">
+	<block title="調査2: 各単元の分量・比率">
+		<ul>
+			<li>Peirceの探究段階に依拠するなら、3種の問題解決方法を均等に扱うべき</li>
+			<li>問題解決・情報デザイン・プログラミング・データの活用に関するページ数のみを100\%換算して比較<br/>
+				除外項目: 情報社会・情報法・情報モラル・デジタル化・コンピュータの構成・ネットワーク・データベース・<em>モデル化とシミュレーション</em>(3種を複合した内容のため)</li>
+		</ul>
+	</block>
+</frame>
+
+<frame title="\insertsection">
+	<img src="comparison-unit1.svg" scale=".6"/>
+</frame>
+
+<frame title="\insertsection">
+	<img src="comparison-unit2.svg" scale=".6"/>
+</frame>
+
+<frame title="\insertsection">
+	<img src="comparison-unit3.svg" scale=".6"/>
+</frame>
+
+<frame title="\insertsection">
+	<block title="調査2: 各単元の分量・比率">
+		<ul>
+			<li>図説系の教科書で「情報デザイン」が多い傾向にあるが、問題解決の内容込みで掲載したり、画像を多用したりと、内容が充実していないものもある</li>
+			<li>情I711, 712(日文):<br/>
+				半分が実習編のため、問題解決に関するページ数は多い</li>
+			<li>情I703, 704(実教), 707(開隆堂): 比率に偏りがあり、情報デザインが占める割合が約10\%</li>
+			<li>情I713(第一): 問題解決に関する説明がきわめて少ない</li>
+			<li>ブレインストーミングなどの発想法は、問題解決の内容に記載されることが多い</li>
+		</ul>
+	</block>
+</frame>
+
+<frame title="\insertsection">
+	<block title="調査3: 問題の定義(情報I)">
+		大半の教科書で、1章でSimon<cite id="simon"/><cite id="simon-j"/><cite id="simon2"/>に近い定義を明記
+		<ul>
+			<li>情I705(実教): 定義は5章に現れる</li>
+			<li>情I706(実教):<br/>
+				定義自体は明記されていないが、図や本文にほぼ同じ表現がある</li>
+			<li>情I707(開隆堂): 定義は2章に現れる</li>
+			<li>情I708, 709(数研), 情I711, 712(日文): 問題の定義がない</li>
+		</ul>
+	</block>
+
+	<block title="調査3: 問題の定義(技術)">
+		本文中でSimonの定義を示した教科書はない
+		<ul>
+			<li>技術701(東書): 「現状と理想」の「差」に着目させるセリフを記載</li>
+			<li><alert>技術702(703), 704 → 情I708, 709, 711(712)と辿ると、<br/>
+				問題の定義に出会えないまま高校を卒業することになる</alert><br/>
+				(共通テストを考慮すれば、教員の補足説明が必要?)</li>
+		</ul>
+	</block>
+</frame>
+
+<frame title="\insertsection">
+	<block title="調査4: 問題解決手順">
+		各教科書の問題解決手順を比較
+		<ul>
+			<li>Levenshtein距離(編集距離)を使用し類似度を定義
+				<md>\[
+					<mrow>\text{類似度}(s_1, s_2) = (1 - \frac{\text{Levenshtein}(s_1, s_2)}{\max(\text{len}(s_1), \text{len}(s_2))}) \times 100 (\%)</mrow>
+				\]</md></li>
+			<li>手順間の遷移は、矢印1字分として扱う</li>
+		</ul>
+	</block>
+</frame>
+
+<frame title="\insertsection">
+	<img src="comparison-step.svg" scale=".4"/>
+</frame>
+
+<frame title="\insertsection">
+	<img src="comparison-distance.svg" scale=".4"/>
+</frame>
+
+<frame title="\insertsection">
+	<block title="調査4: 問題解決手順">
+		中高を通して各教科書で表記や手順数が異なる<br/>
+		(<em>おそらく同じ起源なのに</em>手順の表記が異なるのは問題)
+		<ul>
+			<li>情I701(東書): 文科省の研修用教材と近い表記(類似度77\%)</li>
+			<li>情I708,709(数研): 同一社内で類似した表記(類似度80\%)</li>
+			<li><alert>技術分野: 全教科書で問題解決を柱にしている</alert></li>
+		</ul>
+	</block>
+</frame>
+</s>
+
+
+<s h="Conclusion">
+<frame title="\insertsection">
+<block title="Contribution">
+	共通教科「情報」で扱う問題解決方法の<alert>妥当性</alert>と<alert>関連性</alert>を示し、<br/>
+	<em>教科書の記述との対応を調査</em>
+	<ul>
+		<li>Peirceの探究段階(アブダクション → 演繹 → 帰納)に基づき説明</li>
+		<li>各単元で、探究段階のどの部分に焦点化すべきかを提示</li>
+		<li>各教科書の問題解決に関する記述を比較し、活用できるか検討</li>
+	</ul>
+</block>
+
+<block title="Future tasks">
+	<ul>
+		<li>各単元の実習で扱う教材の開発</li>
+		<li>本発表の指針に基づく授業の実施・評価</li>
+	</ul>
+</block>
+</frame>
+</s>
+</article>
+</log>
